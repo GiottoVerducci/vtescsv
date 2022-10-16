@@ -42,7 +42,7 @@ Pours blended evil and beneficence...
 Charles Baudelaire, ""Hymn to Beauty""","Jyhad:U, VTES:U, CE:U, KoT:U, FB:PTo3, Promo-20211015","","Dave Roach & Pete Burges; Chris Stevens; Dave Roach & Pete Burges",""
 "100019","Acquired Ventrue Assets","","Master","Giovanni","","","","","","Put this card in play with 1 blood for each Giovanni you control. During your master phase, you can move 1 blood from this card to a Giovanni you control. Burn this card if it has no blood. Any non-Ventrue minion can burn this card as a (D) action.","","DS:U, FN:PG, POD:DTC","","Richard Kane Ferguson",""
 "100020","Acrobatics","","Combat","","Celerity","","1","","","[cel] Additional strike {(limited)}.
-[CEL] Strike: dodge, with an additional strike {(limited)}.","","Jyhad:C, VTES:C, SW:PB, CE:C/PB2, BH:PTo4, KMW:PAl2/PG3, Third:C/PB3","","Douglas Shuler",""
+[CEL] Strike: dodge, with an additional strike {(limited)}.","","Jyhad:C, VTES:C, SW:PB, CE:C/PB2, BH:PTo4, KMW:PAl2/PG3, Third:C/PB3/SKB2","","Douglas Shuler",""
 "100021","Adaptability","","Combat","","Protean","","1","","","[pro] {This vampire treats all aggravated damage from the opposing minion's strike as normal damage.}
 [PRO] Prevent all aggravated damage from the opposing minion's strike.","A permanent state of transition is man's most noble condition.
 Juan Ramon Jiminez","Sabbat:R, SW:R","","Hannibal King",""
@@ -97,7 +97,7 @@ Put this card in play with 1 counter for each Tremere and Gargoyle you control. 
 "100042","Amam the Devourer","Amam the Devourer (Bane Mummy)","Ally","Follower of Set","","2","","","","Unique mummy with 3 life. 2 strength, 0 bleed.
 Amam can enter combat with a minion as a (D) action. Amam can burn a vampire in torpor to gain 1 life as a (D) action. If a minion opposing Amam in combat is burned, Amam can gain 1 life. If Amam is burned, shuffle him into his owner's library.","","FN:R2, POD:DTC","","Lawrence Snelly",""
 "100043","Amaranth","","Combat","","","","","","","Only usable by a vampire who can commit diablerie. Only usable when the opposing vampire should go to torpor. Diablerize the opposing vampire instead. Not usable by a vampire being burned or going to torpor.","Thou shalt not slay thy sire and drink his heart's blood.
-The Book of Nod","Jyhad:U, VTES:U, CE:U, Anarchs:PAG, BH:PTo2, Third:PTz, KoT:U","","Jeff Menges; Alejandro Collucci",""
+The Book of Nod","Jyhad:U, VTES:U, CE:U, Anarchs:PAG, BH:PTo2, Third:PTz/SKTz, KoT:U","","Jeff Menges; Alejandro Collucci",""
 "100044","Ambrosius, The Ferryman","Ambrosius, The Ferryman (Wraith)","Ally","Giovanni","","3","","","","Unique wraith with 2 life. 1 strength, 0 bleed.
 Ambrosius can move a retainer from your ash heap to a ready vampire you control and put 3 pathos counters on that retainer as an action. During your unlock phase, burn 1 pathos counter from that retainer. Remove the retainer from the game if it has no pathos counters. Ambrosius is immune to non-aggravated damage.","","AH:R2, FN:PG, POD:DTC","","Alan Rabinowitz",""
 "100045","Ambulance","","Equipment","","","1","","","","Vehicle.
@@ -111,7 +111,7 @@ William Shakespeare, ""Hamlet"", act I, scene 3","FN:C2/PR, LotN:PR2, POD:DTC","
 This vampire can burn 1 blood to play a card requiring basic Temporis [tem] from your hand. This equipment can be used only once each turn.","","HttB:R/B1","","Nicolas Bigot",""
 "100049","Amusement Park Hunting Ground","","Master","Brujah antitribu","","2","","","","Master: unique location. Hunting ground.
 During your unlock phase, you may move 1 blood from the blood bank to a ready vampire you control. A vampire can gain blood from only one hunting ground card each turn.","Definitely an E ticket!
-Julie, Brujah antitribu","Sabbat:U, SW:U/PB, Third:PB/SKB1","","Dave Seeley",""
+Julie, Brujah antitribu","Sabbat:U, SW:U/PB, Third:PB/SKB","","Dave Seeley",""
 "100050","Anachronism","","Master","","","1","","","","Master.
 Put this card on a vampire with capacity above 6. This vampire cannot have or use any ranged weapons except the Ivory Bow. (If he or she currently has any, they are burned.)","","AH:C2, Tenth:B","","Drew Tucker",""
 "100051","Ananasi Vampirephile","","Ally","Guruhi","","4","","","","Werewolf with 4 life. 2 strength, 1 bleed.
@@ -189,7 +189,7 @@ Prince Giangaleazzo, Lasombra antitribu","Promo-20040411","2016","Becky Jollenst
 Rainer Maria Rilke, ""Duino Elegy #7""","DS:C2, FN:PR3, LotN:PR4, POD:DTC","","Stuart Beel; Craig Grant",""
 "100077","Apportation","","Combat","","Thaumaturgy","","","","","[tha] Press, only usable to continue combat.
 [THA] Maneuver.","The gun flew from my hands like God himself chose to intervene.
-Jacob Bragg","Sabbat:C, CE:C/PTr5, BH:PTr4, KMW:PB, Third:C/PTr5, FB:PTr4, V5:PTr4, NB:PTr3","","Clint Langley",""
+Jacob Bragg","Sabbat:C, CE:C/PTr5, BH:PTr4, KMW:PB, Third:C/PTr5/SKTr4, FB:PTr4, V5:PTr4, NB:PTr3","","Clint Langley",""
 "100078","Approximation of Loyalty","","Action Modifier","","Presence","","1","","","Requires a vampire with capacity 7 or more.
 [pre] Only usable as the action is announced. Choose a vampire with capacity 6 or less or an ally. That minion cannot block this action.
 [PRE] Cancel a reaction card played by a vampire with capacity 6 or less or an ally as it is played (no cost is paid). No more action modifiers can be played on this action.","","Gehenna:C, KMW:PAn2, LotN:PS3, KoT:C/PT4","","Monte Moore",""
@@ -283,9 +283,9 @@ Bartholomew, Kiasyd","BL:C2, LoB:C, HttB:PKia4","","Mike Danza",""
 If this referendum passes, put this card on the acting vampire and put a counter on this card. This vampire gets an additional vote for each counter on this card in referendums he or she calls. Add a counter to this card when a referendum called by this vampire passes. If a referendum called by this vampire fails, burn this card and send this vampire to torpor. A vampire can have only one Aura of Invincibility.","","Gehenna:C, Third:PB, KoT:C/PV3","","William O'Connor",""
 "100113","Aura Reading","","Combat","","Auspex","","","","","Only usable before range is chosen.
 [aus] The opposing minion's controller plays with an open hand for the remainder of combat.
-[AUS] You get +2 hand size for the remainder of this combat. A vampire can play only one Aura Reading at superior each combat.","","Jyhad:U2, VTES:U, CE:C/PTr2, BH:PTr2, Third:PTz/SKTz1, KoT:U","","Harold Arthur McNeill; Leif Jones",""
+[AUS] You get +2 hand size for the remainder of this combat. A vampire can play only one Aura Reading at superior each combat.","","Jyhad:U2, VTES:U, CE:C/PTr2, BH:PTr2, Third:PTz/SKTz, KoT:U","","Harold Arthur McNeill; Leif Jones",""
 "100114","Auspex","","Master","","","","","","","Master: Discipline.
-Put this card on a vampire. This vampire gains 1 level of Auspex [aus]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Auspex [AUS].","","Jyhad:C, VTES:C, Sabbat:C, SW:C/PT/PV, CE:C, Third:PTz/SKTz1, KoT:PM/PT, HttB:PSal","","Richard Thomas; Greg Simanson","+1"
+Put this card on a vampire. This vampire gains 1 level of Auspex [aus]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Auspex [AUS].","","Jyhad:C, VTES:C, Sabbat:C, SW:C/PT/PV, CE:C, Third:PTz/SKTz, KoT:PM/PT, HttB:PSal","","Richard Thomas; Greg Simanson","+1"
 "100115","Autarkis Persecution","","Political Action","","","","","","","Successful referendum means each Methuselah gains 1 pool for each minion he or she controls.","","Jyhad:C, VTES:C, SW:PB, CE:C","","Mike Raabe",""
 "100116","Auto-da-fé","","Political Action","","","","","","","Requires a cardinal, regent or Inquisitor.
 Choose a vampire with capacity less than 8. Successful referendum means that vampire's controller burns X pool or burns that vampire, where X is the difference between 8 and that vampire's capacity.","","Third:U","","Avery Butterworth",""
@@ -498,7 +498,7 @@ Put this card on a ready Blood Brother you control. This Blood Brother gets +1 l
 Edgar Allan Poe, ""The Pit and the Pendulum""","FN:C2, POD:DTC","","Brian LeBlanc",""
 "100198","Blood Cult Awareness Network","","Event","","","","","","","Inquisition.
 Requires a ready imbued in play. Whenever there are any ready imbued in play, any action to put a vampire or ghoul in play or to add counters to an uncontrolled vampire gets -1 stealth and costs an additional blood or life.","","NoR:R","","Mark Poole",""
-"100199","Blood Doll","","Master","","","","","","","Put this card on a vampire you control. During their master phase, this vampire's controller can move 1 blood from this vampire to their pool or from their pool to this vampire.","","Jyhad:C, VTES:C, Sabbat:C, SW:PB/PL/PT/PV, FN:PA/PG/PR/PS, CE:PB/PM/PN2/PTo2/PTr2/PV, Anarchs:PAG3/PG2, BH:PM2/PN2/PTr2, KMW:PB3/PG3/PAn2, LoB:PA3/PI2/PO2, Third:PB2/PM2/PTr2/PTz2/SKB2/SKTr2/SKTz2, FB:PM3/PN3/PTo3/PTr2/PV3, V5:PM4/PV3, V5A:PB4/PG4/PMin4, NB:PM2/PN3/PTr2/PV2","","Anson Maddocks; Lawrence Snelly",""
+"100199","Blood Doll","","Master","","","","","","","Put this card on a vampire you control. During their master phase, this vampire's controller can move 1 blood from this vampire to their pool or from their pool to this vampire.","","Jyhad:C, VTES:C, Sabbat:C, SW:PB/PL/PT/PV, FN:PA/PG/PR/PS, CE:PB/PM/PN2/PTo2/PTr2/PV, Anarchs:PAG3/PG2, BH:PM2/PN2/PTr2, KMW:PB3/PG3/PAn2, LoB:PA3/PI2/PO2, Third:PB2/PM2/PTr2/PTz2/SKB2/SKM2/SKTr2/SKTz2, FB:PM3/PN3/PTo3/PTr2/PV3, V5:PM4/PV3, V5A:PB4/PG4/PMin4, NB:PM2/PN3/PTr2/PV2","","Anson Maddocks; Lawrence Snelly",""
 "100200","Blood Feast","","Action","","","","1","","","+1 stealth action. Requires a ready archbishop, priscus, cardinal or regent.
 Each ready Sabbat vampire you control gains 1 blood from the blood bank.","Fear and suffering
 Have fled to the heavens
@@ -741,7 +741,7 @@ During your unlock phase, you may move 1 blood from the blood bank to a ready va
 Madame de Lambert","LotN:C, KoT:C/PV3","","Brian LeBlanc",""
 "100290","Canine Horde","","Combat","","Animalism","","","","","[ani] Strike: 1R damage.
 [ANI] Strike: ranged; destroy equipment with first strike.","Cry ""Havoc!"" and let slip the dogs of war.
-William Shakespeare, ""Julius Caesar"", act III, scene 1","Jyhad:C, VTES:C, Sabbat:C, SW:PT, CE:C/PN, Anarchs:PG2, LoB:PA, Third:PTz/SKTz1","","Anson Maddocks; Dave Seeley",""
+William Shakespeare, ""Julius Caesar"", act III, scene 1","Jyhad:C, VTES:C, Sabbat:C, SW:PT, CE:C/PN, Anarchs:PG2, LoB:PA, Third:PTz/SKTz","","Anson Maddocks; Dave Seeley",""
 "100291","Canopic Jar","","Equipment","","Serpentis","","","","","[ser] Choose a ready minion. The bearer gets +1 intercept against the chosen minion. If the bearer blocks the chosen minion, the bearer can burn this equipment before block resolution to cancel combat and unlock.
 [SER] As above, and the chosen minion burns 1 blood or life after this equipment is burned.","","FN:C2, POD:DTC","","Mark Nelson",""
 "100292","Capitalist","","Master","","","","","","","Master: archetype.
@@ -796,7 +796,7 @@ Put this card on a vampire you control. Once each turn, this vampire can burn 1 
 "100311","Cave of Apples","","Master","Follower of Set","","3","","","","Unique location.
 Any Follower of Set you control can put 1 corruption counter on an ally or younger vampire controlled by your prey as a (D) action. If the action is successful and the number of your corruption counters on the minion equals or exceeds their capacity or cost, you can burn those counters to steal that minion.","","LotN:R, POD:DTC","","Alexander Dunnigan",""
 "100312","Celerity","","Master","","","","","","","Master: Discipline.
-Put this card on a vampire. This vampire gains one level of Celerity [cel]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Celerity [CEL].","","Jyhad:C, VTES:C, Sabbat:C, SW:C/PB, FN:PA, CE:C, Anarchs:PAG, KMW:PAl, LoB:PI/PO, Third:PB/SKB1, KoT:PB/PT","","Nicola Leonard; Greg Simanson; Peter Mohrbacher","+1"
+Put this card on a vampire. This vampire gains one level of Celerity [cel]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Celerity [CEL].","","Jyhad:C, VTES:C, Sabbat:C, SW:C/PB, FN:PA, CE:C, Anarchs:PAG, KMW:PAl, LoB:PI/PO, Third:PB/SKB, KoT:PB/PT","","Nicola Leonard; Greg Simanson; Peter Mohrbacher","+1"
 "100313","Celestial Harmony","","Action","","Auspex","","","","","+1 stealth action.
 [aus] (D) Choose a Methuselah. That Methuselah selects all but one of the cards in his or her hand and shows them to you.
 [AUS] As above, but all Methuselahs are chosen.","","BH:R","","Fred Harper",""
@@ -1343,7 +1343,7 @@ Cancel the referendum. Unlock the acting vampire. If a political action card was
 "100520","Delivery Truck","","Equipment","","","","","","","Vehicle.
 During your master phase, you may show a non-location equipment card from your hand to the other players and place it face down on the Delivery Truck if it doesn't already have one. You may look at the card at any time. Any minion you control may equip that card (face up) as a +1 stealth action (requirements and cost apply as normal). A minion may have only one vehicle.","","Anarchs:R, KoT:R","","Jeff Holt",""
 "100521","Dementation","","Master","","","","","","","Master: Discipline.
-Put this card on a vampire. This vampire gains 1 level of Dementation [dem]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Dementation [DEM].","","Sabbat:C, SW:C, CE:C/PM2, Third:PM/SKM1, KoT:PM","","Alan Rabinowitz; Brian LeBlanc","+1"
+Put this card on a vampire. This vampire gains 1 level of Dementation [dem]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Dementation [DEM].","","Sabbat:C, SW:C, CE:C/PM2, Third:PM/SKM, KoT:PM","","Alan Rabinowitz; Brian LeBlanc","+1"
 "100522","Demonstration","","Master","Ventrue antitribu","","1","","","","Unique master.
 Put this card in play. Lock to cancel the votes and ballots of any vampire during the referendum of a political action.","","Sabbat:U, SW:PV, Third:U","","Peter Kim",""
 "100523","Denial of Aphrodite's Favor","","Combat/Reaction","","Dominate & Fortitude","","","","","[dom][for] Cancel an action card a younger vampire plays that requires Presence [pre] as it is played. No cost is paid. Do not lock the acting vampire; that vampire cannot attempt the same action again this turn.
@@ -1438,7 +1438,7 @@ Lynyrd Skynyrd, ""Gimme Three Steps""","KMW:C, Third:PM2","","Roel Wielinga",""
 [OBF] As above, but usable when choosing a strike.","","Jyhad:C, VTES:C, Sabbat:C, SW:C, CE:C/PM2, LoB:PO","","Eric LaCombe; Anson Maddocks",""
 "100556","Dismemberment of Osiris","","Action","","Serpentis","","1","","","[ser] (D) Burn a titled vampire in torpor (this is not diablerie). Each ready vampire of the same clan as the titled vampire burns 1 blood.
 [SER] As above, and the titled vampire's controller burns 1 pool.","","FN:R2, POD:DTC","","Steve Ellis",""
-"100557","Disputed Territory","","Political Action","","","","","","","Choose a location and a Methuselah. Successful referendum means the chosen Methuselah takes control of the chosen location.","","Jyhad:C, VTES:C, Sabbat:C, SW:PL/PV2, FN:PG, CE:PN/PV, Anarchs:PAB, BH:PTo, LoB:PG, Third:PB/SKB1","","L. A. Williams; Stuart Beel",""
+"100557","Disputed Territory","","Political Action","","","","","","","Choose a location and a Methuselah. Successful referendum means the chosen Methuselah takes control of the chosen location.","","Jyhad:C, VTES:C, Sabbat:C, SW:PL/PV2, FN:PG, CE:PN/PV, Anarchs:PAB, BH:PTo, LoB:PG, Third:PB/SKB","","L. A. Williams; Stuart Beel",""
 "100558","Dissolution","","Combat","","Protean","","1","","","[pro] Maneuver or press.
 [PRO] Maneuver, with an optional press.","Imperious, choleric, irascible, extreme in everything, with a dissolute imagination the like of which has never been seen...
 Marquis de Sade, ""Last Will and Testament""","Sabbat:U, SW:U, Third:U","","Ron Spencer",""
@@ -1475,7 +1475,7 @@ Minions opposing the minion with this retainer cannot end combat as a strike.","
 [tem] If this action is blocked, all damage done to vampires in the resulting combat is aggravated.
 [TEM] Only usable when an action is successful. Usable after resolution. Unlock this acting vampire. A vampire can play only one Domain of Evernight at superior each turn.","","BL:C1, LoB:C","","Brian LeBlanc",""
 "100572","Dominate","","Master","","","","","","","Discipline.
-Put this card on a vampire. This vampire gets +1 level of Dominate [dom] and +1 capacity. Cannot be put on a vampire with superior Dominate [DOM].","","Jyhad:C, VTES:C, Sabbat:C, SW:C/PL/PV, FN:PG, CE:C, Third:PTr/SKTr1, KoT:PV, HttB:PKia, NB:PV1","","Douglas Shuler; Mike Dringenberg; Marco Marzoni","+1"
+Put this card on a vampire. This vampire gets +1 level of Dominate [dom] and +1 capacity. Cannot be put on a vampire with superior Dominate [DOM].","","Jyhad:C, VTES:C, Sabbat:C, SW:C/PL/PV, FN:PG, CE:C, Third:PTr/SKTr, KoT:PV, HttB:PKia, NB:PV1","","Douglas Shuler; Mike Dringenberg; Marco Marzoni","+1"
 "100573","Dominate Kine","Kine Dominance","Action","","Dominate","","2","","","[dom] +1 stealth action. (D) Bleed with +1 bleed.
 [DOM] (D) Steal a location.","There is no living in this world without stealing.
 Francisco de Quevedo, ""El Buscón""","Jyhad:R, VTES:R, CE:R/PV, Third:PTr, LotN:PG2, KoT:PV, FB:PV2, NB:PV2","","Mark Poole; Brian LeBlanc",""
@@ -1593,9 +1593,9 @@ Requires at least one other Gehenna card in play. Each imbued can have (and use)
 "100615","Edged Illusion","","Action","","Chimerstry","","2","","","[chi] (D) Lock a ready minion and inflict 1 unpreventable damage on them.
 [CHI] (D) Choose any Methuselah. Inflict 1 unpreventable damage on each ready minion controlled by the chosen Methuselah.","","KMW:C, LotN:PR2, POD:DTC","","Rik Martin",""
 "100616","Effective Management","","Master","","","","","","","Master.
-Move the top card from your crypt to your uncontrolled region.","","Jyhad:C, VTES:C, SW:PL, FN:PS, CE:PM/PV, LoB:PA, Third:PM/SKM1, KoT:U/PM2, HttB:PGar2","","Né Né Thomas; Brian LeBlanc",""
+Move the top card from your crypt to your uncontrolled region.","","Jyhad:C, VTES:C, SW:PL, FN:PS, CE:PM/PV, LoB:PA, Third:PM/SKM, KoT:U/PM2, HttB:PGar2","","Né Né Thomas; Brian LeBlanc",""
 "100617","Elder Impersonation","","Action Modifier","","Obfuscate","","1","","","[obf] +1 stealth.
-[OBF] Only usable if a minion attempts to block. That attempt fails and the blocking minion cannot attempt to block this action again.","","AH:C2, FN:PS, CE:C/PM2, BH:PN2, KMW:PB2, Third:C/PM2/SKM1, FB:PM3, NB:PM2","","Steve Casper",""
+[OBF] Only usable if a minion attempts to block. That attempt fails and the blocking minion cannot attempt to block this action again.","","AH:C2, FN:PS, CE:C/PM2, BH:PN2, KMW:PB2, Third:C/PM2/SKM, FB:PM3, NB:PM2","","Steve Casper",""
 "100618","Elder Intervention","","Reaction","","","","1","","","Do not replace until after this action.
 Only usable during a bleed against you. This vampire gets +2 intercept. A vampire cannot play both Pack Tactics and Elder Intervention in the same action.","","VTES:C, CE:C, Anarchs:PG2, HttB:PSam2","","Michael Weaver; Melissa Uran",""
 "100619","Elder Kindred Network","","Reaction","Ventrue","","","","","","Only usable during a referendum before any votes or ballots are cast.
@@ -1724,7 +1724,7 @@ William Shakespeare, ""Julius Caesar"", act II, scene 1","BL:R1, LoB:R","","Kier
 "100660","Esbat","","Action","","","","","","","+1 stealth action. Requires a Sabbat vampire.
 Move 2 blood from the blood bank to an unlocked Sabbat vampire, or move 1 blood to each of two unlocked Sabbat vampires.","","Third:C","","Peter Bergting",""
 "100661","Escaped Mental Patient","","Ally","Malkavian antitribu","","2","","","","Mortal with 1 life. 1 strength, 0 bleed.
-Escaped Mental Patient can enter combat with any minion controlled by another Methuselah as a (D) action. The Patient can strike: hand strike at +1 damage, aggravated. Burn him at the end of combat if he does so.","","Sabbat:U, SW:U, BH:PM2, Third:U/PM/SKM1","","Lawrence Snelly",""
+Escaped Mental Patient can enter combat with any minion controlled by another Methuselah as a (D) action. The Patient can strike: hand strike at +1 damage, aggravated. Burn him at the end of combat if he does so.","","Sabbat:U, SW:U, BH:PM2, Third:U/PM/SKM","","Lawrence Snelly",""
 "100662","Esgrima","","Master","","","","","","","Master: unique trifle.
 Put this card in play. Lock during the referendum of a political action to give 3 additional votes to a vampire with a capacity above 6. During your discard phase, your predator takes control of Esgrima.","Regular social interaction also serves a more fundamental function: survival. Whether a Kindred likes it or not, he is eventually drawn into the games of more experienced Kindred, and rarely is that a good thing.
 Nicholas Cardiff, ghoul","Gehenna:C, KoT:PV2","","Eric Kim & Attila Adorjany",""
@@ -1893,7 +1893,7 @@ Muricia, Ahrimane","BL:C1, LoB:C","","Mark Nelson",""
 "100722","Ferraille","","Master","Follower of Set","","","","","","Unique.
 Put this card in play. Once each turn, you can burn 1 pool to get +3 votes during the polling step of any referendum.","","KMW:R, POD:DTC","","Mark Poole",""
 "100723","Festivo dello Estinto","","Master","","","1","","","","Master.
-Put this card in play. Each Sabbat vampire gets -1 stealth when hunting. Any Sabbat vampire who successfully hunts gains enough blood from the blood bank to reach full capacity. Burn this card during your unlock phase. Only one Festivo dello Estinto can be played during a game.","","Sabbat:U, SW:U/PL, Third:PTz/SKTz1","","Patrick Kochakji",""
+Put this card in play. Each Sabbat vampire gets -1 stealth when hunting. Any Sabbat vampire who successfully hunts gains enough blood from the blood bank to reach full capacity. Burn this card during your unlock phase. Only one Festivo dello Estinto can be played during a game.","","Sabbat:U, SW:U/PL, Third:PTz/SKTz","","Patrick Kochakji",""
 "100724","Fetish Club Hunting Ground","","Master","Toreador antitribu","","2","","","","Master: unique location. Hunting Ground.
 During your unlock phase, you may move 1 blood from the blood bank to a ready vampire you control. A vampire can gain blood from only one hunting ground card each turn.","Our torments may also in length of time
 Become our elements.
@@ -2299,7 +2299,7 @@ Reg Driscoll, Samedi","BL:R1, LoB:R, HttB:PSam","","Mark Nelson",""
 "100880","Hand Contract","","Master","","","","","","","Master. Contract. Trifle.
 Put this card on any ready minion and choose a Black Hand vampire. That Black Hand vampire may enter combat with the minion with this card as a +1 stealth (D) action unless they are controlled by the same Methuselah.","","SoC:C","","Brian LeBlanc",""
 "100881","Hand Intervention","","Political Action","","","","","","","Requires a titled Sabbat vampire.
-Choose a Methuselah. If this referendum is successful, put this card in play. The chosen Methuselah has -1 hand size. That Methuselah may burn this card by burning the Edge. A Methuselah may be chosen for only one Hand Intervention at a time.","","BH:C/PM, Third:PTr/SKTr1","","matrix von z",""
+Choose a Methuselah. If this referendum is successful, put this card in play. The chosen Methuselah has -1 hand size. That Methuselah may burn this card by burning the Edge. A Methuselah may be chosen for only one Hand Intervention at a time.","","BH:C/PM, Third:PTr/SKTr","","matrix von z",""
 "100882","Hand of Conrad","","Equipment","","","1","","","","Unique.
 This vampire gets superior Potence [POT]. This vampire can move a vampire from your ash heap to your uncontrolled region as an action.","","Sabbat:R, SW:R, 25th:1","","L. A. Williams",""
 "100883","Hanging Fermata","","Master","Daughter of Cacophony","","","","","","Master: out-of-turn.
@@ -2599,7 +2599,7 @@ Baltasar Gracian","Third:U, KoT:U/PV2","","Patrick McEvoy",""
 [ANI] As above, with 1 optional maneuver during the resulting combat if this vampire blocks.","Beckett had long since learned to trust his instincts. Sharp as they were, augmented by his undead abilities, they often warned him of dangers that even his night-vision and heightened senses were unable to detect.","Gehenna:C, LoB:PA3, Third:C, LotN:PR3, KoT:C, FB:PN2, V5:PN4","","Leif Jones",""
 "100996","Institution Hunting Ground","","Master","Malkavian antitribu","","2","","","","Master: unique location. Hunting ground.
 During your unlock phase, you may move 1 blood from the blood bank to a ready vampire you control. A vampire can gain blood from only one hunting ground card each turn.","Chasing an errant swarm of bees is nothing to following a naked lunatic when the fit of escaping is upon him.
-Bram Stoker, ""Dracula""","Sabbat:U, SW:U, BH:PM, Third:PM/SKM1","","Greg Loudon",""
+Bram Stoker, ""Dracula""","Sabbat:U, SW:U, BH:PM, Third:PM/SKM","","Greg Loudon",""
 "100997","Insurance Scam","","Master","","","","","","","Master.
 Put this card in play. During your turn, you may lock this card and burn X locations you control to gain X pool.","I would rather be ashes than dust! I would rather that my spark should burn out in a brilliant blaze than it should be stifled by dry-rot.
 Jack London","Tenth:A/B","","Lawrence Snelly",""
@@ -2803,7 +2803,7 @@ Only usable when a ready titled vampire controlled by another Methuselah is burn
 Each time you draw to replace a card this minion played as an acting minion, you may draw an additional card (discard afterward). A minion may have only one vehicle.","Pieterzoon's got a plane waiting, or if you've arranged one I can get you there, but we gotta go now.
 Theo Bell, Brujah archon","KMW:C, KoT:PM2","","John Bridges",""
 "101081","Leather Jacket","","Equipment","","","","","","","Equipment.
-If the action to equip with the Leather Jacket is successful, unlock the acting minion at the end of the turn. Bearer may burn Leather Jacket to prevent all the damage from the opposing minion's strike. A minion may have only one Leather Jacket.","","Sabbat:C, SW:C/PB/PT/PV, FN:PS, CE:PTo/PTr, BH:PN, Third:C/PB2/PM2/SKB1/SKM2","","Tim Bradstreet & Grant Goleash; T. Bradstreet & G. Goleash",""
+If the action to equip with the Leather Jacket is successful, unlock the acting minion at the end of the turn. Bearer may burn Leather Jacket to prevent all the damage from the opposing minion's strike. A minion may have only one Leather Jacket.","","Sabbat:C, SW:C/PB/PT/PV, FN:PS, CE:PTo/PTr, BH:PN, Third:C/PB2/PM2/SKB/SKM2","","Tim Bradstreet & Grant Goleash; T. Bradstreet & G. Goleash",""
 "101082","Leathery Hide","","Combat","Gangrel antitribu","","","","","","A vampire may play only one Leathery Hide each round.
 Prevent four non-aggravated damage from the opposing minion's strike.","","KMW:C/PG3","","Richard Thomas",""
 "101083","Leech","","Action","","","","","","","Requires a ready mortal, ghoul, or mage.
@@ -2852,7 +2852,7 @@ Put this card on an anarch. Allies cannot block this anarch. Cards that require 
 "101101","Liberty Club Intrigue","","Action","","","","","","","Requires a ready titled non-{A}narch vampire. +1 stealth action.
 Choose up to two {A}narch vampires with capacities of 5 or less. Each chosen vampire is locked and does not unlock as normal on his or her next unlock phase.","","Anarchs:R, KoT:R","","Peter Bergting",""
 "101102","Library Hunting Ground","","Master","Tzimisce","","2","","","","Unique location. Hunting ground.
-During your unlock phase, a ready vampire you control can gain 1 blood. A vampire can gain blood from only one hunting ground each turn.","","Sabbat:U, SW:U/PT, Third:PTz/SKTz1, SP:DoF1","","Mike Weaver",""
+During your unlock phase, a ready vampire you control can gain 1 blood. A vampire can gain blood from only one hunting ground each turn.","","Sabbat:U, SW:U/PT, Third:PTz/SKTz, SP:DoF1","","Mike Weaver",""
 "101103","Life Boon","","Master","","","","","","","Out-of-turn. Boon.
 Give pool to a Methuselah with no pool to keep them in the game, and put this card in play. During each of their unlock phases, you can steal 1 pool from that Methuselah. You gain any victory point gained by that Methuselah instead of them, until you are being ousted or until you have gained 1 victory point from this card. Burn this card after you have gained 1 victory point from this card.","","Jyhad:U, VTES:U, SW:PV, CE:PTo, 25th:1","","Kaja Foglio",""
 "101104","Life in the City","","Master","","","","","","","Trifle.
@@ -3371,7 +3371,7 @@ Put this card on an Assamite controlled by another Methuselah. That Assamite can
 [dom] Unlock the acting vampire and end the action. (Do not lock this vampire if they are blocking.) The acting vampire cannot take the same action this turn.
 [DOM] As above, but do not unlock the acting vampire.","","Jyhad:U, VTES:U, Sabbat:U, SW:PV, CE:U, Third:U, HttB:PKia3, SP:PoS2","","Ron Spencer; L. A. Williams; Oliver Meinerding",""
 "101310","Obfuscate","","Master","","","","","","","Master: Discipline.
-Put this card on a vampire. This vampire gains one level of Obfuscate [obf]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Obfuscate [OBF].","","Jyhad:C, VTES:C, Sabbat:C, SW:C, FN:PS, CE:C, KMW:PB, Third:PM/SKM1, KoT:PM2","","Lawrence Snelly; John Bridges","+1"
+Put this card on a vampire. This vampire gains one level of Obfuscate [obf]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Obfuscate [OBF].","","Jyhad:C, VTES:C, Sabbat:C, SW:C, FN:PS, CE:C, KMW:PB, Third:PM/SKM, KoT:PM2","","Lawrence Snelly; John Bridges","+1"
 "101311","Obsession","","Master","","","2","","","","Master.
 Put this card on a ready Toreador antitribu. The vampire with this card does not unlock as normal. During his or her controller's unlock phase, he or she burns 1 blood to unlock or is burned. If the vampire goes into torpor, this card is burned.","","Sabbat:R, SW:R","","Mark Tedin",""
 "101312","Obtenebration","","Master","","","","","","","Discipline.
@@ -3462,7 +3462,7 @@ Only usable during a bleed against you. This reacting vampire gets +2 intercept.
 During your unlock phase, you may move 1 blood from the blood bank to a ready Guruhi you control. Not usable to move a blood to a Guruhi with no blood. A vampire can gain blood from only one hunting ground card each turn.","","LoB:PG","","Mark Poole",""
 "101345","Palatial Estate","","Equipment","","","","2","","","This equipment card represents a location and does not count as equipment while in play. Unique.
 During your master phase, the vampire with this location gains 1 blood.","Welcome to my house! Come freely. Go safely...
-Bram Stoker, ""Dracula""","DS:C2, FN:PR, Third:PM/SKM1","","Greg Simanson",""
+Bram Stoker, ""Dracula""","DS:C2, FN:PR, Third:PM/SKM","","Greg Simanson",""
 "101346","Palla Grande","","Master","Toreador antitribu","","","","","","Unique.
 Put this card in play with 3 counters. Toreador antitribu get +1 bleed. During your discard phase, burn 1 counter from this card. Burn this card if it has no counters.","","Sabbat:R, SW:R, BH:PTo, Third:R, SP:LB3","","Diana Vick",""
 "101347","Pallid","","Master","","","","","","","Master.
@@ -3653,7 +3653,7 @@ During your unlock phase, you may move 1 blood from the blood bank to a ready va
 [NEC] Move a vampire from your ash heap to your ready region with 1 blood.","My name is Legion; for we are many.
 Mark 5:9 (NRSV)","DS:C2, FN:PG2, LotN:PG, POD:DTC","","Stuart Beel; John Bridges",""
 "101424","Potence","","Master","","","","","","","Discipline.
-Put this card on a vampire. This vampire gets +1 level of Potence [pot] and +1 capacity. Cannot be put on a vampire with superior Potence [POT].","","Jyhad:C, VTES:C, Sabbat:C, SW:C/PB/PL, FN:PG, CE:C, Anarchs:PAG, KMW:PAn, LoB:PG, Third:PB/SKB1, KoT:PB, NB:PN1","","L. A. Williams; Randy Gallegos; John Bridges","+1"
+Put this card on a vampire. This vampire gets +1 level of Potence [pot] and +1 capacity. Cannot be put on a vampire with superior Potence [POT].","","Jyhad:C, VTES:C, Sabbat:C, SW:C/PB/PL, FN:PG, CE:C, Anarchs:PAG, KMW:PAn, LoB:PG, Third:PB/SKB, KoT:PB, NB:PN1","","L. A. Williams; Randy Gallegos; John Bridges","+1"
 "101425","Potio Martyrium","","Action","Tremere/Tremere antitribu","","","","","","+1 stealth action.
 Put this card on a Gargoyle enslaved to this vampire's clan. If this Gargoyle is burned or sent to torpor in combat, he or she burns and inflicts 3 aggravated damage on the opposing minion and each retainer in combat. A minion may have only one Potio Martyrium.","","HttB:R","","Phillip Hilliker",""
 "101426","Pounce","","Combat","","Flight","","","","","Strike: hand strike at +2 damage, and the opposing minion cannot strike for the remainder of the round (this doesn't affect the current strike resolution). If this strike is dodged, this striking minion takes 1 damage during strike resolution and the opposing minion gets an optional press.","","BL:C1, LoB:C, HttB:PGar2","","John McCrea",""
@@ -4168,7 +4168,7 @@ Put this card on a younger Caitiff. The vampire with this card is now considered
 [aus] (D) Look at your prey's hand and discard one card of your choice from it.
 [AUS] Put this card in play. Your prey plays with an open hand. Any minion can burn this card as a (D) action.","","Sabbat:U, SW:U/PT, CE:PTr, BH:PTo2, Third:U, V5:PM4","","Ash Arnett",""
 "101628","Revenant","","Retainer","Tzimisce","","","1","","","Ghoul with 2 life.
-The minion with this retainer gets +1 intercept.","","Sabbat:U, SW:PT, Third:U/PTz/SKTz1","","Pete Venters",""
+The minion with this retainer gets +1 intercept.","","Sabbat:U, SW:PT, Third:U/PTz/SKTz","","Pete Venters",""
 "101629","Reversal of Fortunes","","Political Action","","","","","","","Successful referendum means direction of play is reversed. Prey is still to the left, however.","O Fortune, you are like the moon: ever waxing and waning.
 Carl Orff, ""Carmina Burana""","Jyhad:V, VTES:V, CE:PM","","Margaret Organ-Kean",""
 "101630","Revocation of Tyre","","Political Action","","","","","","","Successful referendum means this card is put in play and each Assamite can choose to become Camarilla. As any Assamite enters play, they can choose to become Camarilla.","","AH:V3, Tenth:A, POD:DTC","","Steve Casper",""
@@ -4263,7 +4263,7 @@ During an action, Saatet-ta can lock to give a Follower of Set you control +1 st
 "101666","Sabbat Inquisitor","","Political Action","","","","","","","Requires a ready archbishop, cardinal or regent.
 Choose a Sabbat vampire who is not an Inquisitor. If this referendum is successful, put this card on the chosen vampire. This vampire is an Inquisitor and gets +1 bleed. He or she may look at the top card of any Methuselah's crypt as a (D) action; if it is a vampire with Thaumaturgy [tha], burn that card. Any Sabbat vampire may call a referendum to burn this card as a +1 stealth political action.","","Sabbat:U, Third:U","","Ken Meyer, Jr.",""
 "101667","Sabbat Priest","","Political Action","","","","","","","Requires a ready Sabbat vampire.
-Choose a ready Sabbat vampire. Successful referendum means that for the remainder of the game, any vampire attempting to block the chosen vampire burns 1 blood.","","Sabbat:C, SW:C/PV, BH:PM2, Third:C/PB/SKB1","","Lawrence Snelly",""
+Choose a ready Sabbat vampire. Successful referendum means that for the remainder of the game, any vampire attempting to block the chosen vampire burns 1 blood.","","Sabbat:C, SW:C/PV, BH:PM2, Third:C/PB/SKB","","Lawrence Snelly",""
 "101668","Sabbat Threat","","Political Action","","","","","","","Requires a prince or justicar.
 Choose one or more Methuselahs. Successful referendum means each chosen Methuselah gets a threat counter. Each Methuselah burns 1 pool for each threat counter he or she has during his or her unlock phase. A Methuselah may never have more than two threat counters, and he or she may burn the Edge to burn all the threat counters he or she has.","","Jyhad:V, VTES:V, CE:U, KMW:PAl","","Quinton Hoover",""
 "101669","Sacrament of Carnage","","Combat","","Potence","","1","","","[pot] Strike: 2R damage.
@@ -4304,7 +4304,7 @@ This vampire gets superior Necromancy [NEC]. This vampire can move a library car
 Choose a younger vampire of the same clan who is involved in the combat. The chosen vampire gets a mandatory press, only usable to continue combat. If the chosen combatant is still ready after the combat ends, he or she gains 1 blood from the blood bank. Only one Save Face may be played each combat.","Better that we should die fighting than be outraged and dishonored. Better to die than to live in slavery.
 Emmeline Pankhurst","FN:C","","Durwin Talon",""
 "101685","Sawed-Off Shotgun","","Equipment","","","2","","","","Weapon, gun.
-3R damage each strike, only usable once each combat.","","Jyhad:C, VTES:C, SW:PB, CE:PB, Third:PM2/SKM1","","Mark Tedin",""
+3R damage each strike, only usable once each combat.","","Jyhad:C, VTES:C, SW:PB, CE:PB, Third:PM2/SKM","","Mark Tedin",""
 "101686","Scalpel Tongue","","Action Modifier/Reaction","","Celerity & Presence","","1","","","Only usable during the polling step of a political action.
 [cel][pre] Choose a vampire who has cast votes or ballots in this referendum. The chosen vampire is locked and abstains (this cancels the chosen vampire's votes and ballots).
 [CEL][PRE] As above, and the chosen vampire burns 1 blood.","","KMW:C, LoB:PI3, Third:PB2, SP:LB2, V5:PTo4, NB:PTo1","","John Bridges",""
@@ -4357,7 +4357,7 @@ Burn when this imbued declares an action to give monsters -1 intercept for this 
 "101706","Second Tradition: Domain","Second Tradition: Domain, The","Reaction","","","","","","","Requires a prince or justicar.
 +2 intercept. Also usable by a locked prince or justicar, even if intercept is not yet needed, to burn 1 blood to unlock and attempt to block with +2 intercept.","None may challenge thy word while in thy domain.","Jyhad:U, VTES:U, CE:U/PTo/PV2, KMW:PAl3, KoT:U/PV3, 25th:3, FB:PV2, V5:PTo4/PV4, V5A:PBh8, NB:PTo3/PV2","","L. A. Williams; Durwin Talon; Cos Koniotis",""
 "101707","Secret Horde","","Master","","","X","","","","Master: investment.
-Put this card in play and move 2X blood from the blood bank to this card. You may use a master phase action to move 1 blood from this card to your pool. Burn this card when it has no counters.","","Sabbat:C, SW:C, CE:C/PN, Anarchs:PG, LoB:PA, Third:PB/SKB1","","Michael Astrachan",""
+Put this card in play and move 2X blood from the blood bank to this card. You may use a master phase action to move 1 blood from this card to your pool. Burn this card when it has no counters.","","Sabbat:C, SW:C, CE:C/PN, Anarchs:PG, LoB:PA, Third:PB/SKB","","Michael Astrachan",""
 "101708","Secret Library of Alexandria, The","","Master","Nosferatu","","1","","","","Master: unique location.
 You may draw a card each time you successfully bleed your prey. Discard to your hand size afterward.","","AH:R2, CE:R","","Rebecca Guay",""
 "101709","Secret Must Be Kept, The","","Political Action","","","","","","","Requires a Laibon.
@@ -4744,7 +4744,7 @@ Lock this card and burn 1 blood from a ready Tremere antitribu you control to se
 "101850","Spirit's Touch","","Reaction","","Auspex","","","","","[aus] +1 intercept.
 [AUS] As above, with 1 optional maneuver during the resulting combat if this vampire blocks.","We are eternal; and to us, the past
 Is, as the future, present.
-Lord Byron, ""Manfred"", act I, scene 1","Jyhad:C, VTES:C, Sabbat:C, SW:C/PT2/PV, CE:C/PTo4/PTr3, Anarchs:PAG, BH:PM4/PTr4, Third:PTr5/PTz2, KoT:C/PM3, SP:DoF4, FB:PTr2, V5:PTr2, NB:PTr2","","Amy Weber; Hannibal King; Brian LeBlanc",""
+Lord Byron, ""Manfred"", act I, scene 1","Jyhad:C, VTES:C, Sabbat:C, SW:C/PT2/PV, CE:C/PTo4/PTr3, Anarchs:PAG, BH:PM4/PTr4, Third:PTr5/PTz2/SKTr4/SKTz2, KoT:C/PM3, SP:DoF4, FB:PTr2, V5:PTr2, NB:PTr2","","Amy Weber; Hannibal King; Brian LeBlanc",""
 "101851","Spiritual Guidance","","Combat","Giovanni","","","","","","A vampire can play only one Spiritual Guidance each combat.
 Play a combat card from your ash heap as if from your hand. If that card would be burned, instead remove it from the game.","","TU:C/B4, Anthology:4","","Ginés Quiñonero",""
 "101852","Spiritual Intervention","","Combat","","Necromancy","","","","","[nec] Strike: dodge.
@@ -4826,7 +4826,7 @@ Their still waters, still and chilly
 With the snows of the lolling lily.
 Edgar Allan Poe, ""Dream-Land""","Jyhad:U, VTES:U, CE:R2, KoT:R","","Tom Wänerstrand; Brian LeBlanc",""
 "101879","Strained Vitae Supply","","Master","","","","","","","Master.
-Put this card in play. Vampires do not get the normal +1 stealth when hunting. Any Methuselah may use a master phase action to put 1 blood counter on this card from his or her pool. If the number of counters on this card equals or exceeds the number of Methuselahs in the game, burn this card.","","DS:U2, FN:PG, Third:PTr/SKTr1","","Lee Fields",""
+Put this card in play. Vampires do not get the normal +1 stealth when hunting. Any Methuselah may use a master phase action to put 1 blood counter on this card from his or her pool. If the number of counters on this card equals or exceeds the number of Methuselahs in the game, burn this card.","","DS:U2, FN:PG, Third:PTr/SKTr","","Lee Fields",""
 "101880","Strange Day","","Action Modifier","","","","2","","","Requires a Laibon. Only usable as the action is announced.
 Vampires cannot block this action. Only one Strange Day can be played in a game.","","LoB:R","","Abrar Ajmal",""
 "101881","Stranger Among Us, The","","Master","","","1","","","","Master.
@@ -4996,7 +4996,7 @@ Put this card on this acting Seraph. This ready Seraph may lock this card to unl
 "101948","Telepathic Counter","","Reaction","","Auspex","","","","","[aus] Reduce a bleed against you by 1.
 [AUS] Reduce a bleed against you by 2.","","Jyhad:C, VTES:C, Sabbat:C, SW:C/PV2, CE:C/PM4, Anarchs:PAB3/PAG, BH:PTo4, Third:PM4/SKM3, HttB:PSal2, NB:PTo2","","Susan Van Camp; Darryl Elliott; Joe Slucher",""
 "101949","Telepathic Misdirection","","Reaction","","Auspex","","1","","","[aus] +1 intercept.
-[AUS] Only usable if a minion is bleeding you, after blocks are declined. Lock this reacting vampire. Change the target of the bleed to another Methuselah other than the acting minion's controller (that Methuselah can attempt to block).","","Jyhad:C, VTES:C, CE:C/PM4, BH:PM3/PTo4, Third:C/PM2/SKM1, KoT:C/PT4, SP:DoF2/LB4, FB:PM4/PTo4/PTr4, V5:PM5/PTr4, NB:PM2/PTo2/PTr4","","Edward Beard, Jr.; James Stowe",""
+[AUS] Only usable if a minion is bleeding you, after blocks are declined. Lock this reacting vampire. Change the target of the bleed to another Methuselah other than the acting minion's controller (that Methuselah can attempt to block).","","Jyhad:C, VTES:C, CE:C/PM4, BH:PM3/PTo4, Third:C/PM2/SKM, KoT:C/PT4, SP:DoF2/LB4, FB:PM4/PTo4/PTr4, V5:PM5/PTr4, NB:PM2/PTo2/PTr4","","Edward Beard, Jr.; James Stowe",""
 "101950","Telepathic Tracking","","Combat","","Auspex","","1","","","[aus] Press, only usable to continue combat. If another round of combat occurs, this vampire gets 1 optional maneuver that round.
 [AUS] Only usable if both combatants are still ready and combat would end. Instead, start a new round.","","SW:U, LoB:PO2, Third:U, SP:DoF3, NB:PTr2","","Mike Danza",""
 "101951","Telepathic Vote Counting","","Action Modifier","","Auspex","","","","","Only usable during the polling step of a political action.
@@ -5033,7 +5033,7 @@ Thadius Zho can strike: 2R damage. He gets 1 optional maneuver each combat. He c
 "101964","Thanks for the Donation","","Action","","Dominate","","","","","+1 stealth action.
 [dom] Put this card into play and choose a card you are contesting with another Methuselah. Your cost to avoid yielding the contested card is now paid by your prey. (You still decide whether you will yield.) Any minion may burn this card as a (D) action.","","Sabbat:R, SW:R","","Clint Langley",""
 "101965","Thaumaturgy","","Master","","","","","","","Master: Discipline.
-Put this card on a vampire. This vampire gains 1 level of Thaumaturgy [tha]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Thaumaturgy [THA].","","Jyhad:C, VTES:C, Sabbat:C, CE:C, Third:PTr/SKTr1, HttB:PGar","","Anson Maddocks; Ash Arnett; Arkady Roytman","+1"
+Put this card on a vampire. This vampire gains 1 level of Thaumaturgy [tha]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Thaumaturgy [THA].","","Jyhad:C, VTES:C, Sabbat:C, CE:C, Third:PTr/SKTr, HttB:PGar","","Anson Maddocks; Ash Arnett; Arkady Roytman","+1"
 "101966","Theft of Vitae","","Combat","","Thaumaturgy","","","","","[tha] Ranged strike: steal 1 blood or life (becoming blood).
 [THA] Ranged strike: steal 2 blood or life (becoming blood).","The blood is the life!
 The blood is the life!
@@ -5316,7 +5316,7 @@ Only usable during a referendum. Usable by a locked Laibon. Gain 4 votes.","Eze 
 Lock this card and burn 1 pool to move two cards that require an imbued (or a creed or a virtue) from your ash heap to the top of your library. You may then cut your library once.","The time for our new world has begun.
 Kim ""Witness1"" Sun, Visionary","NoR:R","","Becky Jollensten",""
 "102075","University Hunting Ground","","Master","Tremere antitribu","","2","","","","Unique location. Hunting ground.
-During your unlock phase, a ready vampire you control can gain 1 blood. A vampire can gain blood from only one hunting ground each turn.","","Sabbat:U, BH:PTr, Third:PTr/SKTr1, SP:PwN1","","Mike Raabe",""
+During your unlock phase, a ready vampire you control can gain 1 blood. A vampire can gain blood from only one hunting ground each turn.","","Sabbat:U, BH:PTr, Third:PTr/SKTr, SP:PwN1","","Mike Raabe",""
 "102076","Unleash Hell's Fury","","Action","","Daimoinon","2","","","Y","+1 stealth action. Requires an infernal vampire. Unique.
 [dai] Put this card in play. This card can attempt to block a (D) action against you {(or a card you control)} and is considered a 9-capacity infernal vampire with +2 intercept during that attempt; if successful, the acting minion takes 1 unpreventable {environmental} aggravated damage{} and this card is burned.
 [DAI] As above, and unlock this vampire.","","HttB:R, Anthology:1","","Brian LeBlanc; Ginés Quiñonero; Brian LeBlanc",""
@@ -5422,7 +5422,7 @@ The vampire with this equipment may burn this card to gain 1 level of any one Di
 "102115","Vial of Garou Blood","","Equipment","","","1","","","","Equipment.
 The vampire with this Vial may burn it before range is chosen in a round of combat to get +1 strength and an additional strike {(limited)} each round for the remainder of combat. If he or she does so, he or she cannot use other equipment cards for the remainder of combat.","","DS:C2, FN:PG, Third:C","","Lawrence Snelly",""
 "102116","Vicissitude","","Master","","","","","","","Master: Discipline.
-Put this card on a vampire. This vampire gains 1 level of Vicissitude [vic]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Vicissitude [VIC].","","Sabbat:C, SW:C/PT, Third:PTz/SKTz1","","Alan Rabinowitz","+1"
+Put this card on a vampire. This vampire gains 1 level of Vicissitude [vic]. Capacity increases by 1: the vampire is one generation older. Cannot be placed on a vampire with superior Vicissitude [VIC].","","Sabbat:C, SW:C/PT, Third:PTz/SKTz","","Alan Rabinowitz","+1"
 "102117","Vicissitude Poisoning","","Master","","","","","","","Master.
 Put this card on a Tzimisce. Put a poison counter on this card each time this vampire plays a card that requires Vicissitude [vic]. If the number of poison counters on this card is greater than the capacity of the vampire, burn him or her at the end of the current action or combat.","","Sabbat:R, SW:R/PL","","Ron Spencer",""
 "102118","Victim of Habit","","Action","","","","1","","","+1 stealth action.
@@ -5615,7 +5615,7 @@ Lewis Carroll, ""Alice in Wonderland""","Jyhad:C, VTES:C, Sabbat:C, SW:C","","Ro
 "102191","Wolf Companion","","Retainer","","Animalism","","1","","","Animal with 2 life.
 [ani] When the minion with this retainer is in combat, the opposing minion takes 1 damage during strike resolution (if the range is close).
 [ANI] As above, but Wolf Companion has 3 life.","It is you -- my equal, my companion and close friend.
-Psalms 55:13 (NLT)","Jyhad:U2, VTES:U, Sabbat:U, SW:PT, KMW:PG, Third:PTz2/SKTz1","","Melissa Benson; Zina Saunders",""
+Psalms 55:13 (NLT)","Jyhad:U2, VTES:U, Sabbat:U, SW:PT, KMW:PG, Third:PTz2/SKTz","","Melissa Benson; Zina Saunders",""
 "102192","Wooden Stake","Stake","Equipment","","","","","","","Melee weapon.
 Strike: strength damage. If more than 1 damage is inflicted on an opposing vampire by this weapon in a given combat, that vampire is sent to torpor. In that case, this card is transferred to that vampire, and he or she doesn't unlock as normal during the unlock phase as long as he or she remains in torpor.","","Jyhad:U, VTES:U, SW:PB, CE:U/PB, BH:PTo3, Third:U, KoT:U","","Dave Roach & Pete Burges",""
 "102193","World's a Canvas, The","","Action","","Dominate/Obfuscate/Vicissitude","","2","","","Requires an anarch.

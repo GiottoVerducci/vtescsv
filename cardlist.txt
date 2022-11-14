@@ -4594,7 +4594,7 @@ Name: The British Museum, London
 Cardtype: Master
 Cost: 2 pool
 Unique location.
-+1 hand size. Minions you control can unlock after resolution of a successful action to equip with a non-electronic, non-vehicle, non-weapon equipment card from your hand; a minion can unlock only once this way each turn. Those equipment cards cost minions you control -1 blood or pool to equip.
++1 hand size. Minions you control can unlock after resolution of a successful action to equip with a non-electronic, non-vehicle, non-weapon equipment card from your hand; a minion can unlock only once this way each turn. {Non-electronic, non-vehicle, non-weapon} equipment cards cost minions you control -1 blood or pool to equip.
 Artist: Felipe Headley
 
 Name: Brock Sterling

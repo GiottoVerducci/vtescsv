@@ -538,13 +538,13 @@ Discipline: Obeah/Dominate
 Artist: Aaron Acevedo
 
 Name: Aimee Laroux
-[LoB:U]
+[LoB:U, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 4
 Capacity: 2
 Discipline: for pre
-Independent: You may use four transfers and burn 1 pool to give Aimee an additional level of Melpominee [mel]. Aimee cannot play reaction cards.
+Independent: You can burn 1 pool and use 4 transfers to give Aimee +1 level of Melpominee [mel]. She cannot play reaction cards.
 Artist: Lawrence Snelly
 
 Name: Aimery Methuin
@@ -1579,13 +1579,13 @@ Sabbat: After Angela is burned in combat, burn 2 pool.
 Artist: Max Shade Fellwalker
 
 Name: Angela Preston
-[BL:U2]
+[BL:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 2
 Capacity: 5
 Discipline: for MEL PRE
-Camarilla: Angela must burn 1 blood to attempt to block an older vampire. You may lock Angela during your influence phase to unlock any other vampire.
+Camarilla: During your influence phase, Angela can lock to unlock another vampire. She must burn 1 blood to attempt to block an older vampire.
 Artist: Christopher Shy
 
 Name: Angelica, The Canonicus
@@ -1743,7 +1743,7 @@ Camarilla primogen: Annabelle can give Toreador vampires +1 bleed for the remain
 Artist: Max Shade Fellwalker
 
 Name: Annazir
-[HttB:U/A2]
+[HttB:U/A2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 5
@@ -1842,7 +1842,7 @@ Camarilla primogen.
 Artist: Lawrence Snelly
 
 Name: Antoinette Dubois
-[LoB:U]
+[LoB:U, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 4
@@ -2184,13 +2184,13 @@ Camarilla Ventrue Inner Circle: If Arika is ready during your prey's unlock phas
 Artist: Sandra Everingham
 
 Name: Arishat
-[HttB:U/A2]
+[HttB:U/A2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 6
 Capacity: 6
 Discipline: DAI OBF PRE
-Independent. 1 vote (titled): During the polling step of any referendum, Arishat can burn 1 blood to force any vampire to abstain. Infernal.
+Independent. 1 vote (titled): During the polling step of any referendum, Arishat can burn 1 blood to force a vampire to abstain. Infernal.
 Artist: Samuel Araya
 
 Name: Aristotle de Laurent
@@ -2365,13 +2365,13 @@ Gain 2 pool.
 Artist: John Matson
 
 Name: Art's Traumatic Essence
-[BL:R1, LoB:R]
+[BL:R1, LoB:R, POD:DTC]
 Cardtype: Action
 Discipline: Melpominee/Auspex
 +1 stealth action.
-[aus] (D) Lock any unlocked minion.
-[mel] (D) Lock any unlocked minion, and that minion burns 1 blood or life.
-[MEL] (D) Put this card on any ready unlocked minion and lock that minion. The minion with this card burns 1 additional blood or life each time he or she attempts to take an action or block. During his or her master phase, the controller of the minion with this card may lock this minion and burn a pool to burn this card. A minion may have only one Art's Traumatic Essence.
+[aus] (D) Lock an unlocked minion.
+[mel] (D) As [aus] above, and the target minion burns 1 blood or life.
+[MEL] (D) Put this card on a ready unlocked minion and lock them. The attached minion burns 1 blood or life each time they announce an action or attempt to block. During their master phase, they can lock and burn 1 pool to burn this card. A minion can have only one Art's Traumatic Essence.
 Artist: Brian LeBlanc
 
 Name: Artemis
@@ -2719,13 +2719,13 @@ Camarilla: If Ayse is ready, you can use a discard phase action to add 1 blood t
 Artist: Ken Meyer, Jr.
 
 Name: Azaneal
-[KMW:U/PB]
+[KMW:U/PB, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 4
 Capacity: 7
 Discipline: pre tha DAI OBF OBT
-Independent: Actions to put vampires in play cost Azaneal 1 less blood or pool. Infernal.
+Independent: Actions to put vampires in play cost Azaneal -1 blood or pool. Infernal.
 Artist: Lawrence Snelly
 
 Name: Aziz, Dammar of Istanbul
@@ -2961,13 +2961,13 @@ Strength+2 damage each strike. {Damage inflicted on a Kiasyd by this weapon is a
 Artist: Richard Thomas
 
 Name: Barbaro Lucchese
-[Promo-20041015]
+[Promo-20041015, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 3
 Capacity: 5
 Discipline: dai obf pre tha
-Independent: Barbaro may place a taint counter on a minion as a +1 stealth (D) action. If a minion has 2 taint counters, burn those counters to make the minion infernal. Barbaro may change his clan to Tremere antitribu as +1 stealth action. Infernal.
+Independent: Barbaro can change his clan to Tremere antitribu as +1 stealth action. He can put 1 taint counter on a minion as a +1 stealth (D) action; if the minion has 2 taint counters, burn them and the minion becomes infernal. Infernal.
 Artist: Ken Meyer, Jr.
 
 Name: The Baron
@@ -3114,10 +3114,10 @@ Strength+1 damage each strike.
 Artist: Rob Alexander
 
 Name: Bastille Opera House
-[BL:R1, LoB:R]
+[BL:R1, LoB:R, POD:DTC]
 Cardtype: Master
-Master: unique location.
-Lock during the referendum of a political action to gain X votes, where X is the number of ready Daughters of Cacophony you control. If you control no ready Daughters of Cacophony, you may lock and burn this location during the referendum of a political action to gain 1 vote.
+Unique location.
+You can lock this card during the polling step of a political action to get +1 vote for each ready Daughter of Cacophony you control. If you control no ready Daughters of Cacophony, you can lock and burn this location during the polling step of a political action to get +1 vote.
 Artist: William O'Connor
 
 Name: Batsheva
@@ -3368,10 +3368,10 @@ Anarch Baron of Fortaleza.
 Artist: Christopher Shy
 
 Name: Benefit Performance
-[HttB:C/B1]
+[HttB:C/B1, POD:DTC]
 Cardtype: Political Action
 Clan: Daughter of Cacophony
-Successful referendum means you gain 1 pool for each ready Daughter of Cacophony you control, and each non-Daughter of Cacophony vampire who cast votes or ballots in favor gains 1 blood.
+Successful referendum means you gain 1 pool for each ready Daughter of Cacophony you control, and each non-Daughter of Cacophony vampire casting votes or ballots in favor gains 1 blood.
 Artist: Brian LeBlanc
 
 Name: Benjamin Rose
@@ -3786,13 +3786,13 @@ Put this card into play. During your unlock phase, lock this card or burn 1 pool
 Artist: Joel Biske
 
 Name: Blessed Audience
-[LoB:R]
+[LoB:R, POD:DTC]
 Cardtype: Action
 Cost: X blood
 Discipline: Melpominee/Auspex
-[aus] (D) Lock X-1 allies or younger vampires controlled by your predator or prey.
-[mel] As [aus] above, at +1 stealth.
-[MEL] As [mel] above, and this vampire can increase his or her capacity for purposes of selecting the targets of this effect. The cost of this action is increased by one blood for each point of capacity gained (chosen when the action is announced).
+[aus] (D) Lock X-1 allies or younger vampires controlled by your predator and/or prey.
+[mel] As [aus] above, with +1 stealth.
+[MEL] As [mel] above, and this vampire can increase their capacity for purposes of choosing the targets of this effect. This action costs +1 blood for each point of capacity gained (chosen as the action is announced).
 Artist: Andrew Trabbold
 
 Name: Blessed Blade
@@ -4187,12 +4187,12 @@ Put this equipment on any minion (this is a +1 stealth (D) action if the minion 
 Artist: Steve Eidson
 
 Name: Bloodstorm of Chorazin
-[KMW:C/PB2]
+[KMW:C/PB2, POD:DTC]
 Cardtype: Reaction
 Clan: Baali
 Burn Option
-Only usable when this Baali successfully blocks an ally or a younger vampire.
-Lock this Baali and end the action (with no combat). This Baali inflicts 1 unpreventable damage on the acting minion and each of his or her retainers.
+Only usable if this Baali blocks an ally or younger vampire, before block resolution.
+Lock this Baali. This Baali inflicts 1 unpreventable damage on the acting minion and each retainer on the acting minion. The action ends.
 Artist: Mark Poole
 
 Name: Bloodwork
@@ -4981,12 +4981,12 @@ Only usable if a minion attempts to block.
 Artist: Brian LeBlanc
 
 Name: Call the Great Beast
-[BL:R1, KMW:PB]
+[BL:R1, KMW:PB, POD:DTC]
 Cardtype: Action
 Clan: Baali
 Cost: 1 blood
 +1 stealth action.
-Put this card on the acting Baali and put X ritual counters on it, where X is the capacity of this Baali. This Baali may put a ritual counter on this card as a +1 stealth action. When this card has more than 10 ritual counters, burn this Baali and choose three Disciplines. This card becomes a unique clanless independent infernal vampire with 9 capacity, 4 strength and 3 bleed. The Great Beast has the chosen three Disciplines at superior. Move 9 blood to him from the blood bank. The Great Beast can enter combat with any ready minion controlled by another Methuselah as a (D) action and can prevent 1 damage each combat.
+Put this card with X ritual counters on this Baali, where X is this Baali's capacity. This Baali can put 1 ritual counter on this card as a +1 stealth action. If this card has 11 or more ritual counters, move this card to your ready region, burn this Baali and choose three Disciplines; this card becomes a 9-capacity unique clanless Independent infernal vampire with 4 strength, 3 bleed, the chosen three Disciplines at the superior level and 9 blood who can enter combat with a minion as a (D) action and can prevent 1 damage each combat.
 Artist: Fred Hooper
 
 Name: Call the Lamprey
@@ -5495,13 +5495,13 @@ Put this card on a vampire. This vampire gains one level of Celerity [cel]. Capa
 Artist: Nicola Leonard; Greg Simanson; Peter Mohrbacher
 
 Name: Céleste, The Voice of a Secret
-[BL:U2]
+[BL:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 2
 Capacity: 3
 Discipline: mel pre
-Independent: Céleste gets -1 intercept when attempting to block a bleed action. Céleste gets +1 bleed when bleeding a Methuselah who controls a ready Toreador.
+Independent: Céleste gets +1 bleed against Methuselahs who control a ready Toreador. She gets -1 intercept during bleed actions.
 Artist: Christopher Shy
 
 Name: Céleste Lamontagne
@@ -5923,12 +5923,12 @@ Discipline: Vicissitude
 Artist: Mike Danza
 
 Name: Choir
-[BL:C2, LoB:C]
+[BL:C2, LoB:C, POD:DTC]
 Cardtype: Action
 Discipline: Melpominee
 +1 stealth action.
-[mel] Put this card into play. Burn this card during your influence phase.
-[MEL] (D) Your prey burns 2 pool for each Choir card you control (not counting this one). Burn all Choir cards you control.
+[mel] Put this card in play. Burn this card during your influence phase.
+[MEL] (D) Your prey burns 2 pool for each copy of this card you control (not counting this one). Burn all those copies.
 Artist: Lawrence Snelly
 
 Name: Christanius Lionel, The Mad Chronicler
@@ -6441,13 +6441,13 @@ Choose a ready prince. Successful referendum means the prince loses his or her t
 Artist: Christopher Rush
 
 Name: Command Performance
-[HttB:R/B1]
+[HttB:R/B1, POD:DTC]
 Cardtype: Master
 Clan: Daughter of Cacophony
 Cost: 2 pool
 Burn Option
 Unique.
-Put this card in play. Lock during your minion phase to unlock a ready Daughter of Cacophony. Any titled vampire can call a referendum to burn this card as a +1 stealth political action.
+Put this card in play. You can lock this card during your minion phase to unlock a ready Daughter of Cacophony. Titled vampires can call a referendum to burn this card as a +1 stealth political action.
 Artist: Marco Nelor
 
 Name: Command the Legion
@@ -6524,13 +6524,13 @@ This minion equips with a non-unique weapon card from your hand (requirements an
 Artist: Alejandro Collucci; Jeff Menges
 
 Name: Concert Tour
-[BL:C1, LoB:R]
+[BL:C1, LoB:R, POD:DTC]
 Cardtype: Action
 Clan: Daughter of Cacophony
 Cost: 1 blood
 Burn Option
 +1 stealth action.
-Put this card on this acting Daughter of Cacophony. During your next unlock phase, burn this card to restore this vampire to full capacity with blood from the blood bank.
+Put this card on this Daughter of Cacophony. During your unlock phase, burn this card to have this vampire gain enough blood to reach full capacity.
 Artist: William O'Connor
 
 Name: Conchita Morales
@@ -6578,28 +6578,28 @@ Cardtype: Action
 Discipline: Daimoinon/Serpentis
 +1 stealth action. Condemnation.
 [ser] (D) Lock a younger vampire.
-[dai] Requires an infernal vampire. (D) Put this card on a ready minion. Bleed actions cost the attached minion 1 additional blood (allies cannot pay blood costs). Burn all other condemnation cards on this minion.
+[dai] Requires an infernal vampire. (D) Put this card on a ready minion. Bleed actions cost the attached minion +1 blood (allies cannot pay blood costs). Burn all other condemnation cards on this minion.
 [DAI] As [dai] above, and the attached minion's controller burns the top card of their library during their unlock phase.
 Artist: William O'Connor
 
 Name: Condemnation: Doomed
-[BL:R1]
+[BL:R1, POD:DTC]
 Cardtype: Action
 Discipline: Daimoinon/Obfuscate
 +1 stealth action. Condemnation.
 [obf] (D) Lock a younger vampire.
-[dai] Requires an Infernal vampire. (D) Put this card on a ready minion. The minion with this card has -1 stealth. Burn all other Condemnations on this minion.
-[DAI] As [dai] above, and the minion's controller burns 1 pool each time the minion is successfully blocked.
+[dai] Requires an infernal vampire. (D) Put this card on a ready minion. The attached minion gets -1 stealth. Burn all other condemnation cards on this minion.
+[DAI] As [dai] above, and if the attached minion is blocked, their controller burns 1 pool before block resolution.
 Artist: Brian LeBlanc
 
 Name: Condemnation: Languid
-[BL:R1]
+[BL:R1, POD:DTC]
 Cardtype: Action
 Discipline: Daimoinon/Presence
 +1 stealth action. Condemnation.
 [pre] (D) Lock a younger vampire.
-[dai] Requires an Infernal vampire. (D) Put this card on a ready minion. The minion with this card has -1 strength. Burn all other Condemnations on this minion.
-[DAI] As [dai] above, and the minion cannot use presses in combat.
+[dai] Requires an infernal vampire. (D) Put this card on a ready minion. The attached minion gets -1 strength. Burn all other condemnation cards on this minion.
+[DAI] As [dai] above, and the attached minion cannot press in combat.
 Artist: Mike Danza
 
 Name: Condemnation: Mute
@@ -6609,7 +6609,7 @@ Discipline: Daimoinon/Chimerstry
 +1 stealth action. Condemnation.
 [chi] (D) Lock a younger vampire.
 [dai] Requires an infernal vampire. (D) Put this card on a ready vampire. The attached vampire gets -3 votes. Burn all other condemnation cards on this minion.
-[DAI] As [dai] above, and the attached vampire burns 1 blood each time a referendum passes.
+[DAI] As [dai] above, and the attached vampire burns 1 blood after a referendum passes.
 Artist: Nigel Sade
 
 Name: Conditioning
@@ -6623,16 +6623,16 @@ Only usable during a bleed action.
 Artist: Mike Raabe; John Bridges
 
 Name: Conductor
-[LoB:R]
+[LoB:R, POD:DTC]
 Cardtype: Master
 Clan: Daughter of Cacophony
 Cost: 1 pool
-Unique master.
-Put this card on a Daughter of Cacophony. While this Daughter of Cacophony is unlocked or acting, each unlocked or acting Daughter of Cacophony gets an additional vote.
+Unique.
+Put this card on a Daughter of Cacophony. While this Daughter of Cacophony is unlocked or acting, each unlocked or acting Daughter of Cacophony gets +1 vote.
 Artist: Ken Meyer, Jr.
 
 Name: Conflagration
-[BL:C2, KMW:PB3]
+[BL:C2, KMW:PB3, POD:DTC]
 Cardtype: Combat
 Cost: 1 blood
 Discipline: Daimoinon/Potence
@@ -6770,12 +6770,12 @@ Burn Option
 Artist: Glenn Osterberger
 
 Name: Contagion
-[BL:R1]
+[BL:R1, POD:DTC]
 Cardtype: Action
 Discipline: Daimoinon
-+1 stealth action. Requires an Infernal vampire. Unique.
-[dai] Put this card on the acting vampire. During each other Methuselah's unlock phase, he or she burns 1 pool if this vampire is ready.
-[DAI] As [dai] above, and once per combat, this vampire can put a corruption counter on the opposing minion as a strike. If the number of your corruption counters on the minion equals or exceeds the capacity of that vampire or the cost of that ally, you may burn all of your corruption counters on that minion to gain control of him or her after strike resolution (ending combat).
++1 stealth action. Requires an infernal vampire. Unique.
+[dai] Put this card on this vampire. During each other Methuselah's unlock phase, they burn 1 pool if this vampire is ready.
+[DAI] As [dai] above, and once each combat, this vampire can strike: put 1 corruption counter on the opposing minion; if the number of your corruption counters on the minion equals or exceeds their capacity or cost, you can burn those counters to steal the opposing minion after the resolution of this strike (ending combat).
 Artist: Durwin Talon
 
 Name: Contingency Planning
@@ -7451,13 +7451,13 @@ Choose a Methuselah and put this card in play under the control of the chosen Me
 Artist: L. A. Williams
 
 Name: Cybele
-[KMW:U/PB]
+[KMW:U/PB, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 4
 Capacity: 10
 Discipline: ANI DAI OBF PRE SER THA
-Independent: If Cybele is unlocked during your master phase, you get an additional master phase action. Cybele may bleed at +2 bleed as (D) action that costs 1 blood. Infernal.
+Independent: If Cybele is unlocked at the start of your master phase, you get +1 master phase action. She can bleed with +2 bleed as a (D) action that costs 1 blood. Infernal.
 Artist: Jim Di Bartolo
 
 Name: Cynthia Ingold
@@ -7481,12 +7481,12 @@ Sabbat: If Cyscek is ready after any Methuselah plays a Gehenna event, you gain 
 Artist: Alejandro Colucci
 
 Name: D'habi Revenant
-[BL:C1, KMW:PB]
+[BL:C1, KMW:PB, POD:DTC]
 Cardtype: Retainer
 Clan: Baali
 Burn Option
 Ghoul with 2 life.
-The Baali with this retainer gets +1 bleed.
+This Baali gets +1 bleed.
 Artist: Fred Hooper
 
 Name: Dabbler
@@ -7924,13 +7924,13 @@ Requires a vampire with a capacity above 5. Do not replace until after combat. P
 Artist: Edward Beard, Jr.
 
 Name: Death of the Drum
-[LoB:C]
+[LoB:C, POD:DTC]
 Cardtype: Combat
 Cost: 1 blood
 Discipline: Melpominee/Celerity
 Only usable at long range.
 [cel]: Strike: 1R damage.
-[mel]: Strike: 2R damage, only preventable by cards that require Fortitude [for] or Visceratika [vis].
+[mel]: Strike: 2R damage, only preventable by cards requiring Fortitude [for] or Visceratika [vis].
 [MEL]: As [mel] above, and the damage is aggravated.
 Artist: Avery Butterworth
 
@@ -8073,13 +8073,13 @@ Camarilla.
 Artist: Harold Arthur McNeill
 
 Name: Delilah Monroe
-[BL:U2]
+[BL:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 2
 Capacity: 4
 Discipline: for pre MEL
-Independent: Delilah gets -1 intercept when attempting to block an older vampire.
+Independent: Delilah gets -1 intercept against older vampires.
 Artist: John Van Fleet
 
 Name: Delivery Truck
@@ -8369,11 +8369,11 @@ The first referendum a Sabbat vampire you control calls on this turn passes auto
 Artist: Steve Ellis
 
 Name: Diabolic Lure
-[HttB:C]
+[HttB:C, POD:DTC]
 Cardtype: Reaction
 Discipline: Daimoinon/Auspex
 [aus] Reduce a bleed against you by 1.
-[dai] Requires an infernal vampire. Only usable when this vampire successfully blocks. Put 4 pact counters on the acting minion. If the number of pact counters equals or exceeds his or her capacity or cost, burn them to make him or her infernal.
+[dai] Requires an infernal vampire. Only usable if this vampire blocks, before block resolution. Put 4 pact counters on the acting minion; if the number of pact counters equals or exceeds their capacity or cost, burn those counters to make them infernal.
 [DAI] As [dai] above, and the acting minion's controller burns 1 pool.
 Artist: Matt Smith
 
@@ -9554,14 +9554,13 @@ Camarilla: Echo gets +1 strength in combat with a Red List minion.
 Artist: Rik Martin
 
 Name: Echo of Harmonies
-[BL:R2, LoB:R]
+[BL:R2, LoB:R, POD:DTC]
 Cardtype: Action Modifier
 Cost: 1 blood
 Discipline: Melpominee/Presence
-Only usable during a referendum.
-[pre] If you burn the Edge for a vote, this vampire gains 2 votes.
-[mel] Usable by a ready vampire other than the acting minion. This vampire gains 2 votes.
-[MEL] Usable by a ready vampire other than the acting minion. After the referendum, move the political action card used to call the referendum from your ash heap to this vampire, face down. This vampire may play the political action card as if from your hand (requirements and cost apply as normal).
+[pre] Only usable during the polling step of a political action. This vampire gets +2 votes.
+[mel] As [pre] above, and usable by a ready vampire other than the acting minion.
+[MEL] Only usable after resolution of a political action. Usable by a ready vampire other than the acting minion. Move the political action card [POLITICAL ACTION] used to call the referendum from your ash heap to this vampire, face down and out of play; this vampire can play it as if from your hand (requirements and cost apply as normal).
 Artist: Brian LeBlanc
 
 Name: Ecoterrorists
@@ -9822,7 +9821,7 @@ When this minion is in combat with an acting minion, the acting minion takes 2 d
 Artist: Brian LeBlanc
 
 Name: Elihu
-[KMW:U]
+[KMW:U, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 4
@@ -10187,12 +10186,12 @@ Discipline: Visceratika
 Artist: Marian Churchland
 
 Name: Ensemble
-[Promo-20061026]
+[Promo-20061026, POD:DTC]
 Cardtype: Action Modifier
 Clan: Daughter of Cacophony
 Cost: 1 blood
-{Only usable during a bleed action.}
-+X bleed {(limited)}, where X is the number of ready unlocked Daughters of Cacophony you control. Lock all ready Daughters of Cacophony you control.
+Only usable during a bleed action.
++X bleed (limited), where X is the number of ready unlocked Daughters of Cacophony you control. Lock all ready Daughters of Cacophony you control.
 Artist: Durwin Talon
 
 Name: Enticement
@@ -10589,13 +10588,13 @@ Do not replace until your unlock phase.
 Artist: Marian Churchland
 
 Name: Evil Jensen
-[HttB:U/B2]
+[HttB:U/B2, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 4
 Capacity: 6
 Discipline: mel nec pot FOR PRE
-Independent: Evil Jensen can search your crypt for {a} vampire and move them to your uncontrolled region as a +1 stealth action that costs 2 pool (shuffle afterward). She must burn 1 blood to attempt to block older vampires.
+Independent: Evil Jensen can search your crypt for a vampire and move them to your uncontrolled region as a +1 stealth action that costs 2 pool. She must burn 1 blood to attempt to block older vampires.
 Artist: Chad Michael Ward
 
 Name: Ex Nihilo
@@ -10953,11 +10952,11 @@ Only usable on an action directed at another Laibon you control or on a bleed ag
 Artist: Brian LeBlanc
 
 Name: Fanfare for Elysium
-[HttB:R2/B1]
+[HttB:R2/B1, POD:DTC]
 Cardtype: Political Action
 Discipline: Melpominee
 [mel] Choose up to five older vampires. Successful referendum means each chosen vampire gains 1 blood.
-[MEL] As above, and successful referendum means this card is put in{} play. Unique. You can burn this card before range is determined to end any combat.
+[MEL] As above, and successful referendum means this card is put in play. Unique. You can burn this card before range is determined to end a combat.
 Artist: Aaron Acevedo
 
 Name: Fantasy World
@@ -11098,14 +11097,14 @@ Put this card on a ready justicar or Inner Circle member and lock them. During t
 Artist: Pete Venters
 
 Name: Fear of the Void Below
-[BL:C1, KMW:PB]
+[BL:C1, KMW:PB, POD:DTC]
 Cardtype: Combat
 Cost: 1 blood
 Discipline: Daimoinon/Obfuscate
-A vampire may play only one Fear of the Void Below each combat.
+A vampire can play only one Fear of the Void Below each combat.
 [obf] Maneuver.
-[dai] Only usable before range is determined. Each round of this combat defaults to long range, and this vampire gets an optional press each round, only usable to end combat.
-[DAI] As [dai] above, and the opposing minion's controller discards one card at random from his or her hand during the initial strike resolution phase of each round.
+[dai] Only usable before range is determined. This combat, each round defaults to long range, and this vampire gets 1 optional press each round, only usable to end combat.
+[DAI] As [dai] above, and the opposing minion's controller discards 1 card at random each round during normal strike resolution.
 Artist: Jim Nelson
 
 Name: Federico di Padua
@@ -11436,7 +11435,7 @@ Put this card in play. When a minion opposing an anarch in combat leaves the rea
 Artist: EM Gist
 
 Name: Flames of the Netherworld
-[HttB:C/A2]
+[HttB:C/A2, POD:DTC]
 Cardtype: Combat
 Discipline: Daimoinon/Thaumaturgy
 [tha] Only usable at long range. Burn 1 blood to strike: 1R aggravated damage.
@@ -12168,13 +12167,13 @@ Independent: Cards requiring Chimerstry [chi] cost Gabrin 1 fewer blood. He can 
 Artist: Christopher Shy
 
 Name: Gaël Pilet
-[BL:U1]
+[BL:U1, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 2
 Capacity: 6
 Discipline: chi pre FOR MEL
-Independent: Gaël can never have more than 1 intercept. Any additional intercept she gains is lost.
+Independent: Gaël can never have more than 1 intercept; any additional intercept she gains is lost.
 Artist: Christopher Shy
 
 Name: Galaric's Legacy
@@ -12732,13 +12731,13 @@ Sabbat: Gillian cannot perform political actions.
 Artist: Lawrence Snelly
 
 Name: Giotto Verducci
-[BL:U2]
+[BL:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 2
 Capacity: 7
 Discipline: for pot pre DAI OBF
-Independent: During any other Methuselah's discard phase, you may discard a card from your hand (and draw a new one). Vampires must burn a blood to attempt to block Giotto. Infernal.
+Independent: During another Methuselah's discard phase, you can discard one card (draw up afterward). Vampires must burn 1 blood to attempt to block Giotto. Infernal.
 Artist: Christopher Shy
 
 Name: Giovanni Acceptance
@@ -13670,11 +13669,11 @@ Anarch: Flight [FLIGHT].
 Artist: Ginés Quiñonero
 
 Name: Hanging Fermata
-[LoB:C]
+[LoB:C, POD:DTC]
 Cardtype: Master
 Clan: Daughter of Cacophony
-Master: out-of-turn.
-Play during your influence phase. No Choir cards are burned during this influence phase. Not usable if you played a Hanging Fermata during your last turn.
+Out-of-turn. Only usable during your influence phase. Not usable if you played a Hanging Fermata during your last turn.
+No cards named /Choir/ are burned during this influence phase.
 Artist: Avery Butterworth
 
 Name: Hanna Nokelainen
@@ -13788,21 +13787,21 @@ Independent: Blood cursed.
 Artist: Max Shade Fellwalker
 
 Name: Harlan Graves
-[HttB:U/B2]
+[HttB:U/B2, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 6
 Capacity: 4
 Discipline: mel pre FOR
-Independent: If Harlan is diablerized, no blood hunt can be called. He gets -1 intercept against non-bleed actions.
+Independent: If Harlan is diablerized, no blood hunt can be called. He gets -1 intercept during non-bleed actions.
 Artist: Andrew Trabbold
 
 Name: Harmony
-[HttB:R/B1]
+[HttB:R/B1, POD:DTC]
 Cardtype: Action
 Clan: Daughter of Cacophony
 +1 stealth action.
-(D) Your prey burns 3 pool for each Choir card you control. Burn all Choir cards you control.
+(D) Your prey burns 3 pool for each card named /Choir/ you control. Burn all those cards.
 Artist: E.M. Gist
 
 Name: Harold Tanner
@@ -14211,12 +14210,12 @@ Sabbat: After an action, you may move a combat card Henry played during that act
 Artist: James Stowe
 
 Name: Herald of Topheth
-[BL:R2]
+[BL:R2, POD:DTC]
 Cardtype: Ally
 Clan: Baali
 Cost: 3 pool
-Demon with 5 life. 3 strength, 1 bleed, flight [FLIGHT].
-The Herald may enter combat with a ready minion controlled by another Methuselah as a (D) action. The Herald may play cards requiring basic Daimoinon [dai], Potence [pot] and/or Presence [pre] as a vampire with a capacity of 5. If a card would give him blood, give him life instead. If the Herald has less than 5 life during your unlock phase, add 1 life. During your influence phase, burn 1 pool or burn the Herald.
+Demon with 5 life. 3 strength, 1 bleed, flight [FLIGHT]. Infernal.
+Herald of Topheth can play cards requiring basic Daimoinon [dai], basic Potence [pot] and/or basic Presence [pre] as a vampire with capacity 5. It can enter combat with a minion as a (D) action. If it has 4 or fewer life during your unlock phase, it gains 1 life.
 Artist: Mark Nelson
 
 Name: Herbert Westin
@@ -14415,13 +14414,13 @@ For the remainder of this action, cards that require any Disciplines cost this L
 Artist: Greg Boychuk
 
 Name: High Priest Angra Mainyu
-[BL:U2]
+[BL:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 2
 Capacity: 8
 Discipline: dem ser DAI OBF PRE
-Independent: While Angra is ready, your prey's hand size is 1 card smaller. You may burn the Edge to give Angra +1 stealth on a non-bleed action. Infernal.
+Independent: While Angra is ready, your prey gets -1 hand size. During a non-bleed action, he can burn the Edge to get +1 stealth. Infernal.
 Artist: Christopher Shy
 
 Name: High Stakes
@@ -14448,13 +14447,13 @@ This minion gets an optional press to end combat on the first round of combat. I
 Artist: Steve Prescott
 
 Name: Hillanvale
-[HttB:U/B2]
+[HttB:U/B2, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 6
 Capacity: 5
 Discipline: obf FOR MEL
-Independent: During an action, Hillanvale can burn 1 blood and discard a card requiring Melpominee [mel] to get +1 bleed. She gets -1 intercept against non-Independent, non-Anarch vampires.
+Independent: During a bleed action, Hillanvale can burn 1 blood and discard a card requiring Melpominee [mel] to get +1 bleed. She gets -1 intercept against non-Independent, non-Anarch vampires.
 Artist: Ken Meyer, Jr.
 
 Name: Hiram "Hide" DeVries
@@ -14553,13 +14552,13 @@ Camarilla: If Horatio doesn't have a title, he can call a referendum to become t
 Artist: Mike Huddleston
 
 Name: The Horde
-[HttB:U2/A3]
+[HttB:U2/A3, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 6
 Capacity: 3
 Discipline: dai obf pre
-Independent: {During a bleed action, T}he Horde can lock to give another {acting} infernal minion +1 bleed. Infernal. Non-unique.
+Independent: During a bleed action, The Horde can lock to give another acting infernal minion +1 bleed. Infernal. Non-unique.
 Artist: James Stowe
 
 Name: Horrid Form
@@ -14703,13 +14702,13 @@ Sabbat: Hugo gets -1 intercept against Lasombra and Tzimisce.
 Artist: Anson Maddocks
 
 Name: Huitzilopochtli
-[BL:R2]
+[BL:R2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 2
 Capacity: 10
 Discipline: AUS DAI DOM OBF POT PRE
-Independent: During your master phase, you may pay a pool to gain a master phase action if Huitzilopochtli is ready. +1 bleed. Infernal.
+Independent: If Huitzilopochtli is ready during your master phase, you can burn 1 pool to get +1 master phase action. Infernal. +1 bleed.
 Artist: Christopher Shy
 
 Name: Hukros
@@ -14789,7 +14788,7 @@ Independent: After Husamettin burns a vampire with a contract on them, you can s
 Artist: Lawrence Snelly
 
 Name: I am Legion
-[HttB:R/A2]
+[HttB:R/A2, POD:DTC]
 Cardtype: Action Modifier
 Cost: 1 blood
 Discipline: Daimoinon & Obfuscate
@@ -15227,10 +15226,10 @@ When Inez enters play, you may search your library (shuffle afterward) or hand f
 Artist: Jim Pavelec
 
 Name: Infamous Insurgent
-[Promo-20100510]
+[Promo-20100510, POD:DTC]
 Cardtype: Master
-Unique master.
-Put this card on a Red List {A}narch vampire. This vampire is infernal, Bahari, and gets 2 additional votes. During this vampire's minion phase, his or her controller may unlock a ready anarch he or she controls.
+Unique.
+Put this card on a Red List Anarch vampire. This vampire is infernal, Bahari, and gets +2 votes. During this vampire's minion phase, their controller can unlock a ready Anarch they control.
 Artist: Erica Danell
 
 Name: Infamous Warlock
@@ -15277,13 +15276,13 @@ Discipline: Celerity
 Artist: Ron Spencer
 
 Name: Infernal Servitor
-[HttB:R2/A1]
+[HttB:R2/A1, POD:DTC]
 Cardtype: Ally
 Cost: 1 pool
 Discipline: Daimoinon
 Unique demon with 2 life. 1 strength, 3 bleed. Requires an infernal vampire.
-[dai] Infernal Servitor can act the turn it is recruited. Remove it from the game if you control no infernal vampires, or after it performs a successful action.
-[DAI] As above, and the Servitor can play cards requiring basic Daimoinon [dai] {and/or} Obfuscate [obf] as a vampire.
+[dai] Infernal Servitor can perform actions the turn it is recruited. Remove it from the game if you control no infernal vampires, or after it performs a successful action.
+[DAI] As above, and Infernal Servitor can play cards requiring basic Daimoinon [dai] and/or basic Obfuscate [obf] as a vampire.
 Artist: Erica Danell
 
 Name: Inflict
@@ -16003,7 +16002,7 @@ Sabbat: Non-combat cards cost Jane {+1} blood.
 Artist: Steve Ellis
 
 Name: Janet Langer
-[HttB:U/B2]
+[HttB:U/B2, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 5
@@ -17167,10 +17166,10 @@ Requires a ready vampire. Unique.
 Artist: Fred Harper
 
 Name: Kaymakli Fragment
-[Promo-20081023]
+[Promo-20081023, POD:DTC]
 Cardtype: Equipment
-Unique equipment.
-This Sabbat vampire may allow you to draw 5 cards from your library as an action (discard afterward). This infernal minion may move 3 blood from the bank to a vampire in your uncontrolled region as a +1 stealth action. Any minion may steal this equipment as a strike.
+Unique.
+This Sabbat vampire can draw 5 cards as an action (discard down afterward). This infernal minion can add 3 blood to a vampire in your uncontrolled region as a +1 stealth action. An opposing minion can strike: steal this equipment.
 Artist: Justin Norman
 
 Name: Kaymakli Nightmares
@@ -17656,10 +17655,10 @@ Unique mortal with 2 life. 2 strength, 0 bleed.
 Artist: Brian LeBlanc; L. A. Williams
 
 Name: Knotted Cord
-[HttB:R]
+[HttB:R, POD:DTC]
 Cardtype: Action Modifier/Reaction
-Requires an infernal vampire. Only usable during a referendum.
-Choose a younger vampire. The chosen vampire abstains. This can cancel that vampire's votes and ballots.
+Requires an infernal vampire. Only usable during the polling step of a political action.
+Force a younger vampire to abstain (this can cancel their votes and ballots).
 Artist: Joel Biske
 
 Name: KoKo
@@ -18580,12 +18579,12 @@ Independent.
 Artist: Andrew Trabbold
 
 Name: Lily Prelude
-[HttB:C/B1]
+[HttB:C/B1, POD:DTC]
 Cardtype: Political Action
 Cost: 1 blood
 Discipline: Melpominee
 [mel] Allocate 4 points among one or more Methuselahs. Successful referendum means each Methuselah burns 1 pool for each point allocated.
-[MEL] As above, and choose any Methuselah. Successful referendum means the chosen Methuselah gains 1 pool.
+[MEL] As above, and choose a Methuselah. Successful referendum means the chosen Methuselah gains 1 pool.
 Artist: Leif Jones
 
 Name: Lin Jun
@@ -19506,13 +19505,13 @@ Put this card in play. All players in the game must speak in rhyming sentences. 
 Artist: Harold Arthur McNeill
 
 Name: Madrigal
-[BL:C2, LoB:C]
+[BL:C2, LoB:C, POD:DTC]
 Cardtype: Action Modifier/Reaction
 Discipline: Melpominee/Presence
-Only usable during a referendum before votes and ballots are cast.
-[pre] [REACTION] Only usable by a reacting vampire. Gain 2 votes.
-[mel] [ACTION MODIFIER][REACTION] Gain 2 votes.
-[MEL] [ACTION MODIFIER][REACTION] As [mel] above, and any vampire casting votes or ballots in agreement with this vampire gains 1 blood from the blood bank. Any vampire casting votes or ballots in opposition to this vampire burns 1 blood. Blood is gained or lost when the results are tallied.
+Only usable during the polling step of a political action before votes and ballots are cast.
+[pre] [REACTION] This vampire gets +2 votes.
+[mel] [ACTION MODIFIER][REACTION] This vampire gets +2 votes.
+[MEL] [ACTION MODIFIER][REACTION] As [mel] above, and vampires casting votes or ballots in agreement with this vampire gain 1 blood. Vampires casting votes or ballots in opposition to this vampire burn 1 blood. Blood is gained or burned once results are tallied.
 Artist: Dennis Calero
 
 Name: Magazine
@@ -20330,13 +20329,13 @@ Sabbat: Older vampires with Presence [pre] can steal Mary as a (D) action.
 Artist: Jim Pavelec
 
 Name: Mary the Black
-[BL:U2]
+[BL:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 2
 Capacity: 7
 Discipline: cel obf pot DAI PRE
-Independent: Once each round, Mary may burn a blood to make the damage from her hand strikes aggravated for the current round. Infernal.
+Independent: Once each round, Mary can burn 1 blood to make the damage from her hand strikes aggravated that round. Infernal.
 Artist: Christopher Shy
 
 Name: Masai Blood Milk
@@ -20626,13 +20625,13 @@ Independent: While Matthias is ready, Baali and Ministers get -1 bleed against y
 Artist: Christopher Shy
 
 Name: Maureen, Dark Priestess
-[KMW:PB2]
+[KMW:PB2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 4
 Capacity: 6
 Discipline: dom obf DAI PRE
-Independent: Maureen has 1 vote (titled). Once each turn, when Maureen successfully performs an action requiring Baali or Daimoinon [dai], you gain 1 pool. Infernal.
+Independent. 1 vote (titled): Once each turn, you can gain 1 pool after Maureen performs a successful action requiring a Baali or Daimoinon [dai]. Infernal.
 Artist: David Day
 
 Name: The Mausoleum, Venice
@@ -20839,11 +20838,11 @@ Sabbat Archbishop of London: During an action she performs, Mélusine can burn 1
 Artist: Jesús Ybarzábal
 
 Name: Member of the Entourage
-[HttB:R2/B1]
+[HttB:R2/B1, POD:DTC]
 Cardtype: Ally
 Clan: Daughter of Cacophony
 Mortal with 2 life. 0 strength, 0 bleed.
-This ally cannot act. During a (D) action against you (or a card you control), this ally can burn 1 life to get +1 intercept. Burn this ally if he blocks a vampire, before block resolution.
+This ally cannot perform actions. During an action directed at you (or a card you control), this ally can burn 1 life to get +1 intercept. Burn this ally if he blocks a vampire, before block resolution.
 Artist: Phil Wohr
 
 Name: Memories of Mortality
@@ -21342,11 +21341,11 @@ Laibon.
 Artist: Rebecca Guay
 
 Name: The Missing Voice
-[BL:C2, LoB:C]
+[BL:C2, LoB:C, POD:DTC]
 Cardtype: Action Modifier
 Discipline: Melpominee/Celerity
-[cel] Requires a vampire with a capacity greater than 4. Vampires with a capacity less than 5 get -1 intercept when attempting to block this action.
-[mel] Allies and younger vampires get -1 intercept when attempting to block this action.
+[cel] Requires a vampire with capacity 5 or more. Vampires with capacity 4 or less get -1 intercept.
+[mel] Allies and younger vampires get -1 intercept.
 [MEL] +1 stealth.
 Artist: Brian LeBlanc
 
@@ -21917,7 +21916,7 @@ Discipline: Dominate
 Artist: Jim Di Bartolo
 
 Name: Muse
-[BL:U2]
+[BL:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 2
@@ -22346,7 +22345,7 @@ Nephren-Ka can prevent 1 non-aggravated damage each combat. He can play cards re
 Artist: Mark Poole
 
 Name: Nergal
-[Promo-20051001, Promo-20190408]
+[Promo-20051001, Promo-20190408, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 5
@@ -22356,14 +22355,14 @@ Independent: Once each turn, Nergal can reduce the cost of a card he plays by 1 
 Artist: Mark Poole
 
 Name: Nergal
-[Promo-20080203, Promo-20190408]
+[Promo-20080203, Promo-20190408, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Level: Advanced
 Group: 5
 Capacity: 10
 Discipline: AUS DAI FOR OBF PRE THA
-Independent: While Nergal is acting, reaction cards cost 1 additional blood. Once each action, he can burn 1 blood to get +1 stealth. Infernal.
+Independent: While Nergal is acting, reaction cards cost +1 blood. During an action, he can burn 1 blood to get +1 stealth. Infernal.
 Artist: Ron Lemon
 
 Name: Nest of Eagles
@@ -23517,13 +23516,13 @@ Independent: During your master phase, discard a master card or lock Pariah. Par
 Artist: Richard Thomas
 
 Name: Paris Opera House
-[BL:R1, LoB:R]
+[BL:R1, LoB:R, POD:DTC]
 Cardtype: Master
 Clan: Daughter of Cacophony
 Cost: 2 pool
 Burn Option
-Master: unique location.
-Lock to give a Daughter of Cacophony you control +1 stealth. Lock this card and a Daughter of Cacophony you control to give any minion +1 stealth.
+Unique location.
+You can lock this card to give a Daughter of Cacophony you control +1 stealth. You can lock this card and a Daughter of Cacophony you control to give a minion +1 stealth.
 Artist: William O'Connor
 
 Name: Parity Shift
@@ -23623,10 +23622,10 @@ Put this card in play. When a minion controlled by another Methuselah is burned,
 Artist: David Day
 
 Name: Path of Evil Revelations
-[BH:R]
+[BH:R, POD:DTC]
 Cardtype: Master
-Unique master.
-Put this card in play. During your master phase, you may burn 1 pool to unlock all infernal minions you control. Any minion may burn this card as a (D) action; if that minion is a vampire, he or she takes one damage (damage not preventable) when this card is burned.
+Unique.
+Put this card in play. During your master phase, you can burn 1 pool to unlock all infernal minions you control. Minions can burn this card as a (D) action that inflicts 1 unpreventable environmental damage on acting vampires.
 Artist: Steve Prescott
 
 Name: The Path of Harmony
@@ -24045,14 +24044,14 @@ Camarilla: Once each action, Persia can burn 1 blood to get +1 intercept.
 Artist: Max Shade Fellwalker
 
 Name: Persistent Echo
-[LoB:R]
+[LoB:R, POD:DTC]
 Cardtype: Action
 Cost: 1 blood
 Discipline: Melpominee/Auspex
 +1 stealth action.
 [aus] Unlock a vampire with Melpominee [mel].
-[mel] Put this card in play and put a card from your hand that requires Melpominee on this card, face down. You may look at the card at any time. Any vampire you control may burn this card to play the card on it as if from your hand and as if he or she had basic Melpominee.
-[MEL] As [mel] above, and the vampire may play the card as if he or she had superior Melpominee [MEL].
+[mel] Put this card in play with one card requiring Melpominee from your hand on it, face down and out of play (you can look at the card at any time). A vampire you control can burn this card to play the card on it as if from your hand and as if they had basic Melpominee.
+[MEL] As [mel] above, and the vampire can play the card as if they had superior Melpominee.
 Artist: Abrar Ajmal
 
 Name: Persona Non Grata
@@ -24080,24 +24079,24 @@ Only usable at close range.
 Artist: Patrick Lambert
 
 Name: Petaniqua
-[KMW:U/PB]
+[KMW:U/PB, POD:DTC]
 Cardtype: Vampire
 Clan: Malkavian
 Group: 4
 Capacity: 9
 Discipline: chi AUS DAI DEM OBF THA
-Camarilla. Red List: During any round of combat after the first, a minion opposing Petaniqua takes 2 points of damage before range is determined. Recruiting allies and employing retainers costs Petaniqua 1 less blood or pool. +1 bleed. Infernal.
+Camarilla: Once each round of combat after the first, minions in combat with Petaniqua take 2 damage before range is determined. Allies and retainers cost her -1 blood or pool. Infernal. Red List. +1 bleed.
 Artist: Steve Eidson
 
 Name: Petaniqua
-[KMW:U/PB]
+[KMW:U/PB, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Level: Advanced
 Group: 4
 Capacity: 9
 Discipline: chi AUS DAI DEM OBF THA
-Advanced, Independent. Red List: Once each combat, Petaniqua may burn a blood to gain a press. Petaniqua may recruit a werewolf ally as if she meets the requirements of playing that card. +1 strength. Infernal.
+Independent: Once each combat, Petaniqua can burn 1 blood to get 1 press. She can recruit a werewolf ally as if she met the requirements of playing that card. Infernal. Red List. +1 strength.
 Artist: Richard Thomas
 
 Name: Peter Blaine
@@ -25226,14 +25225,14 @@ Discipline: Obfuscate
 Artist: Heather Hudson; Brian LeBlanc
 
 Name: Psychomachia
-[BL:C2, KMW:PB3]
+[BL:C2, KMW:PB3, POD:DTC]
 Cardtype: Action Modifier
 Cost: 1 blood
 Discipline: Daimoinon/Presence
-Only usable when an ally or younger vampire successfully blocks before locking the blocker.
-[pre] Cancel the current action and unlock this acting vampire. The blocking minion is not locked.
+Only usable if an ally or younger vampire blocks, before block resolution.
+[pre] Unlock this vampire, and the action ends (unsuccessfully).
 [dai] The block fails, and the action continues. The blocking minion cannot attempt to block this action again.
-[DAI] As [dai] above, and the blocking minion takes 1 damage (damage not preventable).
+[DAI] As [dai] above, and the blocking minion takes 1 unpreventable environmental damage.
 Artist: Steve Prescott
 
 Name: Public Enemy
@@ -26912,10 +26911,10 @@ Not usable on the first round of combat.
 Artist: Pete Burges & Dave Roach
 
 Name: Rise of the Fallen
-[Promo-20150221, TU:A1/B1]
+[Promo-20150221, TU:A1/B1, POD:DTC]
 Cardtype: Action
 +1 stealth action. Requires an infernal minion. Unique.
-Put this card in play. Your prey burns 1 pool after resolution of each action during which you have burned corruption counters. Any Methuselah can burn a vampire they control with any corruption counters during their unlock phase to burn this card.
+Put this card in play. Your prey burns 1 pool after resolution of each action during which you have burned corruption counters. Methuselahs can burn a vampire they control with any corruption counters during their unlock phase to burn this card.
 Artist: Ginés Quiñonero
 
 Name: Rise of the Nephtali
@@ -27209,13 +27208,13 @@ Lock this location and burn a conviction [1 CONVICTION] from a ready imbued you 
 Artist: John Bridges
 
 Name: Rosemarie
-[LoB:U]
+[LoB:U, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 4
 Capacity: 3
 Discipline: mel FOR
-Camarilla: Combat cards that do not require Fortitude [for] cost Rosemarie an additional blood.
+Camarilla: Combat cards that do not require Fortitude [for] cost Rosemarie +1 blood.
 Artist: Lawrence Snelly
 
 Name: Rötschreck
@@ -27315,11 +27314,11 @@ The Tremere antitribu with this location gets an optional maneuver or press each
 Artist: Eric Lofgren
 
 Name: Ruins of Charizel
-[KMW:R/PB]
+[KMW:R/PB, POD:DTC]
 Cardtype: Master
 Clan: Baali
-Master: unique location.
-Put pool you burn to unlock your infernal minions (using the infernal ability) on this card. Once each action, you may burn X counters from this card to reduce a bleed against you by X. Burn all counters from this card during your predator's discard phase.
+Unique location.
+Put pool you burn to unlock infernal minions you control using the infernal trait on this card. During an action, you can burn X counters from this card to reduce a bleed against you by X. During your predator's discard phase, burn all the counters from this card.
 Artist: Mark Poole
 
 Name: Ruins of Villers Abbey, Belgium
@@ -27813,13 +27812,13 @@ Independent: Sarah gets an optional maneuver and an optional press when in comba
 Artist: Matt Mitchell
 
 Name: Sargon
-[BL:U2]
+[BL:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 2
 Capacity: 5
 Discipline: cel dai obf pre
-Independent: Whenever Sargon successfully performs an action, you get the Edge. +1 strength. Infernal.
+Independent: After Sargon performs a successful action, you gain the Edge. Infernal. +1 strength.
 Artist: Christopher Shy
 
 Name: The Sargon Fragment
@@ -27957,13 +27956,13 @@ Camarilla Tremere Slave: Flight [FLIGHT].
 Artist: Christopher Shy
 
 Name: Sayshila
-[LoB:U]
+[LoB:U, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 4
 Capacity: 7
 Discipline: dem FOR MEL PRE
-Independent: During a referendum, if Sayshila is ready, you may lock her to give another titled vampire you control 2 additional votes. Opposing minions cannot use presses to continue against her.
+Independent: If Sayshila is ready during the polling step of any referendum, she can lock to give another titled vampire you control +2 votes. Minions in combat with her cannot press to continue combat.
 Artist: Lawrence Snelly
 
 Name: Scalpel Tongue
@@ -28088,13 +28087,13 @@ During your discard phase, you can burn a vampire with capacity 2 or less, and y
 Artist: Jeremy McHugh
 
 Name: Scout Youngwood
-[HttB:U/B2]
+[HttB:U/B2, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 6
 Capacity: 8
 Discipline: for qui MEL OBF PRE
-Independent. 2 votes (titled): During your unlock phase, Scout can burn 2 blood to lock an ally or younger vampire controlled by your prey. Reaction cards cost her 1 additional blood.
+Independent. 2 votes (titled): During your unlock phase, Scout can burn 2 blood to lock an ally or younger vampire controlled by your prey. Reaction cards cost her +1 blood.
 Artist: Efrem Palacios
 
 Name: Scouting Mission
@@ -28379,12 +28378,12 @@ Requires a vampire with capacity above 6.
 Artist: Eric Lofgren
 
 Name: Sense the Sin
-[BL:C2, KMW:PB3]
+[BL:C2, KMW:PB3, POD:DTC]
 Cardtype: Action Modifier/Reaction
 Discipline: Daimoinon/Auspex
-[aus] Only usable when a younger vampire is acting. +1 intercept.
-[dai] +1 intercept. +2 intercept if the acting minion has a corruption counter.
-[DAI] {Only usable during a bleed action. +2 bleed (limited).} Minions with corruption counters get -1 intercept when attempting to block this action.
+[aus] [REACTION] Only usable if a younger vampire is acting. +1 intercept.
+[dai] [REACTION] +1 intercept, with an additional +1 intercept if the acting minion has any corruption counters.
+[DAI] [ACTION MODIFIER] Only usable during a bleed action. +2 bleed (limited). Minions with any corruption counters get -1 intercept.
 Artist: Leif Jones
 
 Name: Sense Vibrations
@@ -28857,12 +28856,12 @@ Laibon: Shasa gets +1 bleed when bleeding with an action card that requires Pres
 Artist: Jeff Holt
 
 Name: Shatter the Gate
-[HttB:C/A3]
+[HttB:C/A3, POD:DTC]
 Cardtype: Action
 Clan: Baali
 Burn Option
 +1 stealth action. Requires an infernal Baali with capacity 9 or more.
-Put this card on this Baali. A vampire with capacity 6 or more can burn the Edge to burn this card as a (D) action. If this Baali has three Shatter the Gate, burn them all to give each other Methuselah 1 shattered counter. A Methuselah with any shattered counters burns 3 pool during their unlock phase.
+Put this card on this Baali; if this Baali has three copies of this card, burn these copies to give each other Methuselah who has no shattered counters 1 shattered counter with "During your unlock phase, burn 3 pool". A vampire with capacity 6 or more can burn the Edge to burn this card as a (D) action.
 Artist: Samuel Araya
 
 Name: Shattered Mirror
@@ -28894,12 +28893,12 @@ Discipline: Potence
 Artist: Anson Maddocks
 
 Name: Shattering Crescendo
-[HttB:C/B4]
+[HttB:C/B4, POD:DTC]
 Cardtype: Action
 Cost: 1 blood
 Discipline: Melpominee/Protean
 [pro] (D) Inflict 1 unpreventable damage on an ally or retainer.
-[mel] (D) Discard a Shattering Crescendo to inflict 2 unpreventable damage on each of up to 2 minions controlled by a single Methuselah.
+[mel] (D) Discard a Shattering Crescendo to inflict 2 unpreventable damage on each of up to two minions controlled by a single Methuselah.
 [MEL] As [mel] above, but for 3 unpreventable damage each.
 Artist: Marian Churchland
 
@@ -29262,11 +29261,11 @@ The vampire with this equipment is immune to frenzy cards (including Brujah Fren
 Artist: Jim Nelson
 
 Name: Siren's Lure
-[BL:R1, LoB:R]
+[BL:R1, LoB:R, POD:DTC]
 Cardtype: Action Modifier
 Discipline: Melpominee/Celerity
-[cel] This vampire burns 2 blood to get +1 stealth.
-[mel] Only usable by an unlocked ready vampire other than the acting minion when a minion attempts to block. That minion cannot block this action. Lock this vampire and that minion. Once the action resolves, this vampire enters combat with that minion.
+[cel] Burn 2 blood to get +1 stealth.
+[mel] Only usable by a ready unlocked vampire other than the acting minion if a minion attempts to block. That attempt fails and the blocking minion cannot attempt to block this action again. Lock this vampire and the blocking minion. After the action resolution, this vampire and the blocking minion enter combat.
 [MEL] As [mel] above, but do not lock this modifying vampire.
 Artist: Steve Prescott
 
@@ -31351,10 +31350,10 @@ Choose a vampire. Methuselahs may bid pool for control of that vampire. The winn
 Artist: Christopher Rush; Brian LeBlanc
 
 Name: Tend the Flock
-[HttB:C/A2]
+[HttB:C/A2, POD:DTC]
 Cardtype: Master
 Clan: Baali
-Choose a ready unlocked infernal Baali you control. Add 3 {blood} to a younger infernal vampire in your uncontrolled region.
+Choose a ready unlocked infernal Baali you control. Add 3 blood to a younger infernal vampire in your uncontrolled region.
 Artist: Paul Ballard
 
 Name: Tenebrous Form
@@ -31460,11 +31459,11 @@ Sabbat. Chicago Circle: Once each combat, Terry can burn 1 blood to get a press.
 Artist: Christopher Shy
 
 Name: The Textbook Damnation
-[KMW:R]
+[KMW:R, POD:DTC]
 Cardtype: Equipment
 Cost: 1 pool
-Unique equipment.
-The vampire with this equipment has superior Daimoinon [DAI] and is infernal. Cards that require Daimoinon [dai] cost this vampire 2 less blood. During your master phase, if this vampire is locked, burn this equipment.
+Unique.
+This vampire gets superior Daimoinon [DAI] and is infernal. Cards requiring Daimoinon [dai] cost this vampire -2 blood. If this vampire is locked during your master phase, burn this equipment.
 Artist: Brian LeBlanc
 
 Name: Thadius Zho
@@ -31939,13 +31938,13 @@ Choose a ready Toreador. Successful referendum means this card is put on the cho
 Artist: Heather Hudson; William O'Connor
 
 Name: Toreador's Bane
-[BL:C1, LoB:R]
+[BL:C1, LoB:R, POD:DTC]
 Cardtype: Combat
 Discipline: Melpominee/Presence
 Only usable in combat with a Toreador, Toreador antitribu, ally or younger vampire.
 [pre] Strike: combat ends.
-[mel] Strike: combat ends, and if this vampire was blocked while performing an action other than a political action or bleeding, the action continues as if unblocked.
-[MEL] Strike: combat ends, and if this vampire was blocked, the action continues as if unblocked.
+[mel] Strike: combat ends. After combat ends, if this vampire was blocked while performing a non-bleed non-political action, the action continues as if unblocked.
+[MEL] As [mel] above, but usable to continue a bleed or political action.
 Artist: Leif Jones
 
 Name: Tori Longwood
@@ -32038,7 +32037,7 @@ Only usable when a bleed against you is successful or a referendum passes. Play 
 Artist: Brian LeBlanc
 
 Name: Tourette's Voice
-[BL:C2, LoB:C]
+[BL:C2, LoB:C, POD:DTC]
 Cardtype: Reaction
 Discipline: Melpominee/Auspex
 [aus] +1 intercept.
@@ -32396,11 +32395,11 @@ When this card is placed on a vampire, put five counters on it. The vampire with
 Artist: David Day
 
 Name: True Faith
-[BL:R2]
+[BL:R2, POD:DTC]
 Cardtype: Master
 Cost: 1 pool
-Unique master.
-Put this card on a non-infernal mortal ally you control, or pay 2 pool to put this card on any non-infernal minion you control. Actions requiring Dominate [dom] or Presence [pre] cannot be directed at this minion. In combat, any damage this minion inflicts on an infernal minion is aggravated. Infernal minions cannot block or strike this minion. Burn this card if this minion becomes infernal.
+Unique.
+Put this card on a non-infernal mortal ally you control, or burn 2 pool to put this card on a non-infernal minion you control. This minion cannot be the target of directed actions requiring Dominate [dom] or Presence [pre]. In combat, damage this minion inflicts on infernal minions is aggravated. Infernal minions cannot block or strike against this minion. Burn this card if this minion becomes infernal.
 Artist: Talon Dunning
 
 Name: True Love's Face
@@ -32854,12 +32853,12 @@ Discipline: Fortitude
 Artist: Brian LeBlanc
 
 Name: Undying Thirst
-[KMW:R]
+[KMW:R, POD:DTC]
 Cardtype: Reaction
 Clan: Baali
 Burn Option
-Only usable when a Baali successfully blocks (play before combat, if any).
-Put this card on the acting vampire. When there are any vampires in torpor that this vampire can diablerize, this vampire cannot take any action other than diablerie (although he or she is free not to take any action). If this vampire must hunt, he or she may choose to diablerize a vampire instead.
+Only usable if this Baali blocks, before block resolution.
+Put this card on the acting vampire. If there are any vampires in torpor that the attached vampire can diablerize, they cannot perform any action other than diablerie (although they are free not to perform any action). If they must hunt, they can choose to diablerize a vampire instead.
 Artist: Satyr
 
 Name: Unexpected Coalition
@@ -32913,13 +32912,13 @@ During your unlock phase, a ready vampire you control can gain 1 blood. A vampir
 Artist: Mike Raabe
 
 Name: Unleash Hell's Fury
-[HttB:R, Anthology:1]
+[HttB:R, Anthology:1, POD:DTC]
 Cardtype: Action
 Cost: 2 pool
 Discipline: Daimoinon
 Burn Option
 +1 stealth action. Requires an infernal vampire. Unique.
-[dai] Put this card in play. This card can attempt to block a (D) action against you {(or a card you control)} and is considered a 9-capacity infernal vampire with +2 intercept during that attempt; if successful, the acting minion takes 1 unpreventable {environmental} aggravated damage{} and this card is burned.
+[dai] Put this card in play. This card can attempt to block an action directed at you (or a card you control) and is considered a 9-capacity infernal vampire with +2 intercept during that attempt; if successful, the acting minion takes 1 unpreventable environmental aggravated damage and this card is burned.
 [DAI] As above, and unlock this vampire.
 Artist: Brian LeBlanc; Ginés Quiñonero; Brian LeBlanc
 
@@ -32958,13 +32957,13 @@ Allies get +1 intercept against vampires.
 Artist: Steve Ellis; Javier Santos; Steve Ellis
 
 Name: The unnamed
-[HttB:U/A2]
+[HttB:U/A2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 6
 Capacity: 10
 Discipline: CEL DAI OBF PRE PRO
-Independent: The unnamed can burn 1 blood to strike: 2R aggravated damage. You can gain 2 pool after it successfully bleeds. Infernal.
+Independent: The unnamed can burn 1 blood to strike: 2R aggravated damage. After it successfully bleeds, you can gain 2 pool. Infernal.
 Artist: Samuel Araya
 
 Name: Unnatural Disaster
@@ -33417,13 +33416,13 @@ Artist: Jeff Holt
 
 Name: Veneficti
 AKA: Veneficti (Mage)
-[HttB:R/A1]
+[HttB:R/A1, POD:DTC]
 Cardtype: Ally
 Clan: Baali
 Cost: 1 pool
 Burn Option
 Unique mage with 2 life. 1 strength, 2 bleed. Requires an infernal vampire.
-Veneficti has +1 stealth. He can steal a demon ally or burn a demon retainer as a (D) action. He cannot be the target of a (D) action by {an ally or a vampire with capacity 6 or less}.
+Veneficti has +1 stealth. He can steal a demon ally or burn a demon retainer as a (D) action. He cannot be the target of a directed action performed by an ally or a vampire with capacity 6 or less.
 Artist: Paul Ballard
 
 Name: Venenation
@@ -33800,12 +33799,12 @@ Camarilla: If Virstania is ready, any ready slave Gargoyle may remove his or her
 Artist: Ken Meyer, Jr.
 
 Name: Virtuosa
-[HttB:C/B2]
+[HttB:C/B2, POD:DTC]
 Cardtype: Action Modifier
 Cost: 3 blood
 Discipline: Melpominee/Presence
 [pre] +1 stealth.
-[mel] Only usable during a bleed action. +1 stealth and +2 bleed {(limited)}, or +2 bleed {(limited)}.
+[mel] Only usable during a bleed action. +1 stealth and +2 bleed (limited), or +2 bleed (limited).
 [MEL] Only usable as the action is announced. This action is unblockable.
 Artist: Juan Calle
 
@@ -34705,7 +34704,7 @@ Sabbat priscus.
 Artist: Abrar Ajmal
 
 Name: Xeper, Sultan of Lepers
-[HttB:U/A2]
+[HttB:U/A2, POD:DTC]
 Cardtype: Vampire
 Clan: Baali
 Group: 6
@@ -34865,13 +34864,13 @@ Sabbat cardinal: Non-infernal, non-demon minions opposing Ysador in combat canno
 Artist: James Stowe
 
 Name: Yseult
-[LoB:U]
+[LoB:U, POD:DTC]
 Cardtype: Vampire
 Clan: Daughter of Cacophony
 Group: 3
 Capacity: 6
 Discipline: FOR MEL PRE
-Sabbat: When Yseult plays a card that requires Melpominee [mel], you may draw an additional card. Discard afterward. Yseult cannot block vampires with capacity above 4.
+Sabbat: After you replace a card requiring Melpominee [mel] Yseult played, you can draw 1 additional card. She cannot block vampires with capacity 5 or more.
 Artist: Lawrence Snelly
 
 Name: Yuri, The Talon

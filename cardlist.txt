@@ -1,4 +1,4 @@
-﻿Name: .44 Magnum
+Name: .44 Magnum
 [Jyhad:C, VTES:C, Sabbat:C, SW:PB, CE:PTo3, LoB:PO3, FB:PTr2, V5:PTr1]
 Cardtype: Equipment
 Cost: 2 pool
@@ -1461,7 +1461,7 @@ Camarilla: {If} a vampire you control would successfully bleed, you can reduce t
 Artist: Juan Antonio Serrano Garcia
 
 Name: André the Manipulator
-[Anthology:LARP1]
+[Anthology:LARP1, SoB:10]
 Cardtype: Vampire
 Clan: Gangrel
 Group: 5
@@ -1753,13 +1753,13 @@ Independent. 2 votes (titled): Annazir can burn a location or steal an equipment
 Artist: Nicolas Bigot
 
 Name: Anne-Marie Bourgeois, Inconnu Recruiter
-[Anthology:LARP1]
+[Anthology:LARP1, SoB:10]
 Cardtype: Vampire
 Clan: Toreador
 Group: 5
 Capacity: 5
 Discipline: cel pre AUS
-Camarilla: Equipment costs Anne-Marie 1 {fewer} pool.
+Camarilla: Equipment cost Anne-Marie -1 pool.
 Artist: Carmen Cornet
 
 Name: Anneke
@@ -2032,11 +2032,11 @@ Requires a vampire with capacity 7 or more.
 Artist: Monte Moore
 
 Name: Aranthebes, The Immortal
-[Anarchs:R, Third:PB]
+[Anarchs:R, Third:PB, SoB:1]
 Cardtype: Action
 Cost: 1 pool
 +1 stealth action. Unique.
-Put this card into play. You may lock Aranthebes to give a minion controlled by your predator -1 stealth for the current action. While Aranthebes is unlocked, vampires with a capacity less than 5 get -1 bleed when bleeding you. Any vampire with a capacity above 4 can move Aranthebes to your library as a (D) action. Shuffle afterward.
+Put this card in play. You can lock Aranthebes to give a minion controlled by your predator -1 stealth. While Aranthebes is unlocked, vampires with capacity 4 or less get -1 bleed against you. Vampires with capacity 5 or more can shuffle Aranthebes into your library as a (D) action.
 Artist: Andrew Trabbold
 
 Name: The Arcadian
@@ -12146,6 +12146,16 @@ Discipline: aus cel dem obf pre
 Sabbat. Black Hand.
 Artist: Steve Ellis
 
+Name: Gabriel Tremblay
+[Promo-20230531:Chapters]
+Cardtype: Vampire
+Clan: Caitiff
+Group: 6
+Capacity: 4
+Discipline: aus pot pro
+Anarch: Once each combat, Gabriel can discard a card requiring an Anarch to get +1 strength that combat. -1 stealth.
+Artist: Marc Simonetti
+
 Name: Gabrielle di Righetti
 [KoT:V/B2]
 Cardtype: Vampire
@@ -12905,10 +12915,9 @@ Discipline: Mytherceria/Potence
 Artist: Roel Wielinga
 
 Name: Golconda: Inner Peace
-[Jyhad:R, VTES:R, CE:R, Third:PTr, KoT:R/PV]
+[Jyhad:R, VTES:R, CE:R, Third:PTr, KoT:R/PV, SoB:1]
 Cardtype: Master
-Master.
-Choose a vampire with a capacity 8 or more. Remove that vampire from the game. His or her controller gains pool equal to the vampire's capacity. His or her controller may cancel this card as it is played by burning 2 pool.
+Remove a vampire with capacity 8 or more from the game. Their controller gains pool equal to the vampire's capacity. Their controller can burn 2 pool to cancel this card as it is played.
 Artist: Kaja Foglio; James Stowe
 
 Name: Gold Pan Dan
@@ -13627,7 +13636,7 @@ Only usable during the first round of combat.
 Artist: James Richardson; Samuel Araya
 
 Name: Hamid Mansour
-[Anthology:LARP1]
+[Anthology:LARP1, SoB:10]
 Cardtype: Vampire
 Clan: Ventrue
 Group: 5
@@ -18062,13 +18071,13 @@ Sabbat bishop: When Laszlo calls a referendum, he may choose a younger vampire. 
 Artist: Avery Butterworth
 
 Name: Laura Goldman
-[Anthology:LARP1]
+[Anthology:LARP1, SoB:10]
 Cardtype: Vampire
 Clan: Brujah
 Group: 5
 Capacity: 3
 Discipline: cel pre
-{Anarch}.
+Anarch.
 Artist: Mark Kelly
 
 Name: Lauren
@@ -18608,10 +18617,10 @@ Camarilla.
 Artist: Mike Gaydos
 
 Name: The Line
-[Anthology:LARP1]
+[Anthology:LARP1, SoB:1]
 Cardtype: Master
 Unique location.
-Lock to reduce the cost of an action card played by a vampire you control by 1 blood (this location is not locked if that card is canceled as it is played). Any vampire can steal this location as a (D) action.
+You can lock this location to reduce the cost of an action card a vampire you control plays by 1 blood (this location is not locked if that card is canceled as it is played). Vampires can steal this location as a (D) action.
 Artist: Carmen Cornet
 
 Name: Line Brawl
@@ -32551,10 +32560,9 @@ Once each combat, Tutu can strike: dodge. During your minion phase, Tutu can unl
 Artist: Lawrence Snelly
 
 Name: Twilight Camp
-[TR:R]
+[TR:R, SoB:1]
 Cardtype: Master
-Master.
-Put this card in play with 4 counters. When you put a non-titled, non-{A}narch vampire in play from your uncontrolled region, you may burn a counter from this card to make that vampire {Anarch}. You may burn a counter from this card to add a blood to an anarch as a master phase action. Burn this card when it has no counters.
+Put this card in play with 4 blood. After you put a non-titled non-Anarch vampire in play from your uncontrolled region, you can burn 1 blood from this card to make that vampire Anarch. You can use a master phase action to move 1 blood from this card to an Anarch. If this card has no blood, burn it.
 Artist: Leif Jones
 
 Name: Twisted Forest
@@ -34330,7 +34338,7 @@ During any Methuselah's unlock phase, you can look at the top card of that Methu
 Artist: Matt Mitchell
 
 Name: Weirich Waldburg
-[Anthology:LARP1]
+[Anthology:LARP1, SoB:10]
 Cardtype: Vampire
 Clan: Ventrue
 Group: 3

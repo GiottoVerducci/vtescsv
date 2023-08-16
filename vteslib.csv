@@ -5342,7 +5342,7 @@ Hardestadt, Ventrue","Gehenna:R, KoT:R, Anthology:1, SP:PwN1","","Steve Ellis; J
 Burn a location.","I'm terribly sorry about the gas leak in the sewers. At least it's not combustible, right? Right?
 Basil, Pander","Jyhad:C, VTES:C, Sabbat:C, SW:PT, CE:PTr","","Ted Naifeh; Harold Arthur McNeill",""
 "102081","Unseen Hibernation","","Reaction","","Abombwe","","1","","","[abo] [REFLEX] Cancel a frenzy card played on this vampire as it is played.
-[abo] Only usable during a (D) action directed at this vampire. Not usable if the acting minion is an older vampire. The action ends (unsuccessfully), and no cost is paid.
+[abo] Only usable during a (D) action directed at this vampire. Not usable if the acting minion is an older vampire. The action {fails}, and no cost is paid.
 [ABO] As above, but usable by a locked vampire.","","LoB:C/PA","","Alexander Dunnigan",""
 "102082","Unwholesome Bond","","Action","","Sanguinus","","","","","+1 stealth action.
 [san] This vampire gains X+1 blood, where X is the number of ready, unlocked Blood Brothers of the same circle as the acting vampire.

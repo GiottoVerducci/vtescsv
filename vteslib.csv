@@ -3178,7 +3178,7 @@ Lewis Carroll, ""Through the Looking Glass""","Third:C, KoT:C, SP:PwN6, V5:PTr6"
 "101226","Missing Voice, The","","Action Modifier","","Melpominee/Celerity","","","","","[cel] Requires a vampire with capacity 5 or more. Vampires with capacity 4 or less get -1 intercept.
 [mel] Allies and younger vampires get -1 intercept.
 [MEL] +1 stealth.","","BL:C2, LoB:C, POD:DTC","","Brian LeBlanc",""
-"101227","Mistaken Identity","","Reaction","","","","1","","","Play when a Ventrue antitribu attempts to hunt. This action is ended (unsuccessfully), and the acting vampire goes into torpor.","","Sabbat:U, SW:R/PB","","Brian Horton",""
+"101227","Mistaken Identity","","Reaction","","","","1","","","Play when a Ventrue antitribu attempts to hunt. This action {fails}, and the acting vampire goes into torpor.","","Sabbat:U, SW:R/PB","","Brian Horton",""
 "101228","Mistrust","","Master","","","1","","","","Master.
 Burn a scarce vampire in torpor or move a ready scarce vampire to his or her controller's uncontrolled region, with all cards and counters on him or her (which are out of play as long as the vampire remains out of play).","","BH:R","","Rik Martin",""
 "102240","Mithraeum, London, The","","Master","","","1","","","","Unique location. Mithraic Mysteries.
@@ -4329,7 +4329,7 @@ Only usable before resolution of a gun's strike. This gun inflicts +2 damage at 
 If this Nosferatu's capacity is 6 or more, he or she unlocks. Put this card in play. Whenever a referendum succeeds, you may lock this card to look at any Methuselah's hand.","","Promo-20090401","","Erica Danell",""
 "101691","Scobax","","Reaction","","Striga/Presence","","","","","[pre] Reduce a bleed against you by 1.
 [str] The acting minion gets -1 stealth. [str] is not a Discipline.
-[STR] As [str] above, and the action ends immediately (unsuccessfully) unless the acting minion burns 1 blood or life.","","HttB:C","","Aaron Acevedo",""
+[STR] As [str] above, and the action {fails} unless the acting minion burns 1 blood or life.","","HttB:C","","Aaron Acevedo",""
 "101692","Scorn of Adonis","","Action Modifier","Toreador","","","","","","Only usable during the polling step of a political action.
 Methuselahs casting (including having a vampire casting) votes or ballots against the referendum burn 1 pool once results are tallied.","","Jyhad:U, VTES:U, CE:PTo2, KoT:U, FB:PTo2, NB:PTo1","","Chris McLoughlin; Kieran Yanner",""
 "101693","Scorpion Sting","","Combat","","Animalism","","","","","[ani] Strike: hand strike at +1 damage.
@@ -5342,7 +5342,7 @@ Hardestadt, Ventrue","Gehenna:R, KoT:R, Anthology:1, SP:PwN1","","Steve Ellis; J
 Burn a location.","I'm terribly sorry about the gas leak in the sewers. At least it's not combustible, right? Right?
 Basil, Pander","Jyhad:C, VTES:C, Sabbat:C, SW:PT, CE:PTr","","Ted Naifeh; Harold Arthur McNeill",""
 "102081","Unseen Hibernation","","Reaction","","Abombwe","","1","","","[abo] [REFLEX] Cancel a frenzy card played on this vampire as it is played.
-[abo] Only usable during a (D) action directed at this vampire. Not usable if the acting minion is an older vampire. The action ends (unsuccessfully), and no cost is paid.
+[abo] Only usable during a (D) action directed at this vampire. Not usable if the acting minion is an older vampire. The action {fails}, and no cost is paid.
 [ABO] As above, but usable by a locked vampire.","","LoB:C/PA","","Alexander Dunnigan",""
 "102082","Unwholesome Bond","","Action","","Sanguinus","","","","","+1 stealth action.
 [san] This vampire gains X+1 blood, where X is the number of ready, unlocked Blood Brothers of the same circle as the acting vampire.

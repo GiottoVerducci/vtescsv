@@ -42,7 +42,7 @@ Pours blended evil and beneficence...
 Charles Baudelaire, ""Hymn to Beauty""","Jyhad:U, VTES:U, CE:U, KoT:U, FB:PTo3, Promo-20211015","","Dave Roach & Pete Burges; Chris Stevens; Dave Roach & Pete Burges",""
 "100019","Acquired Ventrue Assets","","Master","Giovanni","","","","","","Put this card in play with 1 blood for each Giovanni you control. During your master phase, you can move 1 blood from this card to a Giovanni you control. Burn this card if it has no blood. Any non-Ventrue minion can burn this card as a (D) action.","","DS:U, FN:PG, POD:DTC","","Richard Kane Ferguson",""
 "100020","Acrobatics","","Combat","","Celerity","","1","","","[cel] Additional strike {(limited)}.
-[CEL] Strike: dodge, with an additional strike {(limited)}.","","Jyhad:C, VTES:C, SW:PB, CE:C/PB2, BH:PTo4, KMW:PAl2/PG3, Third:C/PB3","","Douglas Shuler",""
+[CEL] Strike: dodge, with an additional strike {(limited)}.","","Jyhad:C, VTES:C, SW:PB, CE:C/PB2, BH:PTo4, KMW:PAl2/PG3, Third:C/PB3/SKB2","","Douglas Shuler",""
 "100021","Adaptability","","Combat","","Protean","","1","","","[pro] {This vampire treats all aggravated damage from the opposing minion's strike as normal damage.}
 [PRO] Prevent all aggravated damage from the opposing minion's strike.","A permanent state of transition is man's most noble condition.
 Juan Ramon Jiminez","Sabbat:R, SW:R","","Hannibal King",""
@@ -97,7 +97,7 @@ Put this card in play with 1 counter for each Tremere and Gargoyle you control. 
 "100042","Amam the Devourer","Amam the Devourer (Bane Mummy)","Ally","Follower of Set","","2","","","","Unique mummy with 3 life. 2 strength, 0 bleed.
 Amam can enter combat with a minion as a (D) action. Amam can burn a vampire in torpor to gain 1 life as a (D) action. If a minion opposing Amam in combat is burned, Amam can gain 1 life. If Amam is burned, shuffle him into his owner's library.","","FN:R2, POD:DTC","","Lawrence Snelly",""
 "100043","Amaranth","","Combat","","","","","","","Only usable by a vampire who can commit diablerie. Only usable when the opposing vampire should go to torpor. Diablerize the opposing vampire instead. Not usable by a vampire being burned or going to torpor.","Thou shalt not slay thy sire and drink his heart's blood.
-The Book of Nod","Jyhad:U, VTES:U, CE:U, Anarchs:PAG, BH:PTo2, Third:PTz, KoT:U","","Jeff Menges; Alejandro Collucci",""
+The Book of Nod","Jyhad:U, VTES:U, CE:U, Anarchs:PAG, BH:PTo2, Third:PTz/SKTz, KoT:U","","Jeff Menges; Alejandro Collucci",""
 "100044","Ambrosius, The Ferryman","Ambrosius, The Ferryman (Wraith)","Ally","Giovanni","","3","","","","Unique wraith with 2 life. 1 strength, 0 bleed.
 Ambrosius can move a retainer from your ash heap to a ready vampire you control and put 3 pathos counters on that retainer as an action. During your unlock phase, burn 1 pathos counter from that retainer. Remove the retainer from the game if it has no pathos counters. Ambrosius is immune to non-aggravated damage.","","AH:R2, FN:PG, POD:DTC","","Alan Rabinowitz",""
 "100045","Ambulance","","Equipment","","","1","","","","Vehicle.
@@ -189,7 +189,7 @@ Prince Giangaleazzo, Lasombra antitribu","Promo-20040411","2016","Becky Jollenst
 Rainer Maria Rilke, ""Duino Elegy #7""","DS:C2, FN:PR3, LotN:PR4, POD:DTC","","Stuart Beel; Craig Grant",""
 "100077","Apportation","","Combat","","Thaumaturgy","","","","","[tha] Press, only usable to continue combat.
 [THA] Maneuver.","The gun flew from my hands like God himself chose to intervene.
-Jacob Bragg","Sabbat:C, CE:C/PTr5, BH:PTr4, KMW:PB, Third:C/PTr5, FB:PTr4, V5:PTr4, NB:PTr3","","Clint Langley",""
+Jacob Bragg","Sabbat:C, CE:C/PTr5, BH:PTr4, KMW:PB, Third:C/PTr5/SKTr4, FB:PTr4, V5:PTr4, NB:PTr3","","Clint Langley",""
 "100078","Approximation of Loyalty","","Action Modifier","","Presence","","1","","","Requires a vampire with capacity 7 or more.
 [pre] Only usable as the action is announced. Choose a vampire with capacity 6 or less or an ally. That minion cannot block this action.
 [PRE] Cancel a reaction card played by a vampire with capacity 6 or less or an ally as it is played (no cost is paid). No more action modifiers can be played on this action.","","Gehenna:C, KMW:PAn2, LotN:PS3, KoT:C/PT4","","Monte Moore",""
@@ -498,7 +498,7 @@ Put this card on a ready Blood Brother you control. This Blood Brother gets +1 l
 Edgar Allan Poe, ""The Pit and the Pendulum""","FN:C2, POD:DTC","","Brian LeBlanc",""
 "100198","Blood Cult Awareness Network","","Event","","","","","","","Inquisition.
 Requires a ready imbued in play. Whenever there are any ready imbued in play, any action to put a vampire or ghoul in play or to add counters to an uncontrolled vampire gets -1 stealth and costs an additional blood or life.","","NoR:R","","Mark Poole",""
-"100199","Blood Doll","","Master","","","","","","","Put this card on a vampire you control. During their master phase, this vampire's controller can move 1 blood from this vampire to their pool or from their pool to this vampire.","","Jyhad:C, VTES:C, Sabbat:C, SW:PB/PL/PT/PV, FN:PA/PG/PR/PS, CE:PB/PM/PN2/PTo2/PTr2/PV, Anarchs:PAG3/PG2, BH:PM2/PN2/PTr2, KMW:PB3/PG3/PAn2, LoB:PA3/PI2/PO2, Third:PB2/PM2/PTr2/PTz2/SKB2/SKTr2/SKTz2, FB:PM3/PN3/PTo3/PTr2/PV3, V5:PM4/PV3, V5A:PB4/PG4/PMin4, NB:PM2/PN3/PTr2/PV2","","Anson Maddocks; Lawrence Snelly",""
+"100199","Blood Doll","","Master","","","","","","","Put this card on a vampire you control. During their master phase, this vampire's controller can move 1 blood from this vampire to their pool or from their pool to this vampire.","","Jyhad:C, VTES:C, Sabbat:C, SW:PB/PL/PT/PV, FN:PA/PG/PR/PS, CE:PB/PM/PN2/PTo2/PTr2/PV, Anarchs:PAG3/PG2, BH:PM2/PN2/PTr2, KMW:PB3/PG3/PAn2, LoB:PA3/PI2/PO2, Third:PB2/PM2/PTr2/PTz2/SKB2/SKM2/SKTr2/SKTz2, FB:PM3/PN3/PTo3/PTr2/PV3, V5:PM4/PV3, V5A:PB4/PG4/PMin4, NB:PM2/PN3/PTr2/PV2, NB2:PG3","","Anson Maddocks; Lawrence Snelly",""
 "100200","Blood Feast","","Action","","","","1","","","+1 stealth action. Requires a ready archbishop, priscus, cardinal or regent.
 Each ready Sabbat vampire you control gains 1 blood from the blood bank.","Fear and suffering
 Have fled to the heavens
@@ -4755,7 +4755,7 @@ Lock this card and burn 1 blood from a ready Tremere antitribu you control to se
 "101850","Spirit's Touch","","Reaction","","Auspex","","","","","[aus] +1 intercept.
 [AUS] As above, with 1 optional maneuver during the resulting combat if this vampire blocks.","We are eternal; and to us, the past
 Is, as the future, present.
-Lord Byron, ""Manfred"", act I, scene 1","Jyhad:C, VTES:C, Sabbat:C, SW:C/PT2/PV, CE:C/PTo4/PTr3, Anarchs:PAG, BH:PM4/PTr4, Third:PTr5/PTz2, KoT:C/PM3, SP:DoF4, FB:PTr2, V5:PTr2, NB:PTr2","","Amy Weber; Hannibal King; Brian LeBlanc",""
+Lord Byron, ""Manfred"", act I, scene 1","Jyhad:C, VTES:C, Sabbat:C, SW:C/PT2/PV, CE:C/PTo4/PTr3, Anarchs:PAG, BH:PM4/PTr4, Third:PTr5/PTz2/SKTr4/SKTz2, KoT:C/PM3, SP:DoF4, FB:PTr2, V5:PTr2, NB:PTr2","","Amy Weber; Hannibal King; Brian LeBlanc",""
 "101851","Spiritual Guidance","","Combat","Giovanni","","","","","","A vampire can play only one Spiritual Guidance each combat.
 Play a combat card from your ash heap as if from your hand. If that card would be burned, instead remove it from the game.","","TU:C/B4, Anthology:4","","Ginés Quiñonero",""
 "101852","Spiritual Intervention","","Combat","","Necromancy","","","","","[nec] Strike: dodge.

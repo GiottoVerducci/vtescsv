@@ -5491,9 +5491,8 @@ Tzimisce, Dublin 2002 Storyline","Jyhad:U, VTES:U, CE:U, LoB:PA, KoT:U","","Mark
 Put this card in play with 10 counters. Whenever a non-{A}narch vampire takes an action, burn a counter from this card. Burn this card when it has no counters. During your unlock phase, each anarch burns 1 blood or becomes Camarilla, and each ally burns 1 life.","","KoT:R","","Peter Bergting",""
 "102137","Wake with Evening's Freshness","","Reaction","","","","","","","Only usable by a locked vampire. Do not replace until your next unlock phase.
 This vampire wakes (they ignore the requirement to be unlocked for playing reaction cards and attempting to block until the end of the action).","","Jyhad:C, VTES:C, SW:PB2/PL4/PV2, FN:PG2, CE:PB4/PM4/PTo3/PV3, Anarchs:PAB3/PAG2, BH:PTo3, KMW:PAn3/PB5/PG2, LoB:PG2/PI3, HttB:PGar6/PSal5, SP:PoS2, V5:PV4, NB:PM3/PV3","","Randy Gallegos; Ron Spencer",""
-"102138","Walk of Caine","","Action Modifier","","Sanguinus","","","","","Choose X ready Blood Brothers you control who belong to the same circle as this acting vampire (including this acting vampire). Each chosen vampire must burn a blood, or this card has no effect.
-[san] {Only usable as a bleed action is announced. Choose X ready Blood Brothers you control of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood to give this Blood Brother +X bleed (limited).}
-[SAN] As [san] above, but usable any time before the action is resolved.","","BL:C1, LoB:C","","Leif Jones",""
+"102138","Walk of Caine","","Action Modifier","","Sanguinus","","","","","[san] {Only usable as a bleed action is announced. Choose X ready Blood Brothers you control with 1 or more blood of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood. +X bleed (limited).}
+[SAN] {As above,} but usable any time before the action is resolved.","","BL:C1, LoB:C","","Leif Jones",""
 "102139","Walk of Flame","","Combat","","Thaumaturgy","","","","","Not usable during the first round of combat.
 [tha] Strike: 1R aggravated damage.
 [THA] Strike: 2R aggravated damage.","Now ye are flames, I'll tell you how to burn

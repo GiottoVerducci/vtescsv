@@ -34096,9 +34096,8 @@ Name: Walk of Caine
 [BL:C1, LoB:C]
 Cardtype: Action Modifier
 Discipline: Sanguinus
-Choose X ready Blood Brothers you control who belong to the same circle as this acting vampire (including this acting vampire). Each chosen vampire must burn a blood, or this card has no effect.
-[san] {Only usable as a bleed action is announced. Choose X ready Blood Brothers you control of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood to give this Blood Brother +X bleed (limited).}
-[SAN] As [san] above, but usable any time before the action is resolved.
+[san] {Only usable as a bleed action is announced. Choose X ready Blood Brothers you control with 1 or more blood of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood. +X bleed (limited).}
+[SAN] {As above,} but usable any time before the action is resolved.
 Artist: Leif Jones
 
 Name: Walk of Flame

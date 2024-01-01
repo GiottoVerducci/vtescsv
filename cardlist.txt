@@ -11292,11 +11292,11 @@ Put this card in play. Once each turn, you can burn 1 pool to get +3 votes durin
 Artist: Mark Poole
 
 Name: Festivo dello Estinto
-[Sabbat:U, SW:U/PL, Third:PTz/SKTz1]
+[Sabbat:U, SW:U/PL, Third:PTz/SKTz1, Promo-20230916]
 Cardtype: Master
 Cost: 1 pool
-Master.
-Put this card in play. Each Sabbat vampire gets -1 stealth when hunting. Any Sabbat vampire who successfully hunts gains enough blood from the blood bank to reach full capacity. Burn this card during your unlock phase. Only one Festivo dello Estinto can be played during a game.
+Only one Festivo dello Estinto can be played in a game.
+Put this card in play. Sabbat vampires get -1 stealth during hunt actions. Sabbat vampires successfully hunting gain enough blood from the blood bank to reach full capacity. During your unlock phase, burn this card.
 Artist: Patrick Kochakji
 
 Name: Fetish Club Hunting Ground
@@ -14315,7 +14315,7 @@ Independent: Hesha gets +1 stealth when hunting. +1 hunt.
 Artist: John Van Fleet
 
 Name: Hesha Ruhadze
-[V5A:PMin1]
+[V5A:PMin1, Promo-20231007]
 Cardtype: Vampire
 Clan: Ministry
 Group: 6
@@ -27672,7 +27672,7 @@ Independent: Cards requiring Quietus [qui] cost Sajid 1 fewer blood. He cannot b
 Artist: Ken Meyer, Jr.
 
 Name: Saku Pihlajamäki
-[NB2:PB1]
+[NB2:PB1, Promo-20230729]
 Cardtype: Vampire
 Clan: Brujah
 Group: 6

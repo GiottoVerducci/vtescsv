@@ -207,8 +207,8 @@ As a (D) action, Arcanum Investigator can burn an equipment card possessed by a 
 The Quar'an 2:269","AH:C2","","Ron Spencer",""
 "100084","Archon","","Political Action","","","","","","","Requires a prince or justicar.
 Choose a Camarilla vampire. Successful referendum means this card is put on the chosen vampire. The attached vampire can enter combat with a vampire as a +1 stealth (D) action. Vampires attempting to block the attached vampire burn 1 blood. Blood hunts cannot be called on the attached vampire. Camarilla vampires can call a referendum to burn this card as a +1 stealth political action.","","Jyhad:V, VTES:V, CE:U, KMW:PAl3, NB2:PBH1","","Heather Hudson",""
-"100085","Archon Investigation","","Master","","","3","","","","Master: out-of-turn.
-Only usable when a minion is attempting to bleed you and the bleed amount is 4 or more. Burn the acting minion. (The action is not successful.)","","VTES:U, CE:U, KMW:PG, Third:U, KoT:U","","Peter Bergting; Lawrence Snelly",""
+"100085","Archon Investigation","","Master","","","3","","","","Out-of-turn. Only usable if a minion is bleeding you and the bleed amount is 4 or more, after blocks are declined.
+Burn the acting minion. (The action is not successful.)","","VTES:U, CE:U, KMW:PG, Third:U, KoT:U, Promo-20230325","","Lawrence Snelly; Peter Bergting; Ginés Quiñonero",""
 "100086","Argent Baton","","Equipment","","","","","","","Unique melee weapon.
 Strike: strength+1 damage. If the opposing minion is a werewolf, the bearer can make a ranged strike to burn 4 life from that werewolf.","The power only serves under moonlight. Well, and only at night, to be precise.
 Count Vladimir Rustovich, Tzimisce","Promo-20070601","","Becky Jollensten",""
@@ -684,7 +684,7 @@ Robert Frost, ""A Servant to Servants""","LotN:C/PG3, KoT:C/PB6","","Brian LeBla
 "100265","Bujo","","Action","Ravnos","","","","","","+1 stealth political action.
 Choose a political action card in another Methuselah's ash heap, and call the referendum listed on the chosen card (this Ravnos must meet the requirements of that political action, if any) and remove the chosen card from the game. This vampire gets +3 votes in this referendum.","","KMW:R, POD:DTC","","Ken Meyer, Jr.",""
 "100266","Bum's Rush","","Action","","","","","","","Do not replace until after this action.
-(D) Enter combat with a ready minion controlled by another Methuselah. The acting minion gets an optional maneuver during this combat.","","Jyhad:C, VTES:C, SW:PB2, FN:PA3/PG3, CE:C/PB7/PN5, Anarchs:PG4, KMW:PG4/PAl3, LoB:PA4, HttB:PGar3","","Bryon Wackwitz; Gary Chatterton",""
+(D) Enter combat with a minion. This acting minion gets 1 optional maneuver during that combat.","","Jyhad:C, VTES:C, SW:PB2, FN:PA3/PG3, CE:C/PB7/PN5, Anarchs:PG4, KMW:PG4/PAl3, LoB:PA4, HttB:PGar3, Promo-20230507","","Bryon Wackwitz; Gary Chatterton",""
 "100267","Bundi","","Equipment","","","2","","","","Melee weapon.
 Strike: hand strike at +1 damage. (This strike is both a hand strike and a melee weapon strike). Bearer may prevent 1 damage from each melee weapon strike made against him or her.","","LotN:C/PG3, KoT:C/PB2","","Franz Vohwinkel",""
 "100268","Burden the Mind","","Master","","","1","","","","Master.
@@ -1873,14 +1873,14 @@ If an ally is burned in combat with an acting vampire, add 1 counter to this car
 [DAI] As [dai] above, and the opposing minion's controller discards 1 card at random each round during normal strike resolution.","","BL:C1, KMW:PB, POD:DTC","","Jim Nelson",""
 "100712","Fee Stake: Boston","","Action","","","","","","","+1 stealth action. Requires an Anarch with capacity 5 or more. Title.
 Put this card on this Anarch to represent the unique Anarch title of Baron of Boston. While this Anarch is Toreador or Toreador antitribu, they get +1 vote during referendums they call. Vampires can call a referendum to burn this card as a +1 stealth political action; during that referendum, non-Anarch titles are worth -1 vote.","","Anarchs:R/PAB, EoG:1","","James Stowe",""
-"100713","Fee Stake: Corte","","Action","","","","","","","Requires a ready anarch with capacity above 4. +1 stealth action. Title.
-Put this card on the acting anarch to represent the unique anarch title of Baron of Corte. This may lead to a contested title. Any vampire can call a referendum to burn this card as a +1 stealth political action. In that referendum, non-anarch titles are worth 1 fewer votes.","","Anarchs:R","","Jeff Holt",""
-"100714","Fee Stake: Los Angeles","","Action","","","","","","","Requires a ready anarch with capacity above 4. +1 stealth action. Title.
-Put this card on the acting anarch to represent the unique anarch title of Baron of Los Angeles. This may lead to a contested title. Any vampire can call a referendum to burn this card as a +1 stealth political action. In that referendum, non-anarch titles are worth 1 fewer votes.","","Anarchs:R","","Jeff ""el jefe"" Holt",""
+"100713","Fee Stake: Corte","","Action","","","","","","","+1 stealth action. Requires an Anarch with capacity 5 or more. Title.
+Put this card on this Anarch to represent the unique Anarch title of Baron of Corte. Vampires can call a referendum to burn this card as a +1 stealth political action; during that referendum, non-Anarch titles are worth -1 vote.","","Anarchs:R, Promo-20080203, Promo-20221101","","Jeff Holt",""
+"100714","Fee Stake: Los Angeles","","Action","","","","","","","+1 stealth action. Requires an Anarch with capacity 5 or more. Title.
+Put this card on this Anarch to represent the unique Anarch title of Baron of Los Angeles. Vampires can call a referendum to burn this card as a +1 stealth political action; during that referendum, non-Anarch titles are worth -1 vote.","","Anarchs:R, Promo-20080203, Promo-20221101","","Jeff Holt",""
 "100715","Fee Stake: New York","","Action","","","","","","","+1 stealth action. Requires an Anarch with capacity 5 or more. Title.
 Put this card on this Anarch to represent the unique Anarch title of Baron of New York. While this Anarch is Brujah or Brujah antitribu, they get +1 vote during referendums they call. Vampires can call a referendum to burn this card as a +1 stealth political action; during that referendum, non-Anarch titles are worth -1 vote.","","Anarchs:R/PAB, EoG:1","","Steve Ellis",""
-"100716","Fee Stake: Perth","","Action","","","","","","","Requires a ready anarch with capacity above 4. +1 stealth action. Title.
-Put this card on the acting anarch to represent the unique anarch title of Baron of Perth. This may lead to a contested title. Any vampire can call a referendum to burn this card as a +1 stealth political action. In that referendum, non-anarch titles are worth 1 fewer votes.","","Anarchs:R","","Brian LeBlanc",""
+"100716","Fee Stake: Perth","","Action","","","","","","","+1 stealth action. Requires an Anarch with capacity 5 or more. Title.
+Put this card on this Anarch to represent the unique Anarch title of Baron of Perth. Vampires can call a referendum to burn this card as a +1 stealth political action; during that referendum, non-Anarch titles are worth -1 vote.","","Anarchs:R, Promo-20080203, Promo-20221101","","Brian LeBlanc",""
 "100717","Fee Stake: Seattle","","Action","","","","","","","+1 stealth action. Requires an Anarch with capacity 5 or more. Title.
 Put this card on this Anarch to represent the unique Anarch title of Baron of Seattle. While this Anarch is Gangrel or Gangrel antitribu, they get +1 vote during referendums they call. Vampires can call a referendum to burn this card as a +1 stealth political action; during that referendum, non-Anarch titles are worth -1 vote.","","Anarchs:R/PAB, EoG:1","","Brian LeBlanc",""
 "100718","Feline Saboteur","","Action","","Animalism & Obfuscate","","","","","[ani][obf] (D) Choose any Methuselah. The chosen Methuselah discards 1 card at random from his or her hand.

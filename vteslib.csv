@@ -2112,8 +2112,8 @@ Okulos, Nosferatu","Gehenna:R, EoG:1","","Randy Asplund",""
 "100797","Funeral Wake","","Reaction","","Necromancy","","1","","","Usable by a locked vampire.
 [nec] Unlock a mummy, wraith, or zombie ally you control.
 [NEC] Unlock up to two mummy, wraith, and/or zombie allies you control.","","TU:C/B4","","Carmen Cornet",""
-"100798","Galaric's Legacy","","Master","","","","","","","Master. Trifle.
-Put this card on a ready non-titled, non-{A}narch vampire you control. The vampire with this card is considered {Anarch}. If this vampire changes sects, burn this card.","The neonate childe escaped. So intent on Galaric were the Ventrue that they ignored the childe until he was long gone from their grasp.
+"100798","Galaric's Legacy","","Master","","","","","","","{}Trifle.
+Put this card on a ready non-titled, non-{A}narch vampire you control {to make them Anarch}. If this vampire changes sects, burn this card.","The neonate childe escaped. So intent on Galaric were the Ventrue that they ignored the childe until he was long gone from their grasp.
 Salvador Garcia, Brujah anarch","Anarchs:C/PAG4","","Jim Nelson",""
 "100799","Gambit Accepted","","Master","","","","","","","Master.
 Only usable if you have at least 1 victory point. Lose 1 victory point and put this card in play. During your unlock phase, move 1 pool from your prey's pool to your pool. If you are ousted, your predator gains an additional victory point. At the end of the game, if you have not been ousted, you gain an additional victory point.","","Anarchs:R, KoT:R","","Christopher Shy",""
@@ -2211,7 +2211,7 @@ Charles Baudelaire, ""The Living Torch""","Jyhad:C, VTES:C, Sabbat:C, KMW:PG2","
 "100839","Glutton","","Master","Ishtarri","","X","","","","Unique master.
 This card costs X pool, where X is the number of Gluttons in your ash heap. Put this card in play. You may lock this card to unlock a ready Ishtarri you control. That Ishtarri burns 1 blood. Any vampire may burn this card as a (D) action.","","LoB:R","","Heather Kreiter",""
 "100840","Go Anarch","","Action","","","","","","","+1 stealth action. Requires a ready non-titled, non-{A}narch vampire.
-Put this card on the acting vampire and unlock this vampire. This vampire is considered {Anarch}. If this vampire changes sects, burn this card.","I don't belong to you or your damn prince -- I'm my own person, free and loving it.
+Put this card on the acting vampire{; they become Anarch and unlock.} If this vampire changes sects, burn this card.","I don't belong to you or your damn prince -- I'm my own person, free and loving it.
 Topaz, anarch","Anarchs:C2/PAB4","","Andrew Bates",""
 "100841","Goblinism","","Action","","Mytherceria/Potence","","","","","[pot] (D) Burn a location.
 [myt] +1 stealth action. Search your library for a location or equipment that is a location while in play. Show it to the other players and put it in your hand. Shuffle and discard afterward.

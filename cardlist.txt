@@ -12357,8 +12357,8 @@ Artist: Christopher Shy
 Name: Galaric's Legacy
 [Anarchs:C/PAG4]
 Cardtype: Master
-Master. Trifle.
-Put this card on a ready non-titled, non-{A}narch vampire you control. The vampire with this card is considered {Anarch}. If this vampire changes sects, burn this card.
+{}Trifle.
+Put this card on a ready non-titled, non-{A}narch vampire you control {to make them Anarch}. If this vampire changes sects, burn this card.
 Artist: Jim Nelson
 
 Name: Gambit Accepted
@@ -13080,7 +13080,7 @@ Name: Go Anarch
 [Anarchs:C2/PAB4]
 Cardtype: Action
 +1 stealth action. Requires a ready non-titled, non-{A}narch vampire.
-Put this card on the acting vampire and unlock this vampire. This vampire is considered {Anarch}. If this vampire changes sects, burn this card.
+Put this card on the acting vampire{; they become Anarch and unlock.} If this vampire changes sects, burn this card.
 Artist: Andrew Bates
 
 Name: Goblinism
@@ -26619,7 +26619,7 @@ Name: Regarhagan's Hold
 Cardtype: Master
 Cost: 2 pool
 Master: out-of-turn.
-Give this card to another Methuselah during his or her unlock phase and move a reaction card from that Methuselah's ash heap to this card. The chosen reaction card costs that Methuselah's vampires an additional blood. That Methuselah may move 1 pool to this card as a master phase action. Burn this card when it has 2 pool counters. A Methuselah can have only 1 Regarhagan's Hold.
+{Put this card in play under the control of another Methuselah} during his or her unlock phase and move a reaction card from that Methuselah's ash heap to this card. The chosen reaction card costs that Methuselah's vampires an additional blood. That Methuselah may move 1 pool to this card as a master phase action. Burn this card when it has 2 pool counters. A Methuselah can have only 1 Regarhagan's Hold.
 Artist: Andrew Trabbold
 
 Name: Regeneration

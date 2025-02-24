@@ -464,6 +464,15 @@ Master: Discipline. Trifle. Unique.
 Put this card on a vampire you control and choose a Discipline. This vampire gains 1 level of that Discipline. Burn this card during your discard phase.
 Artist: Jeff Holt
 
+Name: Aggressive Corpse
+[V5:PH6]
+Cardtype: Ally
+Clan: Hecata
+Cost: 2 blood
+Zombie with 3 life. 2 strength, 0 bleed.
+This ally can enter combat with a minion as a (D) action. This ally cannot be the target of directed actions requiring Dominate [dom] or Presence [pre]. In combat, strikes made by this ally cannot be dodged. This ally cannot gain life (instead, any life it would gain goes to the blood bank).
+Artist: Mark Kelly
+
 Name: Aggressive Tactics
 [Sabbat:R, SW:R]
 Cardtype: Master
@@ -828,6 +837,16 @@ Capacity: 5
 Discipline: ani aus dom tha
 Sabbat: If Alejandro is ready, he may lock before range is determined in any combat that does not involve him to inflict 1 unpreventable damage on each combatant.
 Artist: Ken Meyer, Jr.
+
+Name: Alek König
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 3
+Discipline: OBL
+Independent.
+Artist: Camille Défarge
 
 Name: Aleph
 [Jyhad:V, VTES:V, Tenth:A]
@@ -3687,6 +3706,15 @@ Discipline: tha AUS DOM FOR PRE
 Camarilla: Bindusara can take an action to allow you to search your library for an Arcane Library, Elder Library or Fragment of the Book of Nod and put that card in play. (Pay cost as normal.) Shuffle your library afterward. +1 bleed.
 Artist: Lawrence Snelly
 
+Name: Biotech Company Hunting Ground
+[V5:PH1]
+Cardtype: Master
+Clan: Hecata
+Cost: 2 pool
+Unique location. Hunting ground.
+During your unlock phase, a ready vampire you control can gain 1 blood. A vampire can gain blood from only one hunting ground each turn.
+Artist: Raquel Cornejo
+
 Name: Biothaumaturgic Experiment
 [SoC:C, V5A:PBh1]
 Cardtype: Action
@@ -5220,7 +5248,7 @@ Name: Camarilla's Iron Fist
 Cardtype: Political Action
 Cost: 1 blood
 Requires a titled Camarilla vampire.
-Choose a Methuselah and allocate 5 points among two or more other Methuselahs. Successful referendum means the chosen Methuselah gains 1 pool and each Methuselah burns 1 pool for each point allocated.
+Choose a Methuselah and allocate 5 points among two or more other Methuselahs. Successful referendum means {each Methuselah burns 1 pool for each point allocated and the chosen Methuselah gains 1 pool.}
 Artist: Anastasiia Horbunova
 
 Name: Camera Phone
@@ -5871,11 +5899,11 @@ Put this card on a vampire you control. Other Methuselahs' actions targeting thi
 Artist: Brian LeBlanc
 
 Name: Channel 10
-[Tenth:A/B, HttB:PKia, SP:DoF1]
+[Tenth:A/B, HttB:PKia, SP:DoF1, V5:PH1]
 Cardtype: Master
 Cost: 2 pool
 Unique location.
-Lock to give a minion you control +2 intercept. Not usable during the first action in a minion phase.
+You can lock this card to give a minion you control +2 intercept. Not usable during the first action in a minion phase.
 Artist: Steve Ellis
 
 Name: Channeling the Beast
@@ -6945,6 +6973,16 @@ Cardtype: Political Action
 Allocate X points among two or more Methuselahs, where X is the number of Methuselahs in the game. Successful referendum means each Methuselah burns 1 pool for each point allocated.
 Artist: Mark Poole
 
+Name: Consign to Oblivion
+[V5:PH4]
+Cardtype: Action Modifier
+Cost: 1 blood
+Discipline: Oblivion
+Only usable as the action is announced.
+[obl] Reaction cards cost +1 blood or life.
+[OBL] As above, and those cards are not replaced until the end of the action.
+Artist: Ginés Quiñonero
+
 Name: Consignment to Duat
 [BH:C, KMW:PB2, POD:DTC]
 Cardtype: Action
@@ -7212,10 +7250,10 @@ Camarilla.
 Artist: Dan Smith
 
 Name: The Coven
-[SW:R, Anarchs:PAG, KoT:PM, 25th:1]
+[SW:R, Anarchs:PAG, KoT:PM, 25th:1, V5:PH1]
 Cardtype: Master
 Unique. Trifle.
-Put this card in play. Lock to add 2 blood to a ready vampire you control. During your discard phase, your predator takes control of The Coven.
+Put this card in play. You can lock this card to add 2 blood to a ready vampire you control. During your discard phase, your predator takes control of The Coven.
 Artist: Brian LeBlanc
 
 Name: Covenant of Blood
@@ -7305,11 +7343,11 @@ X is the number of copies of this card you control. Put this card in play. Durin
 Artist: Javier Santos
 
 Name: Creepshow Casino
-[FN:R2, Third:PB, SP:LB1, V5:PTo1]
+[FN:R2, Third:PB, SP:LB1, V5:PH1/PTo1]
 Cardtype: Master
 Cost: 2 pool
 Unique location.
-Lock as a vampire you control announces an undirected action to give that vampire +1 stealth, even if stealth is not yet needed.
+You can lock this card as a vampire you control announces an undirected action to give that vampire +1 stealth, even if stealth is not yet needed.
 Artist: William O'Connor
 
 Name: Crematorium
@@ -10948,7 +10986,7 @@ Discipline: Auspex & Valeren
 Artist: Abrar Ajmal
 
 Name: Eyes of Argus
-[KoT:C/B2, HttB:PSal3, Anthology:4, SP:DoF4/PwN2, V5:PM5/PTr6, NB:PM2/PTr2, V5C:PSal4, 30th:2]
+[KoT:C/B2, HttB:PSal3, Anthology:4, SP:DoF4/PwN2, V5:PH3/PM5/PTr6, NB:PM2/PTr2, V5C:PSal4, 30th:2]
 Cardtype: Reaction
 Discipline: Auspex
 [aus] Only usable during an action directed at you (or a card you control). +2 intercept.
@@ -11210,6 +11248,14 @@ Cost: 1 blood
 Requires a Laibon.
 Only usable on an action directed at another Laibon you control or on a bleed against you. +1 intercept. If this block fails, the acting minion may choose to make the action fail. If the action succeeds, this Laibon may lock (after resolution) to enter combat with the acting minion.
 Artist: Brian LeBlanc
+
+Name: Family Gathering
+[V5:PH3]
+Cardtype: Master
+Clan: Hecata
+Trifle.
+Reveal the top card of your crypt. If it is a Hecata, draw it and add 1 blood to it; otherwise, move it to the bottom of your crypt.
+Artist: Konrad Waściński
 
 Name: Fanfare for Elysium
 [HttB:R2/B1, POD:DTC]
@@ -12292,7 +12338,7 @@ Camarilla.
 Artist: Mathias Kollros
 
 Name: Freak Drive
-[Jyhad:R2, VTES:R, CE:U/PV2, Anarchs:PG, LoB:PA2, Third:U, LotN:PR, KoT:PV3, HttB:PSam2, 25th:3, V5:PV6, NB:PV5, V5C:PSal4]
+[Jyhad:R2, VTES:R, CE:U/PV2, Anarchs:PG, LoB:PA2, Third:U, LotN:PR, KoT:PV3, HttB:PSam2, 25th:3, V5:PH4/PV6, NB:PV5, V5C:PSal4]
 Cardtype: Action Modifier
 Cost: 1 blood
 Discipline: Fortitude
@@ -12635,6 +12681,14 @@ Discipline: cel nec POT
 Independent: During your master phase, Gaspare can burn 2 blood to move a vampire from your ash heap to the top of your crypt. +1 strength.
 Artist: Ken Meyer, Jr.
 
+Name: The Gate of Acheron
+[V5:PH2]
+Cardtype: Action
+Clan: Hecata
++1 stealth action. Unique.
+Put this card in play with 1 counter. During your unlock phase, add 1 counter to this card. During your prey's unlock phase, for each counter on this card, they burn 1 pool or remove a library card at random in their ash heap from the game. Hecata you control with capacity 4 or more can add 1 counter to this card as a +1 stealth action. Vampires can burn this card as a (D) action.
+Artist: Francisco Tébar
+
 Name: Gather
 [Anarchs:R, KoT:R]
 Cardtype: Action
@@ -12684,6 +12738,16 @@ Discipline: Necromancy/Presence/Vicissitude
 [pre] This Anarch unlocks and gets +1 stealth until the end of the turn.
 [vic] This Anarch unlocks and gets +1 strength until your unlock phase.
 Artist: Joel Biske
+
+Name: Gebeyehu Abdu
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 5
+Discipline: for AUS OBL
+Independent.
+Artist: Gabriel de Góes Figueiredo
 
 Name: Gelasia Fotiou
 [V5:PM1]
@@ -14794,6 +14858,16 @@ Discipline: cel pre
 Camarilla: While Hiram is ready, actions to burn a location you control cost 1 additional blood.
 Artist: Mattias Tapia
 
+Name: Hiromitsu Asano
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 4
+Discipline: aus for obl
+Independent.
+Artist: Amy Wilkins
+
 Name: Hive Mind
 [HttB:C/A3]
 Cardtype: Action
@@ -14803,6 +14877,16 @@ Discipline: Sanguinus
 [san] Unlock this Blood Brother and another ready Blood Brother of the same circle. Only one Hive Mind can be played at [san] each turn.
 [SAN] Add 3 blood to a Blood Brother of the same circle in your uncontrolled region.
 Artist: Jami Waggoner; Mark Kelly
+
+Name: Holliday "Burgundy" Hall
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 5
+Discipline: aus FOR OBL
+Independent.
+Artist: Francisco Tébar
 
 Name: Homa
 [LoB:U]
@@ -18798,6 +18882,16 @@ Discipline: aus obf pre
 Sabbat: Lena cannot receive any title.
 Artist: Ken Meyer, Jr.
 
+Name: Lenelle, Mambo of Birmingham
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 6
+Discipline: aus FOR OBL
+Independent: Lenelle can exchange a card from your hand for a library card in your ash heap as a +1 stealth action that costs 1 blood.
+Artist: Ken Meyer, Jr.
+
 Name: Lenny Burkhead
 [V5:PN2, NB:PN1]
 Cardtype: Vampire
@@ -20309,6 +20403,16 @@ Capacity: 1
 Discipline: for
 Sabbat: If March is diablerized, no blood hunt can be called.
 Artist: Ken Meyer, Jr.
+
+Name: Marchesa Liliana
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 9
+Discipline: dom ANI AUS FOR OBL
+Independent: During a bleed action, Liliana can remove seven cards in your ash heap from the game to get an additional +1 bleed. +1 bleed.
+Artist: Anastasiia Horbunova
 
 Name: Marcia Felicia Licinia
 [LotN:U, POD:DTC]
@@ -22061,6 +22165,16 @@ Discipline: dom tha
 Anarch.
 Artist: Noah Hirka
 
+Name: Monica Giovanni
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 6
+Discipline: AUS FOR OBL
+Independent.
+Artist: Mark Kelly
+
 Name: Monique
 [Sabbat:V, Tenth:B]
 Cardtype: Vampire
@@ -22148,6 +22262,16 @@ Discipline: dom for pre CEL OBF QUI
 Sabbat: After Monty burns a titled vampire, he can become a bishop. If the burned vampire's title was worth 3 or more votes, he can become a priscus instead.
 Artist: Mark Poole
 
+Name: Mora, the Death Seer
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 7
+Discipline: ani AUS FOR OBL
+Independent: If Mora is ready during your discard phase, you can move a library card from your ash heap to the bottom of your library. +1 bleed.
+Artist: Mark Kelly
+
 Name: Mordechai Ben-Nun
 [HttB:U/A2]
 Cardtype: Vampire
@@ -22217,6 +22341,16 @@ Capacity: 4
 Discipline: cel dom tha
 Sabbat: Black Hand.
 Artist: Mark Poole
+
+Name: "Mother" Anja Giovanni
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 8
+Discipline: dom pot AUS FOR OBL
+Independent: Once each turn, if she is ready, Anja can burn 1 blood after another Hecata you control performs a successful action requiring Hecata or Oblivion [obl] to unlock that Hecata.
+Artist: Ken Meyer, Jr.
 
 Name: Mouse
 [CE:V, BSC:X]
@@ -23450,7 +23584,7 @@ Put this card on a vampire. This vampire gets +1 level of Obfuscate [obf] and +1
 Artist: Lawrence Snelly; John Bridges
 
 Name: Oblivion
-[V5:PL1]
+[V5:PH1/PL1]
 Cardtype: Master
 Discipline.
 Put this card on a vampire. This vampire gets +1 level of Oblivion [obl] and +1 capacity. Cannot be put on a vampire with superior Oblivion [OBL].
@@ -24123,6 +24257,16 @@ Discipline: pot pre OBF PRO
 Independent: During your master phase, discard a master card or lock Pariah. Pariah cannot take undirected actions other than hunting. He can enter combat with any minion as a (D) action. +1 strength. Scarce. Sterile.
 Artist: Richard Thomas
 
+Name: Parijat, the Dark Oracle
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 7
+Discipline: AUS DOM FOR OBL
+Independent: While Parijat is ready, minions must burn the top card of their library to attempt to block wraith or zombie allies.
+Artist: Ginés Quiñonero
+
 Name: Paris Opera House
 [BL:R1, LoB:R, POD:DTC]
 Cardtype: Master
@@ -24188,7 +24332,7 @@ Requires an Anarch.
 Artist: Peter Bergting
 
 Name: Pass Through Shadow
-[V5:PL4]
+[V5:PH4/PL4]
 Cardtype: Combat
 Cost: 1 blood
 Discipline: Oblivion
@@ -24614,7 +24758,7 @@ Discipline: Presence
 Artist: Jeremy McHugh
 
 Name: Perfectionist
-[Gehenna:C, KoT:C, SP:LB2]
+[Gehenna:C, KoT:C, SP:LB2, V5:PH1]
 Cardtype: Master
 Archetype.
 Put this card on a vampire you control. Once each turn, this vampire can gain 1 blood after performing a successful action during which no reaction cards are played. A vampire can have only one archetype.
@@ -24735,6 +24879,16 @@ Life: 4
 Virtue: red ven
 While Peter is in combat with a monster, he may burn a conviction [1 CONVICTION] to get a maneuver.
 Artist: Lawrence Snelly
+
+Name: Peter St. John
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 2
+Discipline: obl
+Independent.
+Artist: María Lorén
 
 Name: Petra
 [Gehenna:U, HttB:PSam, FB:PN1]
@@ -24903,6 +25057,14 @@ Cardtype: Master
 Requires a ready Anarch.
 Lock a ready unlocked Anarch you control. That Anarch recruits or employs an ally or retainer from your hand (requirements and cost apply as normal). This is not an action and cannot be blocked.
 Artist: Andrew Trabbold; Ginés Quiñonero
+
+Name: Pit of Contemplation
+[V5:PH2]
+Cardtype: Action
+Clan: Hecata
++1 stealth action. Unique.
+Put this card in play with 1 counter. Hecata you control can add 1 counter to this card as a +1 stealth action. During your unlock phase, you can burn this card to move a vampire controlled by your predator or prey with capacity less than X to their owner's uncontrolled region, where X is the number of counters on this card. Vampires can burn this card as a (D) action.
+Artist: Pablo D. Hidalgo
 
 Name: Plasmic Form
 [Sabbat:C, SW:PT2, Third:PTz2/SKTz2, POD:DTC]
@@ -25513,7 +25675,7 @@ Discipline: Celerity
 Artist: Imaginary Friends Studios
 
 Name: Precognition
-[Sabbat:C, SW:C/PT2, CE:PTo2/PTr, Anarchs:PAG, BH:PTr2, KMW:PAl3, Third:C/PM3/SKM2, HttB:PSal3, SP:DoF4, FB:PTr2, V5:PTr2, NB:PTr1]
+[Sabbat:C, SW:C/PT2, CE:PTo2/PTr, Anarchs:PAG, BH:PTr2, KMW:PAl3, Third:C/PM3/SKM2, HttB:PSal3, SP:DoF4, FB:PTr2, V5:PH3/PTr2, NB:PTr1]
 Cardtype: Reaction
 Discipline: Auspex
 [aus] +1 intercept.
@@ -27771,7 +27933,7 @@ Do not replace until after combat.
 Artist: Eric Lofgren
 
 Name: Rolling with the Punches
-[Sabbat:C, SW:C/PV, FN:PR, CE:PV3, LoB:PA3, Third:C, FB:PV2, V5C:PSal2]
+[Sabbat:C, SW:C/PV, FN:PR, CE:PV3, LoB:PA3, Third:C, FB:PV2, V5C:PSal2, V5:PH4]
 Cardtype: Combat
 Discipline: Fortitude
 [for] Prevent 1 damage.
@@ -28836,6 +28998,15 @@ Discipline: Dominate
 [DOM] +1 stealth action. Add 2 blood to a younger vampire in your uncontrolled region.
 Artist: Scott Fischer
 
+Name: Screamer
+[V5:PH2]
+Cardtype: Ally
+Clan: Hecata
+Cost: 1 pool
+Wraith with 1 life. 1 strength, 1 bleed.
+You can burn this ally to give a minion controlled by your predator or prey -1 stealth. You can burn this ally as an action directed at an ally you control is announced to have it fail.
+Artist: Noora Hirvonen
+
 Name: Screw the Masquerade!
 [Sabbat:C]
 Cardtype: Political Action
@@ -29360,7 +29531,7 @@ Discipline: Obfuscate & Potence
 Artist: Javier Santos
 
 Name: Shadow Cast
-[V5:PL4]
+[V5:PH3/PL4]
 Cardtype: Action Modifier
 Discipline: Oblivion
 [obl] +1 stealth.
@@ -29368,7 +29539,7 @@ Discipline: Oblivion
 Artist: Yanis Cardin
 
 Name: Shadow Cloak
-[V5:PL4]
+[V5:PH3/PL4]
 Cardtype: Action Modifier
 Discipline: Oblivion
 [obl] +1 stealth.
@@ -29441,6 +29612,15 @@ Discipline: Obtenebration
 [obt] +1 stealth.
 [OBT] +2 stealth.
 Artist: Stuart Beel; Stuart Sayger
+
+Name: Shadow Sentinel
+[V5:PH3]
+Cardtype: Reaction
+Discipline: Oblivion
+A vampire can play only one Shadow Sentinel between their unlock phases.
+[obl] Only usable by a locked vampire. This vampire wakes.
+[OBL] Usable by a locked vampire. Choose a locked wraith or zombie ally you control. The chosen ally wakes.
+Artist: Anastasiia Horbunova
 
 Name: Shadow Step
 [Sabbat:R, Tenth:A, Third:R, POD:DTC]
@@ -29855,6 +30035,14 @@ Discipline: Dominate & Obtenebration
 [dom][obt] +1 stealth.
 [DOM][OBT] As above, and this vampire can strike: combat ends during the first round of the resulting combat if they are blocked.
 Artist: Brian LeBlanc; Francesc Grimalt; Brian LeBlanc
+
+Name: Shroud of Decay
+[V5:PH6]
+Cardtype: Action
+Discipline: Oblivion
+[obl] (D) Bleed with +1 bleed. If the bleed is successful (for 1 or more), the target Methuselah discards 2 cards of their choice.
+[OBL] (D) Remove 7 cards in your prey's ash heap from the game to burn 3 of their pool.
+Artist: Yanis Cardin
 
 Name: Shroud of Night
 [Sabbat:C, SW:PL, Third:C, SP:PoS4, POD:DTC]
@@ -30692,6 +30880,16 @@ Discipline: Necromancy
 [NEC] [REACTION] +1 intercept.
 Artist: Pete Venters; John Bridges
 
+Name: Spectral Servitor
+[V5:PH4]
+Cardtype: Ally
+Cost: 1 blood
+Discipline: Oblivion
+Wraith with 1 life. 1 strength, 1 bleed.
+[obl] This ally can perform actions the turn it is recruited. Unlock this vampire if this is their first successful recruit ally action this turn. This ally can play non-action cards requiring Oblivion [obl] as a vampire. During your unlock phase, burn this ally.
+[OBL] As above, but during your unlock phase, you can burn 1 pool instead of burning this ally.
+Artist: Paolo Puggioni
+
 Name: Speed of Thought
 [Sabbat:R, SW:R, CE:PB]
 Cardtype: Action
@@ -31233,7 +31431,7 @@ Discipline: Celerity
 Artist: Steve Ellis
 
 Name: Stygian Shroud
-[V5:PL4]
+[V5:PH3/PL4]
 Cardtype: Action Modifier
 Discipline: Oblivion
 Only usable if a minion attempts to block.
@@ -32126,7 +32324,7 @@ Discipline: Auspex
 Artist: Susan Van Camp; Darryl Elliott; Joe Slucher
 
 Name: Telepathic Misdirection
-[Jyhad:C, VTES:C, CE:C/PM4, BH:PM3/PTo4, Third:C/PM2/SKM1, KoT:C/PT4, SP:DoF2/LB4, FB:PM4/PTo4/PTr4, V5:PM5/PTr4, NB:PM2/PTo2/PTr4, V5C:PSal4, 30th:4]
+[Jyhad:C, VTES:C, CE:C/PM4, BH:PM3/PTo4, Third:C/PM2/SKM1, KoT:C/PT4, SP:DoF2/LB4, FB:PM4/PTo4/PTr4, V5:PH3/PM5/PTr4, NB:PM2/PTo2/PTr4, V5C:PSal4, 30th:4]
 Cardtype: Reaction
 Cost: 1 blood
 Discipline: Auspex
@@ -32720,6 +32918,16 @@ Master: unique location.
 When this card is played or the controller of this card changes, the controller chooses a vampire in his or her uncontrolled region. For each blood counter you transfer to the chosen vampire during your influence phase, move one counter from the blood bank to the Tomb. At the end of your influence phase, if the total number of counters on the chosen vampire and on the Tomb equals or exceeds that vampire's capacity, you may move the vampire to the ready region. Burn this card (and the counters on it) when this vampire leaves the uncontrolled region.
 Artist: Sandra Everingham
 
+Name: Tommaso Sforza
+[V5:PH1]
+Cardtype: Vampire
+Clan: Hecata
+Group: 6
+Capacity: 7
+Discipline: dom for AUS OBL THA
+Independent: Once each turn, if he is ready, Tommaso can burn 1 blood before range is determined in a combat involving a wraith or zombie ally you control to end that combat.
+Artist: Lawrence Snelly
+
 Name: Tommy
 [Sabbat:V, SW:U]
 Cardtype: Vampire
@@ -33294,7 +33502,7 @@ Anarch.
 Artist: Mark Kelly
 
 Name: Truth in Darkness
-[V5:PL2]
+[V5:PH3/PL2]
 Cardtype: Reaction
 Discipline: Oblivion
 [obl] +1 intercept.
@@ -34602,7 +34810,7 @@ Independent: +1 stealth.
 Artist: Mathias Tapia
 
 Name: Villein
-[KoT:U/A2/B2, HttB:PGar2/PKia2/PSal2/PSam2, SP:DoF3/PoS4, 25th:5, V5:PL3/PTo6, V5A:PBh4, NB2:PB2/PMi2, 30th:6]
+[KoT:U/A2/B2, HttB:PGar2/PKia2/PSal2/PSam2, SP:DoF3/PoS4, 25th:5, V5:PH3/PL3/PTo6, V5A:PBh4, NB2:PB2/PMi2, 30th:6]
 Cardtype: Master
 Trifle.
 Put this card on a vampire you control who has any amount of blood and move 2 to 5 blood from that vampire to your pool. Cards named /Minion Tap/ cost you +1 pool to play. Villein costs +1 pool to play on this vampire.
@@ -35312,7 +35520,7 @@ Werewolf Pack is not affected by damage from melee weapons.
 Artist: Daniel Gelon
 
 Name: Where the Veil Thins
-[V5:PL4]
+[V5:PH3/PL4]
 Cardtype: Action Modifier
 Discipline: Oblivion
 [obl] +1 stealth.

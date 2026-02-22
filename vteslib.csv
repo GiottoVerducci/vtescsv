@@ -2074,7 +2074,7 @@ George Thorogood, ""Bad to the Bone""","KoT:C/B2","","Mathias Kollros",""
 [for] (D) Bleed with +1 bleed. After resolution, this vampire takes 2 unpreventable aggravated damage even if the action is blocked.
 [FOR] As above, but with +2 bleed, and the acting vampire takes only 1 unpreventable aggravated damage.","","DS:C2, FN:PR2, Anarchs:PAG/PG2, KMW:PG, Third:C","","Ron Spencer",""
 "100760","Forced Awakening","","Reaction","","","","","","","","Only usable by a locked vampire.
-This vampire wakes (they ignore the requirement to be unlocked for playing reaction cards and attempting to block until the end of the action). If they do not block this action, they burn 1 blood before action resolution.","","Sabbat:C, SW:C/PB2/PT5/PV2, FN:PA2/PS2, CE:PTr4, BH:PM3/PTr4, LoB:PO4, Third:PTz3/SKTz2, FB:PN3/PTr3, NB:PN4/PTr3","","Alan Rabinowitz",""
+This vampire wakes (they ignore the requirement to be unlocked for playing reaction cards and attempting to block until the end of the action). If they do not block this action, they burn 1 blood before action resolution.","","Sabbat:C, SW:C/PB2/PT5/PV2, FN:PA2/PS2, CE:PTr4, BH:PM3/PTr4, LoB:PO4, Third:PTz3/SKTz2, FB:PN3/PTr3, NB:PN3/PTr2","","Alan Rabinowitz",""
 "102250","Forced Confessional","","Action Modifier","Salubri","","Dominate","","","","","Only usable if a minion attempts to block.
 [dom] The blocking minion gets -1 intercept.
 [DOM] That attempt fails and the blocking minion cannot attempt to block this action again.","","V5C:PSal4","","Christian Byrne",""
@@ -4543,7 +4543,7 @@ Burn when a monster is acting to give this imbued +1 intercept for that action.
 Burn when this imbued declares an action to give monsters -1 intercept for this action.","","NoR:C","","Avery Butterworth",""
 "101706","Second Tradition: Domain","Second Tradition: Domain, The","Reaction","","","","","","","","Requires a prince or justicar.
 [REACTION] +2 intercept.
-[REACTION] Only usable by a locked prince or justicar. This vampire burns 1 blood to unlock and attempt to block with +2 intercept, even if intercept is not yet needed.","None may challenge thy word while in thy domain.","Jyhad:U, VTES:U, CE:U/PTo/PV2, KMW:PAl3, KoT:U/PV3, 25th:3, FB:PV2, V5:PL6/PTo4/PV4, V5A:PBh8, NB:PTo3/PV2, NB2:PBH4, 30th:2, NB3:PL3","","L. A. Williams; Durwin Talon; Cos Koniotis",""
+[REACTION] Only usable by a locked prince or justicar. This vampire burns 1 blood to unlock and attempt to block with +2 intercept, even if intercept is not yet needed.","None may challenge thy word while in thy domain.","Jyhad:U, VTES:U, CE:U/PTo/PV2, KMW:PAl3, KoT:U/PV3, 25th:3, FB:PV2, V5:PL6/PTo4/PV4, V5A:PBh8, NB:PTo2/PV2, NB2:PBH4, 30th:2, NB3:PL3","","L. A. Williams; Durwin Talon; Cos Koniotis",""
 "101707","Secret Horde","","Master","","","","X","","","","Master: investment.
 Put this card in play and move 2X blood from the blood bank to this card. You may use a master phase action to move 1 blood from this card to your pool. Burn this card when it has no counters.","","Sabbat:C, SW:C, CE:C/PN, Anarchs:PG, LoB:PA, Third:PB/SKB1","","Michael Astrachan",""
 "101708","Secret Library of Alexandria, The","","Master","Nosferatu","","","1","","","","Master: unique location.
@@ -5728,7 +5728,7 @@ Tzimisce, Dublin 2002 Storyline","Jyhad:U, VTES:U, CE:U, LoB:PA, KoT:U","","Mark
 "102136","Waiting Game","","Event","","","","","","","","Transient.
 Put this card in play with 10 counters. Whenever a non-{A}narch vampire takes an action, burn a counter from this card. Burn this card when it has no counters. During your unlock phase, each anarch burns 1 blood or becomes Camarilla, and each ally burns 1 life.","","KoT:R","","Peter Bergting",""
 "102137","Wake with Evening's Freshness","","Reaction","","","","","","","","Only usable by a locked vampire. Do not replace until your next unlock phase.
-This vampire wakes (they ignore the requirement to be unlocked for playing reaction cards and attempting to block until the end of the action).","","Jyhad:C, VTES:C, SW:PB2/PL4/PV2, FN:PG2, CE:PB4/PM4/PTo3/PV3, Anarchs:PAB3/PAG2, BH:PTo3, KMW:PAn3/PB5/PG2, LoB:PG2/PI3, HttB:PGar6/PSal5, SP:PoS2, V5:PV4, NB:PM3/PV3","","Randy Gallegos; Ron Spencer",""
+This vampire wakes (they ignore the requirement to be unlocked for playing reaction cards and attempting to block until the end of the action).","","Jyhad:C, VTES:C, SW:PB2/PL4/PV2, FN:PG2, CE:PB4/PM4/PTo3/PV3, Anarchs:PAB3/PAG2, BH:PTo3, KMW:PAn3/PB5/PG2, LoB:PG2/PI3, HttB:PGar6/PSal5, SP:PoS2, V5:PV4, NB:PM2/PV2","","Randy Gallegos; Ron Spencer",""
 "102138","Walk of Caine","","Action Modifier","","","Sanguinus","","","","","[san] {Only usable as a bleed action is announced. Choose X ready Blood Brothers you control with 1 or more blood of the same circle as this Blood Brother, including this Blood Brother. Each chosen Blood Brother burns 1 blood. +X bleed (limited).}
 [SAN] {As above,} but usable any time before the action is resolved.","","BL:C1, LoB:C","","Leif Jones",""
 "102139","Walk of Flame","","Combat","","","Thaumaturgy","","","","","Not usable during the first round.

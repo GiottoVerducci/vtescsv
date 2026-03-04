@@ -34003,7 +34003,7 @@ Clan: Brujah
 Group: 4
 Capacity: 6
 Discipline: CEL POT PRE
-Camarilla primogen: {While Tomaine is ready and your prey controls a ready Sabbat vampire, you prey gets +1 hand size.}
+Camarilla primogen: {While Tomaine is ready and your prey controls a ready Sabbat vampire, your prey gets +1 hand size.}
 Artist: Veronica Jones
 
 Name: Tomb of Rameses III

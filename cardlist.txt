@@ -933,7 +933,7 @@ Camarilla.
 Artist: Larry MacDougall
 
 Name: Alessandro Garcia
-[Third:PB/SKB1]
+[Third:PB/SKB1, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
@@ -1323,13 +1323,13 @@ Cardtype: Action
 Artist: Mark Poole; Mitch Mueller
 
 Name: Amelia
-[SW:PB]
+[SW:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
 Capacity: 7
 Discipline: CEL POT PRE
-Sabbat bishop: Amelia can enter combat with any vampire of capacity below 4 controlled by another Methuselah as a +1 stealth (D) action.
+Sabbat bishop: Amelia can enter combat with a vampire with capacity 3 or less as a +1 stealth (D) action.
 Artist: John Van Fleet
 
 Name: Amelia, The Blood Red Tears
@@ -1406,12 +1406,12 @@ This vampire can burn 1 blood to play a card requiring Temporis [tem] as if they
 Artist: Nicolas Bigot
 
 Name: Amusement Park Hunting Ground
-[Sabbat:U, SW:U/PB, Third:PB/SKB1]
+[Sabbat:U, SW:U/PB, Third:PB/SKB1, POD:DTC]
 Cardtype: Master
 Clan: Brujah antitribu
 Cost: 2 pool
-Master: unique location. Hunting ground.
-During your unlock phase, you may move 1 blood from the blood bank to a ready vampire you control. A vampire can gain blood from only one hunting ground card each turn.
+Unique location. Hunting ground.
+During your unlock phase, a ready vampire you control can gain 1 blood. A vampire can gain blood from only one hunting ground each turn.
 Artist: Dave Seeley
 
 Name: Ana Rita Montaña
@@ -2122,13 +2122,13 @@ Sabbat Archbishop of Atlanta: If Antonio performs a political action whose refer
 Artist: Max Shade Fellwalker
 
 Name: Antonio Veradas
-[CE:V, BSC:X]
+[CE:V, BSC:X, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 3
 Capacity: 8
 Discipline: obf CEL POT PRE
-Sabbat bishop: Antonio gets +1 stealth when equipping with a weapon. During your discard phase, Antonio may burn 1 blood to unlock.
+Sabbat bishop: Antonio gets +1 stealth during actions to equip with a weapon. During your discard phase, he can burn 1 blood to unlock.
 Artist: Mike Danza
 
 Name: Anu Diptinatpa
@@ -2445,13 +2445,13 @@ Camarilla.
 Artist: Ken Meyer, Jr.
 
 Name: Armin Brenner
-[Third:PB2/SKB1]
+[Third:PB2/SKB1, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
 Capacity: 10
 Discipline: ani obf CEL FOR POT PRE
-Sabbat Archbishop of Washington, D.C.: When a referendum Armin calls passes, you gain 1 pool after resolving the referendum.
+Sabbat Archbishop of Washington, D.C.: After a referendum called by Armin passes, you can gain 1 pool.
 Artist: Eric Lofgren
 
 Name: Armor of Caine's Fury
@@ -2931,7 +2931,7 @@ Only usable during the polling step of a political action.
 Artist: Gary Leach
 
 Name: Axel Von Anders
-[Third:V]
+[Third:V, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
@@ -3607,13 +3607,13 @@ Independent: Bela cannot perform political actions. -1 stealth.
 Artist: Heather V. Kreiter
 
 Name: Bela Kardoza
-[Third:V]
+[Third:V, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
 Capacity: 10
 Discipline: ani dom CEL POT PRE VIC
-Sabbat: During a referendum, Bela may burn X blood to get X additional votes.
+Sabbat: During the polling step of any referendum, Bela can burn X blood to get +X votes.
 Artist: Lawrence Snelly
 
 Name: Belinde
@@ -4065,11 +4065,12 @@ Strike: strength+1 damage, with 1 optional maneuver each combat, only usable to 
 Artist: Ginés Quiñonero
 
 Name: Blade of Enoch
-[Third:R, KoT:R]
+[Third:R, KoT:R, POD:DTC]
 Cardtype: Equipment
 Cost: 1 pool
-Unique melee weapon.
-Strike: strength+1 damage, only usable by a vampire with capacity above 5. Damage inflicted by this weapon on a Brujah or Brujah antitribu is aggravated. This vampire with capacity above 5 is immune to the effects of Frenzy cards.
+Unique melee weapon. Only usable by a vampire with capacity 6 or more.
+Damage this weapon inflicts on Brujah or Brujah antitribu is aggravated. Frenzy cards cannot be used on this vampire with capacity 6 or more.
+Strike: strength+1 damage.
 Artist: Patrick McEvoy
 
 Name: Blaise
@@ -4260,12 +4261,12 @@ Cost: 2 blood
 Artist: Harold Arthur McNeill
 
 Name: Blood Brother Ambush
-[Sabbat:R, SW:R/PB]
+[Sabbat:R, SW:R/PB, POD:DTC]
 Cardtype: Action Modifier
 Clan: Brujah antitribu
 Cost: 2 blood
-Only usable when an action is blocked.
-Combat does not occur. Put this card into play. While in play, this card represents an ally with 3 life and 2 strength who can strike for 2R damage; this ally enters combat with the blocking minion. Blood Brother Ambush may play cards requiring basic Potence [pot] as a vampire with a capacity of 3. If a card would give them blood, give them life instead. Burn this card at the end of combat or if the combat is canceled.
+Only usable if this vampire is blocked, before block resolution.
+Instead of resolving the block, put this card in play (the action is still blocked); it becomes an ally with 3 life and 2 strength who can strike: 2R damage; this ally and the blocking minion enter combat. This ally can play cards requiring basic Potence [pot] as a 3-capacity vampire. If this combat is canceled or at the end of this combat, burn this card.
 Artist: Ted Naifeh
 
 Name: Blood Buff
@@ -4974,13 +4975,13 @@ Camarilla.
 Artist: Atilio Gambedotti
 
 Name: Bronwen
-[Sabbat:V, SW:PB]
+[Sabbat:V, SW:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
 Capacity: 10
 Discipline: dom obt CEL POT PRE
-Sabbat priscus: Once each combat, Bronwen may dodge as a strike.
+Sabbat priscus: Once each combat, Bronwen can strike: dodge.
 Artist: Ken Meyer, Jr.
 
 Name: Brooke
@@ -5029,12 +5030,12 @@ Sabbat cardinal: Bruce may burn a blood when he announces a political action to 
 Artist: Ken Meyer, Jr.
 
 Name: The Bruisers
-[Sabbat:U]
+[Sabbat:U, POD:DTC]
 Cardtype: Ally
 Clan: Brujah antitribu
 Cost: 3 pool
 Unique mortal with 2 life. 2 strength, 0 bleed.
-The Bruisers may take a (D) action to burn a location controlled by your prey.
+This ally can burn a location controlled by your prey as a (D) action.
 Artist: Matt Cavotta
 
 Name: Brujah Debate
@@ -7836,10 +7837,10 @@ If this referendum is successful, put this card on the acting vampire to represe
 Artist: Clint Langley
 
 Name: Crusade: Rome
-[BH:R, Third:PB]
+[BH:R, Third:PB, POD:DTC]
 Cardtype: Political Action
-Requires a Sabbat vampire. Title.
-If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Rome. This could lead to a contested title. If this vampire is Brujah antitribu, he or she unlocks during your next discard phase.
+Title. Requires a Sabbat vampire.
+Successful referendum means this card is put on this vampire to represent the unique Sabbat title of Archbishop of Rome. If this vampire is Brujah antitribu, they can unlock during your next discard phase.
 Artist: Brian LeBlanc
 
 Name: Crusade: Toronto
@@ -8293,7 +8294,7 @@ Gain 2 pool.
 Artist: Marian Churchland
 
 Name: Dark Selina
-[DM:C/2, Anthology:1]
+[DM:C/2, Anthology:1, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 5
@@ -8761,14 +8762,14 @@ Clan: Malkavian/Malkavian antitribu
 Artist: Eric LaCombe
 
 Name: DeSalle
-[Third:V]
+[Third:V, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
 Capacity: 7
 Discipline: CEL POT PRE
-Sabbat: When DeSalle is acting, a Sabbat vampire may burn 1 blood to get +1 intercept once that action. +1 stealth.
-Artist: Heather Kreiter
+Sabbat: During an action, each Sabbat vampire attempting to block DeSalle can burn 1 blood to get +1 intercept. +1 stealth.
+Artist: Heather V. Kreiter
 
 Name: Descent into Darkness
 [Gehenna:C, POD:DTC]
@@ -9287,17 +9288,17 @@ Anarch.
 Artist: Ken Meyer, Jr.
 
 Name: Doctor Streck
-[BH:U2]
+[BH:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 3
 Capacity: 8
 Discipline: aus pot CEL OBF PRE
-Sabbat: When Streck bleeds successfully, the target Methuselah discards one card at random from his or her hand.
+Sabbat: After Doctor Streck successfully bleeds, the target Methuselah discards 1 card at random.
 Artist: Andrew Trabbold
 
 Name: Dodd
-[Sabbat:V, SW:PB]
+[Sabbat:V, SW:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
@@ -9333,10 +9334,10 @@ Only usable by a locked vampire.
 Artist: Peter Scholtz
 
 Name: Dogs of War
-[Third:U/PB]
+[Third:U/PB, POD:DTC]
 Cardtype: Political Action
 Clan: Brujah antitribu
-If this referendum passes, put this card in play. Any Brujah antitribu may enter combat with a ready minion as a (D) action. You may burn this card to cancel a blood hunt called on a Brujah antitribu. Any vampire may call a referendum to burn this card as a +1 stealth political action.
+Successful referendum means this card is put in play. Brujah antitribu can enter combat with a minion as a (D) action. You can burn this card to cancel a blood hunt called on a Brujah antitribu. Vampires can call a referendum to burn this card as a +1 stealth political action.
 Artist: Mark Poole
 
 Name: Dolie
@@ -11282,7 +11283,7 @@ Independent: Blood cursed.
 Artist: Lawrence Snelly
 
 Name: Evangeline
-[SW:C]
+[SW:C, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
@@ -11582,13 +11583,13 @@ Put this card in play. If you have fewer than 3 pool, you may use a master phase
 Artist: Tom Biondillo
 
 Name: Fairuza
-[SoC:V]
+[SoC:V, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 5
 Capacity: 4
 Discipline: pre CEL
-Sabbat: Fairuza may burn 1 blood or life from a minion controlled by your prey as a (D) action. She gets -1 bleed when bleeding a Methuselah who controls a ready minion.
+Sabbat: Fairuza can burn 1 blood or life from a minion controlled by your prey as a (D) action. She gets -1 bleed against Methuselahs controlling a ready minion.
 Artist: Ken Meyer, Jr.
 
 Name: Faithful Servant
@@ -11784,13 +11785,13 @@ Discipline: Chimerstry
 Artist: Dave Roach & Pete Burges; Brian LeBlanc
 
 Name: Father Juan Carlos
-[Third:PB2/SKB1]
+[Third:PB2/SKB1, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
 Capacity: 6
 Discipline: aus cel pot tha PRE
-Sabbat: During a bleed action, Father Juan may burn a blood to get -1 bleed and +1 stealth.
+Sabbat: During a bleed action, Father Juan Carlos can burn 1 blood to get -1 bleed and +1 stealth.
 Artist: Jim Pavelec
 
 Name: Fatima al-Faqadi
@@ -12850,7 +12851,7 @@ Camarilla: Titled vampires get +1 bleed against you.
 Artist: Veronica Jones
 
 Name: Frederick the Weak
-[Sabbat:V, SW:U/PB]
+[Sabbat:V, SW:U/PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
@@ -13071,12 +13072,12 @@ If the action is blocked, the resulting combat is at close range. Other effects 
 Artist: Pete Venters
 
 Name: Gang Territory
-[Sabbat:R, SW:R, Third:R]
+[Sabbat:R, SW:R, Third:R, POD:DTC]
 Cardtype: Master
 Clan: Brujah antitribu
 Cost: 2 pool
-Master: unique location.
-During your influence phase, lock to move 1 blood from the blood bank to a Brujah antitribu in your uncontrolled region.
+Unique location.
+During your influence phase, you can lock this location to add 1 blood to a Brujah antitribu in your uncontrolled region.
 Artist: Fred Harper
 
 Name: Gangrel Atavism
@@ -13201,13 +13202,13 @@ Anarch: During an action Gathii performs, you can reveal the top card of your li
 Artist: Noora Hirvonen
 
 Name: Gatjil Munyarryun
-[SoC:V]
+[SoC:V, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 5
 Capacity: 5
 Discipline: cel obt pre POT
-Sabbat. Black Hand.
+Sabbat: Black Hand.
 Artist: Mark Poole
 
 Name: Gavrylo
@@ -13828,13 +13829,13 @@ Remove a vampire with capacity 8 or more from the game. Their controller gains p
 Artist: Kaja Foglio; James Stowe
 
 Name: Gold Pan Dan
-[DM:C/2, Anthology:1]
+[DM:C/2, Anthology:1, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 5
 Capacity: 6
 Discipline: cel POT PRE
-Sabbat: Once each turn after combat involving Dan ends, Dan can burn 1 blood to unlock if the opposing minion is not ready.
+Sabbat: Once each turn, after a combat involving Dan ends, if the opposing minion is not ready, Dan can burn 1 blood to unlock.
 Artist: Lawrence Snelly
 
 Name: Goodnight, Sweet Prince
@@ -15099,13 +15100,13 @@ Sabbat.
 Artist: Michele Bertilorenzi
 
 Name: Hektor
-[Third:PB2/SKB1]
+[Third:PB2/SKB1, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
 Capacity: 9
 Discipline: for CEL POT PRE QUI
-Sabbat priscus: Damage from Hektor's hand strikes is aggravated. Baali get +1 bleed when bleeding you.
+Sabbat priscus: Damage from Hektor's hand strikes is aggravated. Baali get +1 bleed against you.
 Artist: Abrar Ajmal
 
 Name: Hel-Blá
@@ -15198,13 +15199,13 @@ Sabbat: While Henri is in combat, you get +1 hand size. Black Hand.
 Artist: Christopher Shy
 
 Name: Henry Taylor
-[BH:U2]
+[BH:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 3
 Capacity: 6
 Discipline: cel pre pro POT
-Sabbat: After an action, you may move a combat card Henry played during that action from your ash heap to the top of your library.
+Sabbat: After resolution of an action, you can move a combat card Henry played during that action from your ash heap to the top of your library.
 Artist: James Stowe
 
 Name: Herald of Topheth
@@ -15710,7 +15711,7 @@ Sabbat: Any Gangrel antitribu can enter combat with Huang as a (D) action.
 Artist: Zina Saunders
 
 Name: Hugo
-[Sabbat:V, SW:PB]
+[Sabbat:V, SW:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
@@ -16931,13 +16932,13 @@ This minion gets an optional maneuver each combat.
 Artist: Melissa Benson; Fred Hooper
 
 Name: Jacko
-[Sabbat:V, SW:U]
+[Sabbat:V, SW:U, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
 Capacity: 8
 Discipline: obt CEL POT PRE
-Sabbat: {During the first round of combat,} Jacko gets {1 optional additional strike that does not count against the limit}.
+Sabbat: During the first round of each combat, Jacko gets 1 optional additional strike not counting against the limit.
 Artist: Tim Bradstreet & Grant Goleash
 
 Name: Jackson Asher
@@ -16961,7 +16962,7 @@ Sabbat: Jacob's capacity is increased by 4 while he is controlled. Your predator
 Artist: Thomas Denmark
 
 Name: Jacob Bragg
-[Sabbat:V, SW:PB]
+[Sabbat:V, SW:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
@@ -16981,13 +16982,13 @@ Independent: While Jacob is ready, werewolves you control get +1 bleed. Jacob ge
 Artist: Ken Meyer, Jr.
 
 Name: Jacques Molay
-[Third:V]
+[Third:V, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
 Capacity: 9
 Discipline: obf val CEL POT PRE
-Sabbat: Jacques may enter combat with an ally or younger vampire as a (D) action. +1 strength.
+Sabbat: Jacques can enter combat with an ally or younger vampire as a (D) action. +1 strength.
 Artist: Jeremy McHugh
 
 Name: Jacques Rouge
@@ -17220,13 +17221,13 @@ Independent: Jayakumar can steal an equipment as a (D) action that costs 2 blood
 Artist: Jeff Laubenstein
 
 Name: Jayne Jonestown
-[KMW:PAn]
+[KMW:PAn, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
 Capacity: 2
 Discipline: PRE
-Sabbat. Red List: Jayne gets an additional +1 stealth when hunting, but -1 stealth on any other actions. If Jayne is ready during your unlock phase and the Society of Leopold is in play, you may move the Society to any ready vampire.
+Sabbat: Jayne gets +1 stealth during hunt actions and -1 stealth during other actions. During your unlock phase, if he is ready, you can move the card named /Society of Leopold/ (if any) to a ready vampire. Red List.
 Artist: Steve Ellis
 
 Name: Jazz Wentworth
@@ -17330,7 +17331,7 @@ Sabbat.
 Artist: Eric Deschamps
 
 Name: Jeremiah Noble
-[Anarchs:U2]
+[Anarchs:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 3
@@ -17839,13 +17840,13 @@ Sabbat: Julia can bleed any Methuselah as a (D) action. Once each action, Julia 
 Artist: Christopher Shy
 
 Name: Julian Sanders
-[FN:U2]
+[FN:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
 Capacity: 6
 Discipline: pot CEL PRE
-Sabbat: Julian gets one optional press each combat.
+Sabbat: Julian gets 1 optional press each combat.
 Artist: Christopher Shy
 
 Name: Juliet Parr
@@ -20078,13 +20079,13 @@ Requires an Anarch. Only usable as the action is announced. If this action is bl
 Artist: Alejandro Colucci
 
 Name: Lord Aaron Wesley Wilkshire
-[Third:V]
+[Third:V, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
 Capacity: 8
 Discipline: ani obf CEL POT PRE
-Sabbat. Black Hand: Frenzy cards played on Aaron cost an additional blood or pool.
+Sabbat: Frenzy cards played on Aaron cost +1 blood or pool. Black Hand.
 Artist: Steve Ellis
 
 Name: Lord Ashton
@@ -21117,13 +21118,13 @@ Anarch.
 Artist: Peter Scholtz
 
 Name: Marcel de Breau
-[Gehenna:U, Third:PB]
+[Gehenna:U, Third:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 3
 Capacity: 9
 Discipline: ani pro CEL POT PRE
-Sabbat Archbishop of Paris: If you have the Edge, you gain a pool when any Methuselah plays a Gehenna card. +1 bleed.
+Sabbat Archbishop of Paris: After a Gehenna event is played, if you have the Edge, you can gain 1 pool. +1 bleed.
 Artist: Mark Poole
 
 Name: Marcellus
@@ -21333,13 +21334,13 @@ Independent: While Marianna is ready, any other Methuselah controlling a ready G
 Artist: Christopher Shy
 
 Name: Mariano Pomposo
-[BH:U2]
+[BH:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 3
 Capacity: 4
 Discipline: aus cel pot
-Sabbat. Black Hand.
+Sabbat: Black Hand.
 Artist: David Day
 
 Name: Marie Faucigny
@@ -22428,13 +22429,13 @@ Camarilla: During your predator's minion phase, they can burn 1 pool to unlock a
 Artist: Mattias Tapia
 
 Name: Miguel Santo Domingo
-[BH:U2]
+[BH:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 3
 Capacity: 7
 Discipline: cel for POT PRE
-Sabbat: {During a bleed action}, Miguel can burn 1 blood to give any other acting Sabbat vampire you control +1 bleed{}.
+Sabbat: During a bleed action, Miguel can burn 1 blood to give another acting Sabbat vampire you control +1 bleed.
 Artist: Christopher Shy
 
 Name: Mikael Birkholm
@@ -24831,11 +24832,11 @@ Discipline: Obtenebration
 Artist: Patrick Lambert
 
 Name: Out of Control
-[Sabbat:U, SW:R/PV]
+[Sabbat:U, SW:R/PV, POD:DTC]
 Cardtype: Master
 Cost: 2 pool
-Master.
-Burn a Brujah antitribu with capacity below 6. Only one Out of Control can be played during a game.
+Only one Out of Control can be played in a game.
+Burn a Brujah antitribu with capacity 5 or less.
 Artist: Greg Loudon
 
 Name: Out of the Frying Pan
@@ -25298,7 +25299,7 @@ Only usable as an action to recruit or employ a wraith or zombie is announced.
 Artist: Noora Hirvonen
 
 Name: Patrick
-[Third:V]
+[Third:V, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
@@ -28565,7 +28566,7 @@ Sabbat: Richard gets -1 intercept when attempting to block Lasombra and Tzimisce
 Artist: Thea Maia
 
 Name: Richter, The Templar of Du Mont
-[Sabbat:V, SW:U/PB]
+[Sabbat:V, SW:U/PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
@@ -28604,13 +28605,13 @@ Burn Option
 Artist: Brian LeBlanc
 
 Name: Rigby, Crusade Vanguard
-[Sabbat:V, SW:U/PB]
+[Sabbat:V, SW:U/PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
 Capacity: 5
 Discipline: aus pot CEL PRE
-Sabbat: If Rigby attempts to block a Sabbat vampire and fails, and any of your predator's bishops are not at full capacity, move 1 blood from Rigby to one of those bishops.
+Sabbat: If Rigby attempts to block a Sabbat vampire and fails, move 1 blood from Rigby to one of your predator's bishops who is not at full capacity (if any).
 Artist: Lawrence Snelly
 
 Name: Righteous Aura
@@ -28810,7 +28811,7 @@ Sabbat bishop: +1 bleed.
 Artist: Brian LeBlanc
 
 Name: Rodrigo
-[Third:V]
+[Third:V, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
@@ -29447,13 +29448,13 @@ Independent.
 Artist: Cliff Nielson
 
 Name: Salinger
-[Sabbat:V, SW:U/PB]
+[Sabbat:V, SW:U/PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
 Capacity: 9
 Discipline: tha CEL POT PRE
-Sabbat Archbishop of Philadelphia: As a (D) action, Salinger may enter combat with any ready Lasombra or Tzimisce controlled by another Methuselah. +1 bleed.
+Sabbat Archbishop of Philadelphia: Salinger can enter combat with a Lasombra or Tzimisce as a (D) action. +1 bleed.
 Artist: Lawrence Snelly
 
 Name: Salt of Thoth
@@ -29624,13 +29625,13 @@ Independent: Once each turn, you can gain 1 pool after Saqqaf performs a success
 Artist: Mark Tedin
 
 Name: Sarah Brando
-[Sabbat:V, SW:PB]
+[Sabbat:V, SW:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
 Capacity: 3
 Discipline: CEL
-Sabbat: Sarah gets -1 stealth {during actions directed at a} Methuselah who controls a ready bishop or archbishop.
+Sabbat: Sarah gets -1 stealth during actions directed at a Methuselah (or a card they control) controlling a ready bishop or archbishop.
 Artist: Alan Rabinowitz
 
 Name: Sarah Cobbler
@@ -30179,24 +30180,24 @@ Only usable as the action is announced.
 Artist: Konrad Waściński
 
 Name: Sela
-[Sabbat:V, SW:PB]
+[Sabbat:V, SW:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
 Capacity: 6
 Discipline: cel obt POT PRE
-Sabbat bishop: If Sela becomes an archbishop, each ready bishop controlled by your prey burns 1 blood. +1 bleed.
+Sabbat bishop: After Sela becomes an archbishop, each ready bishop controlled by your prey burns 1 blood. +1 bleed.
 Artist: Sandra Everingham
 
 Name: Sela
-[BH:U2]
+[BH:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Level: Advanced
 Group: 2
 Capacity: 7
 Discipline: cel obt POT PRE
-Advanced, Sabbat Archbishop of Rome: Sela gets +1 stealth on {}actions directed at a Methuselah who controls a ready bishop.
+Sabbat Archbishop of Rome: Sela gets +1 stealth during actions directed at a Methuselah (or a card they control) controlling a ready bishop.
 Artist: Andrew Trabbold
 
 Name: Selective Silence
@@ -30875,7 +30876,7 @@ Discipline: Melpominee/Protean
 Artist: Marian Churchland
 
 Name: Shawnda Dorrit
-[Gehenna:U, Third:PB]
+[Gehenna:U, Third:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
@@ -31525,7 +31526,7 @@ Sabbat: If Smallpox successfully inflicts hand damage in consecutive rounds of a
 Artist: Lawrence Snelly
 
 Name: Smash
-[Third:PB/SKB1]
+[Third:PB/SKB1, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
@@ -32048,7 +32049,7 @@ Put this card in play with 2 counters. During your unlock phase, you can burn 1 
 Artist: Krasen Maximov
 
 Name: Spoils of War
-[DM:C/4]
+[DM:C/4, POD:DTC]
 Cardtype: Action Modifier
 Clan: Brujah antitribu
 Only usable after resolution of a successful directed action.
@@ -32726,12 +32727,12 @@ This reacting vampire gains 2 votes.
 Artist: David Fooden; Steve Casper
 
 Name: Survivalist
-[Sabbat:U, SW:PB, Third:U]
+[Sabbat:U, SW:PB, Third:U, POD:DTC]
 Cardtype: Ally
 Clan: Brujah antitribu
 Cost: 2 pool
 Mortal with 1 life. 0 strength, 0 bleed.
-Survivalist may strike for 2R damage. He may lock to give a Brujah antitribu you control a maneuver.
+This ally can strike: 2R damage. He can lock to give a Brujah antitribu you control 1 maneuver.
 Artist: Drew Tucker
 
 Name: Susie Kano
@@ -32847,12 +32848,13 @@ Maneuver, only usable to go to close range, and this minion gets +1 strength on 
 Artist: Fred Hooper
 
 Name: Sword of Judgment
-[Sabbat:R, SW:R/PB, Third:R]
+[Sabbat:R, SW:R/PB, Third:R, POD:DTC]
 Cardtype: Equipment
 Clan: Brujah antitribu
 Cost: 2 pool
-Unique melee weapon.
-Strength+1 damage each strike, with an optional additional strike {(limited)} each round. Only usable by Brujah antitribu.
+Unique melee weapon. Only usable by a Brujah antitribu.
+The bearer gets 1 optional additional strike (limited) each round.
+Strike: strength+1 damage.
 Artist: Richard Thomas
 
 Name: Sword of Nuln
@@ -34003,7 +34005,7 @@ Clan: Brujah
 Group: 4
 Capacity: 6
 Discipline: CEL POT PRE
-Camarilla primogen: {While Tomaine is ready and your prey controls a ready Sabbat vampire, your prey gets +1 hand size.}
+Camarilla primogen: {While Tomaine is ready and your prey controls a ready Sabbat vampire, you prey gets +1 hand size.}
 Artist: Veronica Jones
 
 Name: Tomb of Rameses III
@@ -35068,11 +35070,11 @@ Put this card on the acting vampire. If there are any vampires in torpor that th
 Artist: Satyr
 
 Name: Unexpected Coalition
-[SoC:C]
+[SoC:C, POD:DTC]
 Cardtype: Action Modifier/Reaction
 Clan: Brujah antitribu
-Only usable during a referendum.
-Each ready Brujah antitribu gets an additional vote this referendum. When tallying results, if any Brujah antitribu cast any votes or ballots in opposition to this Brujah antitribu's votes or ballots (or if this Brujah antitribu abstains), none of the additional votes from this card are counted.
+Only usable during the polling step of a political action.
+Each Brujah antitribu gets +1 vote. When tallying results, if this Brujah antitribu abstains or 1 or more Brujah antitribu cast 1 or more votes or ballots in opposition to this Brujah antitribu, none of the additional votes from this card are counted.
 Artist: Thomas Manning
 
 Name: Unflinching Persistence
@@ -35312,13 +35314,13 @@ Sabbat bishop: In combat, the controller of the minion opposing Uriel plays with
 Artist: Justin Norman
 
 Name: Urraca
-[Third:PB2/SKB]
+[Third:PB2/SKB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 4
 Capacity: 7
 Discipline: pre ANI CEL POT
-Sabbat bishop: While you control the Edge, Urraca gets +1 bleed.
+Sabbat bishop: While you have the Edge, Urraca gets +1 bleed.
 Artist: Abrar Ajmal
 
 Name: Using the Advantage
@@ -35664,11 +35666,11 @@ Sabbat Archbishop of Ostrava: Once each turn, after resolution of an action perf
 Artist: Raquel Cornejo
 
 Name: Vendetta
-[BH:R2, Third:R2/PB1]
+[BH:R2, Third:R2/PB1, POD:DTC]
 Cardtype: Reaction
 Clan: Brujah antitribu
-Only usable when you are successfully bled for more than 2 pool.
-Put this card on the acting minion. Brujah antitribu get +1 strength in combat with the minion with this card. Any ready Brujah antitribu may enter combat with this vampire as a (D) action. Burn this card if this minion goes to torpor.
+Only usable after a minion successfully bleeds you for 3 or more.
+Put this card on the acting minion. Brujah antitribu get +1 strength in combat with the attached minion. Brujah antitribu can enter combat with the attached minion as a (D) action. If the attached minion is in torpor, burn this card.
 Artist: Peter Bergting
 
 Name: Veneficorum Artum Sanguis
@@ -35897,7 +35899,7 @@ Sabbat.
 Artist: Karl Waller
 
 Name: Victor Tolliver
-[SW:PB]
+[SW:PB, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 2
@@ -36311,13 +36313,13 @@ Discipline: Spiritus/Obfuscate
 Artist: Alexander Dunnigan
 
 Name: Wah Chun-Yuen
-[BH:U2]
+[BH:U2, POD:DTC]
 Cardtype: Vampire
 Clan: Brujah antitribu
 Group: 3
 Capacity: 5
 Discipline: cel dom pre POT
-Sabbat. Black Hand.
+Sabbat: Black Hand.
 Artist: Jeff Holt
 
 Name: Waiting Game
@@ -36511,12 +36513,12 @@ During your master phase, a Tremere you control can move 1 blood from themselves
 Artist: Pete Burges & Dave Roach
 
 Name: Waste Management Operation
-[SW:U, Third:U]
+[SW:U, Third:U, POD:DTC]
 Cardtype: Master
 Clan: Brujah antitribu
 Cost: 1 pool
-Master: unique location.
-Lock during your discard phase to move a card from your ash heap to the bottom of your library.
+Unique location.
+During your discard phase, you can lock this location to move a card from your ash heap to the bottom of your library.
 Artist: Brian LeBlanc
 
 Name: Watch Commander

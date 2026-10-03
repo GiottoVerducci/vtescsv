@@ -119,9 +119,9 @@ For each vote by which the referendum passed, distribute 1 blood from the blood 
 William Shakespeare, ""Hamlet"", act I, scene 3","FN:C2/PR, LotN:PR2, POD:DTC","","Michael Gaydos",""
 "100048","Amulet of Temporal Perception","","Equipment","","","","","","","","Unique.
 This vampire can burn 1 blood to play a card requiring Temporis [tem] as if they had basic Temporis. This equipment can be used only once each turn.","","HttB:R/B1, POD:DTC","","Nicolas Bigot",""
-"100049","Amusement Park Hunting Ground","","Master","Brujah antitribu","","","2","","","","Master: unique location. Hunting ground.
-During your unlock phase, you may move 1 blood from the blood bank to a ready vampire you control. A vampire can gain blood from only one hunting ground card each turn.","Definitely an E ticket!
-Julie, Brujah antitribu","Sabbat:U, SW:U/PB, Third:PB/SKB1","","Dave Seeley",""
+"100049","Amusement Park Hunting Ground","","Master","Brujah antitribu","","","2","","","","Unique location. Hunting ground.
+During your unlock phase, a ready vampire you control can gain 1 blood. A vampire can gain blood from only one hunting ground each turn.","Definitely an E ticket!
+Julie, Brujah antitribu","Sabbat:U, SW:U/PB, Third:PB/SKB1, POD:DTC","","Dave Seeley",""
 "100050","Anachronism","","Master","","","","1","","","","Master.
 Put this card on a vampire with capacity above 6. This vampire cannot have or use any ranged weapons except the Ivory Bow. (If he or she currently has any, they are burned.)","","AH:C2, Tenth:B","","Drew Tucker",""
 "100051","Ananasi Vampirephile","","Ally","Guruhi","","","4","","","","Werewolf with 4 life. 2 strength, 1 bleed.
@@ -467,8 +467,9 @@ You can lock this card during the polling step of any referendum to get +2 votes
 Only usable when this anarch diablerizes a vampire with capacity 7 or more. Put this card in play with 3 clot counters. When an anarch you control inflicts hand or melee weapon damage, you may move a clot counter from this card to the opposing minion. A minion with a clot counter goes to torpor or is burned during his or her unlock phase. If an older vampire rescues the vampire, burn the clot counter.","","TR:R","","Heather Kreiter",""
 "100175","Blade of Bellona","","Equipment","Salubri antitribu","","","","","","","Melee weapon.
 Strike: strength+1 damage, with 1 optional maneuver each combat, only usable to get to close range.","","LK:4","","Ginés Quiñonero",""
-"100176","Blade of Enoch","","Equipment","","","","1","","","","Unique melee weapon.
-Strike: strength+1 damage, only usable by a vampire with capacity above 5. Damage inflicted by this weapon on a Brujah or Brujah antitribu is aggravated. This vampire with capacity above 5 is immune to the effects of Frenzy cards.","","Third:R, KoT:R","","Patrick McEvoy",""
+"100176","Blade of Enoch","","Equipment","","","","1","","","","Unique melee weapon. Only usable by a vampire with capacity 6 or more.
+Damage this weapon inflicts on Brujah or Brujah antitribu is aggravated. Frenzy cards cannot be used on this vampire with capacity 6 or more.
+Strike: strength+1 damage.","","Third:R, KoT:R, POD:DTC","","Patrick McEvoy",""
 "100177","Blanket of Night","","Action Modifier","","","Obtenebration","","1","","","[obt] +1 stealth.
 [OBT] Only usable by a ready vampire other than the acting minion if a minion attempts to block. Lock this modifying vampire to have that attempt fail; the blocking minion cannot attempt to block this action again.","","SW:R, HttB:PKia, SP:PoS2, POD:DTC","","Brian LeBlanc",""
 "100178","Bleeding the Vine","","Master","","","","1","","","","Unique master.
@@ -513,8 +514,8 @@ The Rubáiyát of Omar Khayyám","AH:R2, FN:PA, POD:DTC","","Ron Spencer",""
 [QUI] [ACTION MODIFIER] Only usable if a younger vampire attempts to block this vampire. That attempt fails and the blocking vampire cannot attempt to block this action again.","","LotN:C/PA3, POD:DTC","","Peter Bergting",""
 "100194","Blood Bond","","Action","","","","","2","","","+1 stealth action.
 (D) Put this card on any vampire. The vampire with this card cannot block this acting vampire.","","Jyhad:U, VTES:U, Tenth:B","","Harold Arthur McNeill",""
-"100195","Blood Brother Ambush","","Action Modifier","Brujah antitribu","","","","2","","","Only usable when an action is blocked.
-Combat does not occur. Put this card into play. While in play, this card represents an ally with 3 life and 2 strength who can strike for 2R damage; this ally enters combat with the blocking minion. Blood Brother Ambush may play cards requiring basic Potence [pot] as a vampire with a capacity of 3. If a card would give them blood, give them life instead. Burn this card at the end of combat or if the combat is canceled.","","Sabbat:R, SW:R/PB","","Ted Naifeh",""
+"100195","Blood Brother Ambush","","Action Modifier","Brujah antitribu","","","","2","","","Only usable if this vampire is blocked, before block resolution.
+Instead of resolving the block, put this card in play (the action is still blocked); it becomes an ally with 3 life and 2 strength who can strike: 2R damage; this ally and the blocking minion enter combat. This ally can play cards requiring basic Potence [pot] as a 3-capacity vampire. If this combat is canceled or at the end of this combat, burn this card.","","Sabbat:R, SW:R/PB, POD:DTC","","Ted Naifeh",""
 "100196","Blood Buff","","Master","Blood Brother","","","","","","","Trifle.
 Put this card on a ready Blood Brother you control. This Blood Brother gets +1 level of Sanguinus [san].","","LK:4","","Gábor Németh",""
 "100197","Blood Clots","","Action","","","Quietus","","1","","","+1 stealth action.
@@ -701,7 +702,7 @@ Put this card in play; it becomes a 2-capacity, non-unique Salubri antitribu {of
 "100258","Brothers Grimm","","Master","","","","","","","","Unique master.
 Put this card into play. During your unlock phase, put 1 counter on this card from the blood bank. When this card has 5 counters on it, it is burned and you gain 5 pool. Any Methuselah can use a master phase action and discard a master card from his or her hand to take control of the Brothers Grimm. You may cancel that (and keep the Brothers Grimm) by discarding a master card from your hand.","","CE:R","","James Stowe",""
 "100259","Bruisers, The","","Ally","Brujah antitribu","","","3","","","","Unique mortal with 2 life. 2 strength, 0 bleed.
-The Bruisers may take a (D) action to burn a location controlled by your prey.","","Sabbat:U","","Matt Cavotta",""
+This ally can burn a location controlled by your prey as a (D) action.","","Sabbat:U, POD:DTC","","Matt Cavotta",""
 "100260","Brujah Debate","","Master","Brujah","","","1","","","","Put this card in play. During each Methuselah's master phase, that Methuselah locks one of the oldest Brujah they control (if any). Brujah get +1 strength and 1 optional maneuver each combat. Non-Ventrue minions can burn this card as a (D) action.","","DS:U, Tenth:A, NB2:PB3","","Edward Beard, Jr.; Ginés Quiñonero",""
 "100261","Brujah Frenzy","","Master","","","","","","","","Master: out-of-turn. Frenzy.
 Only usable when a ready Brujah controlled by another Methuselah takes an action that remains unblocked. The Brujah's action is unsuccessful. Choose a ready unlocked minion in play; the minion and the Brujah cannot have the same controller. The Brujah enters combat with that minion, locking him or her.","","Jyhad:U, VTES:U","","Dan Frazier",""
@@ -1264,8 +1265,8 @@ If this referendum passes, put this card on the acting vampire to represent the 
 If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Philadelphia. This could lead to a contested title.","","Sabbat:R, SW:R, Third:PTr","","Dave Seeley",""
 "100470","Crusade: Pittsburgh","","Political Action","","","","","","","","Requires a Sabbat vampire. Title.
 If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Pittsburgh. This could lead to a contested title.","","Sabbat:R, SW:PT, Third:PTz","","Clint Langley",""
-"100471","Crusade: Rome","","Political Action","","","","","","","","Requires a Sabbat vampire. Title.
-If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Rome. This could lead to a contested title. If this vampire is Brujah antitribu, he or she unlocks during your next discard phase.","","BH:R, Third:PB","","Brian LeBlanc",""
+"100471","Crusade: Rome","","Political Action","","","","","","","","Title. Requires a Sabbat vampire.
+Successful referendum means this card is put on this vampire to represent the unique Sabbat title of Archbishop of Rome. If this vampire is Brujah antitribu, they can unlock during your next discard phase.","","BH:R, Third:PB, POD:DTC","","Brian LeBlanc",""
 "100472","Crusade: Toronto","","Political Action","","","","","","","","Requires a Sabbat vampire. Title.
 If this referendum is successful, put this card on the acting vampire to represent the unique Sabbat title of Archbishop of Toronto. This could lead to a contested title.","","Sabbat:R, Third:PM","","Clint Langley",""
 "100473","Crusade: Washington, D.C.","","Political Action","","","","","","","","Requires a Sabbat vampire. Title.
@@ -1535,7 +1536,7 @@ Minions in combat with the employer cannot strike: combat ends.","","AH:R2, Anar
 "102353","Dogged Pursuit","","Reaction","Ravnos","","Animalism","","","","","Only usable by a locked vampire.
 [ani] This vampire unlocks and attempts to block. If this vampire does not block this action, lock them after action resolution.
 [ANI] As above, and if this vampire does not block this action, put this card on them after action resolution. This vampire can burn this card to get +1 intercept. A vampire can have only one Dogged Pursuit.","","NB3:PR3","","Peter Scholtz",""
-"100569","Dogs of War","","Political Action","Brujah antitribu","","","","","","","If this referendum passes, put this card in play. Any Brujah antitribu may enter combat with a ready minion as a (D) action. You may burn this card to cancel a blood hunt called on a Brujah antitribu. Any vampire may call a referendum to burn this card as a +1 stealth political action.","","Third:U/PB","","Mark Poole",""
+"100569","Dogs of War","","Political Action","Brujah antitribu","","","","","","","Successful referendum means this card is put in play. Brujah antitribu can enter combat with a minion as a (D) action. You can burn this card to cancel a blood hunt called on a Brujah antitribu. Vampires can call a referendum to burn this card as a +1 stealth political action.","","Third:U/PB, POD:DTC","","Mark Poole",""
 "100570","Domain Challenge","","Political Action","","","","","","","","Successful referendum means each Methuselah burns 1 pool for each locked minion they control.","","Jyhad:C, VTES:C, CE:C/PV2, Anarchs:PAB, LoB:PG2, NB:PTo1","","Douglas Shuler",""
 "100571","Domain of Evernight","","Action Modifier","","","Temporis/Obfuscate","","","","","[obf] +1 stealth.
 [tem] If this action is blocked, all damage inflicted on vampires during the resulting combat is aggravated.
@@ -2216,8 +2217,8 @@ Tara, Brujah Prince of San Diego","Gehenna:C, KMW:PG2","","Steve Ellis",""
 "100802","Gang Tactics","","Action Modifier","Nosferatu antitribu","","","","","","","Only usable when the action is announced.
 If the action is blocked, the resulting combat is at close range. Other effects cannot change this; skip the determine range step during that combat.","He who is skilled in the attack flashes forth from the topmost heights of heaven, making it impossible for the enemy to guard against him.
 Sun Tzu, ""The Art of War""","Sabbat:R, SW:R, Third:R","","Pete Venters",""
-"100803","Gang Territory","","Master","Brujah antitribu","","","2","","","","Master: unique location.
-During your influence phase, lock to move 1 blood from the blood bank to a Brujah antitribu in your uncontrolled region.","","Sabbat:R, SW:R, Third:R","","Fred Harper",""
+"100803","Gang Territory","","Master","Brujah antitribu","","","2","","","","Unique location.
+During your influence phase, you can lock this location to add 1 blood to a Brujah antitribu in your uncontrolled region.","","Sabbat:R, SW:R, Third:R, POD:DTC","","Fred Harper",""
 "100804","Gangrel Atavism","Gangrel De-evolution","Master","","","","","","","","Master.
 Put this card on a Gangrel. This vampire gets -1 bleed.","","Jyhad:U, VTES:U","","Pete Venters",""
 "100805","Gangrel Conspiracy","","Master","Gangrel antitribu","","","","","","","Master: out-of-turn.
@@ -3596,10 +3597,10 @@ Put this card on this Laibon Osebo to represent the unique Laibon title of Osebo
 Ossian may enter combat with any vampire as a +1 stealth (D) action. In the first round of combat with a vampire who has played a card that requires Auspex [aus] during this action, that vampire cannot use any maneuvers or strikes. Ossian gains 1 life at the end of each round for each blood the opposing vampire used to heal damage or prevent destruction that round.","","KMW:R, KoT:R","","Roel Wielinga",""
 "101334","Oubliette","","Combat","","","Obtenebration","","1","","","[obt] Strike: combat ends.
 [OBT] As above, and the opposing minion burns 1 blood or life after combat ends (even at long range).","","SW:U/PL, Third:U, HttB:PKia3, SP:PoS3, POD:DTC","","Patrick Lambert",""
-"101335","Out of Control","","Master","","","","2","","","","Master.
-Burn a Brujah antitribu with capacity below 6. Only one Out of Control can be played during a game.","I would have nobody to control me;
+"101335","Out of Control","","Master","","","","2","","","","Only one Out of Control can be played in a game.
+Burn a Brujah antitribu with capacity 5 or less.","I would have nobody to control me;
 I would be absolute: and who but I?
-Miguel De Cervantes Saavedra, ""Don Quixote""","Sabbat:U, SW:R/PV","","Greg Loudon",""
+Miguel De Cervantes Saavedra, ""Don Quixote""","Sabbat:U, SW:R/PV, POD:DTC","","Greg Loudon",""
 "101336","Out of the Frying Pan","","Master","","","","","","","","Master. Trifle.
 Choose a ready Sabbat vampire you control. That vampire becomes Camarilla. (His or her clan is not affected.)","When you tire of the mask of freedom and realize that the Traditions have served you all along, you take the name for yourself as well. Camarilla.
 Anne Bowesley, Ventrue Prince (Queen) of London","Anarchs:C","","Brian LeBlanc",""
@@ -4993,7 +4994,7 @@ Spiritual Protector is immune to non-aggravated damage. Minions blocking or bloc
 "102297","Split the Veil","","Action","Hecata","","","","","","","+1 stealth action.
 Put this card in play with 2 counters. During your unlock phase, you can burn 1 counter from this card. You can burn counters from no more than two Split the Veil cards each unlock phase. If this card has no counters, burn it and move a wraith or zombie ally from your ash heap to your ready region with life equal to its starting life.","","NB3:PH4","","Krasen Maximov",""
 "101854","Spoils of War","","Action Modifier","Brujah antitribu","","","","","","","Only usable after resolution of a successful directed action.
-This vampire gains 1 blood and you gain 1 pool.","","DM:C/4","","August Bøgedal Hansen; Krasen Maximov",""
+This vampire gains 1 blood and you gain 1 pool.","","DM:C/4, POD:DTC","","August Bøgedal Hansen; Krasen Maximov",""
 "101855","Spontaneous Power","","Master","","","","2","","","","Unique master.
 Put this card on a vampire and choose a Discipline. This vampire gains 1 level of the chosen Discipline. While in play, this card counts as a master: Discipline card.","","Promo-20050611","","James Stowe",""
 "101856","Sport Bike","","Equipment","","","","1","","","","Vehicle.
@@ -5146,7 +5147,7 @@ The blocking minion gets -1 intercept.","","KMW:C, KoT:PT3","","Travis Ingram","
 This reacting vampire gains 2 votes.","Influence is neither good nor bad in an absolute manner, but only in relation to the one who experiences it.
 André Gide","Jyhad:C, VTES:C, Sabbat:C, SW:PL/PT, CE:C/PM","","David Fooden; Steve Casper",""
 "101910","Survivalist","","Ally","Brujah antitribu","","","2","","","","Mortal with 1 life. 0 strength, 0 bleed.
-Survivalist may strike for 2R damage. He may lock to give a Brujah antitribu you control a maneuver.","","Sabbat:U, SW:PB, Third:U","","Drew Tucker",""
+This ally can strike: 2R damage. He can lock to give a Brujah antitribu you control 1 maneuver.","","Sabbat:U, SW:PB, Third:U, POD:DTC","","Drew Tucker",""
 "101911","Suspension of Disbelief","","Action","","","Chimerstry","","","","","[chi] (D) Bleed with +1 bleed.
 [CHI] As above, and minion cards that reduce the bleed or change its target cost 1 additional blood or life.","","TU:C/A4","","James Richardson; Krasen Maximov",""
 "101912","Svadharma","","Master","Ravnos","","","","","","","Add 2 blood to a ready Ravnos.","Whatever Khalil told you was a lie... He doesn't care about anyone. He uses... people, things... He always gets what he wants...
@@ -5168,9 +5169,10 @@ Luther, Gangrel antitribu","BL:C2, LoB:C","","Ron Spencer",""
 "101917","Swiss Cut","","Master","Giovanni","","","","","","","Unique investment.
 Put this card in play with 2 blood. You can use a master phase action to move 1 blood from this card to your pool or to a ready Giovanni you control. After any Methuselah plays an investment card, add 1 blood to this card. Burn this card if it has no blood.","","LotN:R, POD:DTC","","Becky Jollensten",""
 "101918","Swoop","","Combat","","","Flight","","","","","Maneuver, only usable to go to close range, and this minion gets +1 strength on his or her initial strike this round. A minion may play only one Swoop each round.","As the Nosferatu howled in fury, Ferox swooped down again and crushed his ribcage. He stepped over the gurgling Sewer Rat and silently finished the job.","BL:R1, LoB:R","","Fred Hooper",""
-"101919","Sword of Judgment","","Equipment","Brujah antitribu","","","2","","","","Unique melee weapon.
-Strength+1 damage each strike, with an optional additional strike {(limited)} each round. Only usable by Brujah antitribu.","Justice is incidental to law and order.
-J. Edgar Hoover","Sabbat:R, SW:R/PB, Third:R","","Richard Thomas",""
+"101919","Sword of Judgment","","Equipment","Brujah antitribu","","","2","","","","Unique melee weapon. Only usable by a Brujah antitribu.
+The bearer gets 1 optional additional strike (limited) each round.
+Strike: strength+1 damage.","Justice is incidental to law and order.
+J. Edgar Hoover","Sabbat:R, SW:R/PB, Third:R, POD:DTC","","Richard Thomas",""
 "101920","Sword of Nuln","","Equipment","Tremere","","","1","","","","Unique melee weapon.
 Strike: strength damage. Vampires must spend twice the normal amount of blood to heal the damage from this weapon's strikes.","","Anarchs:R, KoT:R","","Jeff Holt",""
 "102261","Sword of the Archangel","","Equipment","Salubri","","","2","","","","Unique melee weapon.
@@ -5570,8 +5572,8 @@ During your unlock phase, a ready vampire you control can gain 1 blood. A vampir
 [FOR] Press or prevent 1 damage.","","LotN:C, KoT:C","","Brian LeBlanc",""
 "102069","Undying Thirst","","Reaction","Baali","","","","","","Y","Only usable if this Baali blocks, before block resolution.
 Put this card on the acting vampire. If there are any vampires in torpor that the attached vampire can diablerize, they cannot perform any action other than diablerie (although they are free not to perform any action). If they must hunt, they can choose to diablerize a vampire instead.","","KMW:R, POD:DTC","","Satyr",""
-"102070","Unexpected Coalition","","Action Modifier/Reaction","Brujah antitribu","","","","","","","Only usable during a referendum.
-Each ready Brujah antitribu gets an additional vote this referendum. When tallying results, if any Brujah antitribu cast any votes or ballots in opposition to this Brujah antitribu's votes or ballots (or if this Brujah antitribu abstains), none of the additional votes from this card are counted.","","SoC:C","","Thomas Manning",""
+"102070","Unexpected Coalition","","Action Modifier/Reaction","Brujah antitribu","","","","","","","Only usable during the polling step of a political action.
+Each Brujah antitribu gets +1 vote. When tallying results, if this Brujah antitribu abstains or 1 or more Brujah antitribu cast 1 or more votes or ballots in opposition to this Brujah antitribu, none of the additional votes from this card are counted.","","SoC:C, POD:DTC","","Thomas Manning",""
 "102071","Unflinching Persistence","","Combat","","","Fortitude","","","","","[for] Prevent 1 damage.
 [FOR] Maneuver, and this vampire can prevent 1 damage later this round.","","Jyhad:C, VTES:C, SW:PV, CE:C, Anarchs:PG4, LoB:PA2, HttB:PSal5, FB:PV2","","Brian Snoddy; Ron Spencer",""
 "102072","Unholy Penance","","Combat","","","Presence","","1","","","[pre] Strike: combat ends.
@@ -5657,9 +5659,9 @@ Each turn, when a vampire plays his or her first card that turn that requires an
 Choose an ally or younger non-titled vampire controlled by your prey. Successful referendum means that minion is burned. If this referendum fails or is canceled, no more Veles' Hunts can be played this game.","","KoT:R","","Ken Meyer, Jr.",""
 "102100","Velvet Tongue","","Action Modifier/Reaction","","","Serpentis","","","","","[ser] Only usable during the polling step of a political action. Put 1 corruption counter on a minion casting votes or ballots in this referendum.
 [SER] Only usable during the polling step of a political action before votes and ballots are cast. Minions with any corruption counters cannot cast votes or ballots during this referendum.","","TU:C/B4","","Ginés Quiñonero",""
-"102101","Vendetta","","Reaction","Brujah antitribu","","","","","","","Only usable when you are successfully bled for more than 2 pool.
-Put this card on the acting minion. Brujah antitribu get +1 strength in combat with the minion with this card. Any ready Brujah antitribu may enter combat with this vampire as a (D) action. Burn this card if this minion goes to torpor.","I will feed fat the ancient grudge I bear him.
-William Shakespeare, ""The Merchant of Venice"", act I, scene 3","BH:R2, Third:R2/PB1","","Peter Bergting",""
+"102101","Vendetta","","Reaction","Brujah antitribu","","","","","","","Only usable after a minion successfully bleeds you for 3 or more.
+Put this card on the acting minion. Brujah antitribu get +1 strength in combat with the attached minion. Brujah antitribu can enter combat with the attached minion as a (D) action. If the attached minion is in torpor, burn this card.","I will feed fat the ancient grudge I bear him.
+William Shakespeare, ""The Merchant of Venice"", act I, scene 3","BH:R2, Third:R2/PB1, POD:DTC","","Peter Bergting",""
 "102102","Veneficorum Artum Sanguis","","Equipment","","","","","","","","Unique equipment.
 The vampire with this equipment has superior Thaumaturgy [THA]. Any Tremere or Tremere antitribu may enter combat with the minion with this equipment as a (D) action.","","FN:R2, KoT:R","","Jeff Holt",""
 "102103","Veneficti","Veneficti (Mage)","Ally","Baali","","","1","","","Y","Unique mage with 2 life. 1 strength, 2 bleed. Requires an infernal vampire.
@@ -5810,8 +5812,8 @@ During your unlock phase, a ready vampire you control can gain 1 blood. A vampir
 Cancel a master card played by your predator or prey as it is played, and its cost is not paid. That Methuselah gets +1 master phase action immediately, or at the start of their next master phase if the canceled card is an out-of-turn master.","","Third:U, LotN:PS, KoT:U, SP:LB1","","Jeremy McHugh",""
 "102152","Wasserschloss Anif, Austria","","Master","Tremere","","","","","","","Unique location.
 During your master phase, a Tremere you control can move 1 blood from themselves to this card. Lock during your influence phase to move all counters on this card to a Tremere in your uncontrolled region. Any minion can burn this card as a (D) action; Malkavians get +1 stealth during that action.","","DS:U, CE:PTr, HttB:PGar, V5:PTr1","","Pete Burges & Dave Roach",""
-"102153","Waste Management Operation","","Master","Brujah antitribu","","","1","","","","Master: unique location.
-Lock during your discard phase to move a card from your ash heap to the bottom of your library.","","SW:U, Third:U","","Brian LeBlanc",""
+"102153","Waste Management Operation","","Master","Brujah antitribu","","","1","","","","Unique location.
+During your discard phase, you can lock this location to move a card from your ash heap to the bottom of your library.","","SW:U, Third:U, POD:DTC","","Brian LeBlanc",""
 "102154","Watch Commander","","Reaction","","","","","","","","Requires a Black Hand vampire. Only usable when attempting to block a {directed} action.
 +1 intercept.","One who is prepared and waits for the unprepared will be victorious.
 Sun Tzu, ""The Art of War""","BH:C","","Drew Tucker",""
